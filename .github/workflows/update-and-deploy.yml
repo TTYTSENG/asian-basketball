@@ -42,15 +42,8 @@ jobs:
       - name: Source health summary
         run: |
           python -c "import json,os; d=json.load(open('data/site.json')); print('Source issues:', d['errors']); open(os.environ['GITHUB_STEP_SUMMARY'],'a').write('Official source issues: '+str(d['errors']))"
-      - name: Prepare public website only
-        run: |
-          mkdir public
-          cp index.html basketball-analytics-handbook.html app.js reports.js advanced.js speech.js a11y.js style.css reading.css public/
-          cp -r downloads public/
-          mkdir -p public/data/reports
-          cp data/site.json public/data/
-          cp data/reports/*.json public/data/reports/
-          touch public/.nojekyll
+      - name: Build crawlable public HTML and daily report pages
+        run: python scripts/build_public.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
