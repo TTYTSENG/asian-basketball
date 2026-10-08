@@ -6,8 +6,8 @@
     start.disabled=true;status.textContent='此瀏覽器不支援朗讀';return;
   }
   let state='idle',generation=0,queue=[],current=null,lastSection=null;
-  function controls(message){start.disabled=state!=='idle';pause.disabled=stop.disabled=state==='idle';pause.textContent=state==='paused'?'繼續':'暫停';status.textContent=message}
-  function finish(message){generation++;state='idle';queue=[];current=null;synth.cancel();controls(message)}
+  function controls(message){start.disabled=state!=='idle';pause.disabled=stop.disabled=state==='idle';pause.textContent=state==='paused'?'繼續':'暫停';pause.setAttribute('aria-pressed',String(state==='paused'));status.textContent=message}
+  function finish(message){const restoreFocus=document.activeElement===pause||document.activeElement===stop;generation++;state='idle';queue=[];current=null;synth.cancel();controls(message);if(restoreFocus)start.focus({preventScroll:true})}
   document.getElementById('main').addEventListener('focusin',e=>{lastSection=e.target.closest('main>section')});
   function next(token){
     if(token!==generation||state==='idle')return;
@@ -27,7 +27,7 @@
       text=selected;label='選取文字';
     }else{
       const hash=document.getElementById(location.hash.slice(1));
-      const target=hash?.matches('main>section')?hash:lastSection||document.getElementById('main');
+      const target=hash?.matches('main section')?hash:lastSection||document.getElementById('main');
       // innerText includes visible content only; explicitly omit collapsed detail bodies.
       const clone=target.cloneNode(true);
       clone.querySelectorAll('[hidden],.sr-only,script,noscript').forEach(n=>n.remove());
@@ -39,7 +39,8 @@
     if(!text?.trim()){status.textContent='目前沒有可朗讀文字';return}
     // Bounded utterances prevent long reports from becoming one uninterruptible sentence.
     queue=text.replace(/\s+/g,' ').match(/[\s\S]{1,120}(?:[。！？；]|$)|[\s\S]{1,120}/g)||[];
-    generation++;synth.cancel();synth.resume();state='speaking';controls('朗讀：'+label);next(generation);
+    const moveFocus=document.activeElement===start;
+    generation++;synth.cancel();synth.resume();state='speaking';controls('朗讀：'+label);if(moveFocus)pause.focus({preventScroll:true});next(generation);
   });
   pause.addEventListener('click',()=>{
     if(state==='speaking'){state='paused';synth.pause();controls('已暫停朗讀')}
