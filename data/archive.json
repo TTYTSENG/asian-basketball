@@ -6106,6 +6106,38 @@
         "班提爾：8 分、0 助攻、0 抄截、0 阻攻、0 失誤",
         "忻沃克：4 分、0 助攻、0 抄截、0 阻攻、0 失誤"
       ],
+      "keyPlayers": [
+        {
+          "name": "杰倫",
+          "side": "away",
+          "points": 8,
+          "assists": 1,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "班提爾",
+          "side": "home",
+          "points": 8,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "忻沃克",
+          "side": "home",
+          "points": 4,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        }
+      ],
       "lineups": [
         {
           "side": "home",
@@ -6338,39 +6370,7 @@
           "25": {},
           "10873": {}
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "杰倫",
-          "side": "away",
-          "points": 8,
-          "assists": 1,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "班提爾",
-          "side": "home",
-          "points": 8,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "忻沃克",
-          "side": "home",
-          "points": 4,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        }
-      ]
+      }
     },
     "clockCorrections": 24,
     "pbpSource": "https://api.tpbl.basketball/api/games/8641/broadcasts",
@@ -12942,6 +12942,38 @@
         "湯普金斯：10 分、0 助攻、0 抄截、0 阻攻、1 失誤",
         "奧帝：3 分、0 助攻、0 抄截、0 阻攻、0 失誤"
       ],
+      "keyPlayers": [
+        {
+          "name": "杰倫",
+          "side": "home",
+          "points": 10,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "湯普金斯",
+          "side": "away",
+          "points": 10,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 1,
+          "turnovers_valid": true
+        },
+        {
+          "name": "奧帝",
+          "side": "home",
+          "points": 3,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        }
+      ],
       "lineups": [],
       "issues": {
         "absent_player": 3
@@ -13131,39 +13163,7 @@
           "95": {},
           "101": {}
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "杰倫",
-          "side": "home",
-          "points": 10,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "湯普金斯",
-          "side": "away",
-          "points": 10,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 1,
-          "turnovers_valid": true
-        },
-        {
-          "name": "奧帝",
-          "side": "home",
-          "points": 3,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        }
-      ]
+      }
     },
     "clockCorrections": 27,
     "pbpSource": "https://api.tpbl.basketball/api/games/8640/broadcasts",
@@ -19736,6 +19736,38 @@
         "喬納森：4 分、0 助攻、0 抄截、0 阻攻、0 失誤",
         "忻沃克：3 分、0 助攻、1 抄截、0 阻攻、0 失誤"
       ],
+      "keyPlayers": [
+        {
+          "name": "李愷諺",
+          "side": "home",
+          "points": 5,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "喬納森",
+          "side": "home",
+          "points": 4,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "忻沃克",
+          "side": "away",
+          "points": 3,
+          "assists": 0,
+          "steals": 1,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        }
+      ],
       "lineups": [],
       "issues": {
         "invalid_seconds": 1440
@@ -19957,39 +19989,7 @@
           "91": {},
           "101": {}
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "李愷諺",
-          "side": "home",
-          "points": 5,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "喬納森",
-          "side": "home",
-          "points": 4,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "忻沃克",
-          "side": "away",
-          "points": 3,
-          "assists": 0,
-          "steals": 1,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        }
-      ]
+      }
     },
     "clockCorrections": 32,
     "pbpSource": "https://api.tpbl.basketball/api/games/8637/broadcasts",
@@ -27009,6 +27009,38 @@
         "忻沃克：5 分、0 助攻、0 抄截、0 阻攻、0 失誤",
         "奧帝：5 分、0 助攻、0 抄截、0 阻攻、0 失誤"
       ],
+      "keyPlayers": [
+        {
+          "name": "林俊吉",
+          "side": "away",
+          "points": 5,
+          "assists": 1,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "忻沃克",
+          "side": "away",
+          "points": 5,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "奧帝",
+          "side": "home",
+          "points": 5,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        }
+      ],
       "lineups": [],
       "issues": {
         "missing_clock": 3
@@ -27206,39 +27238,7 @@
           "95": {},
           "101": {}
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "林俊吉",
-          "side": "away",
-          "points": 5,
-          "assists": 1,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "忻沃克",
-          "side": "away",
-          "points": 5,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "奧帝",
-          "side": "home",
-          "points": 5,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        }
-      ]
+      }
     },
     "clockCorrections": 50,
     "pbpSource": "https://api.tpbl.basketball/api/games/8638/broadcasts",
@@ -34647,6 +34647,38 @@
         "簡偉儒：3 分、0 助攻、0 抄截、0 阻攻、1 失誤",
         "簡祐哲：2 分、0 助攻、1 抄截、0 阻攻、0 失誤"
       ],
+      "keyPlayers": [
+        {
+          "name": "陳振傑",
+          "side": "home",
+          "points": 3,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "簡偉儒",
+          "side": "home",
+          "points": 3,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 1,
+          "turnovers_valid": true
+        },
+        {
+          "name": "簡祐哲",
+          "side": "away",
+          "points": 2,
+          "assists": 0,
+          "steals": 1,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        }
+      ],
       "lineups": [
         {
           "side": "away",
@@ -34917,39 +34949,7 @@
           },
           "25": {}
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "陳振傑",
-          "side": "home",
-          "points": 3,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "簡偉儒",
-          "side": "home",
-          "points": 3,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 1,
-          "turnovers_valid": true
-        },
-        {
-          "name": "簡祐哲",
-          "side": "away",
-          "points": 2,
-          "assists": 0,
-          "steals": 1,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        }
-      ]
+      }
     },
     "clockCorrections": 26,
     "pbpSource": "https://api.tpbl.basketball/api/games/8639/broadcasts",
@@ -41455,6 +41455,38 @@
         "伯朗：3 分、0 助攻、0 抄截、0 阻攻、0 失誤",
         "白曜誠：3 分、0 助攻、0 抄截、0 阻攻、0 失誤"
       ],
+      "keyPlayers": [
+        {
+          "name": "柯瓦隆",
+          "side": "away",
+          "points": 5,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 1,
+          "turnovers_valid": true
+        },
+        {
+          "name": "伯朗",
+          "side": "home",
+          "points": 3,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "白曜誠",
+          "side": "home",
+          "points": 3,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        }
+      ],
       "lineups": [
         {
           "side": "home",
@@ -41726,39 +41758,7 @@
           "507": {},
           "515": {}
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "柯瓦隆",
-          "side": "away",
-          "points": 5,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 1,
-          "turnovers_valid": true
-        },
-        {
-          "name": "伯朗",
-          "side": "home",
-          "points": 3,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "白曜誠",
-          "side": "home",
-          "points": 3,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        }
-      ]
+      }
     },
     "clockCorrections": 16,
     "identityCorrections": 35,
@@ -47895,6 +47895,38 @@
         "盧峻翔：4 分、0 助攻、0 抄截、0 阻攻（失誤紀錄需核對）",
         "翟蒙：3 分、1 助攻、1 抄截、0 阻攻（失誤紀錄需核對）"
       ],
+      "keyPlayers": [
+        {
+          "name": "伯朗",
+          "side": "home",
+          "points": 5,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": false
+        },
+        {
+          "name": "盧峻翔",
+          "side": "home",
+          "points": 4,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 1,
+          "turnovers_valid": false
+        },
+        {
+          "name": "翟蒙",
+          "side": "away",
+          "points": 3,
+          "assists": 1,
+          "steals": 1,
+          "blocks": 0,
+          "turnovers": 1,
+          "turnovers_valid": false
+        }
+      ],
       "lineups": [
         {
           "side": "home",
@@ -48160,39 +48192,7 @@
           "499": {},
           "441": {}
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "伯朗",
-          "side": "home",
-          "points": 5,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": false
-        },
-        {
-          "name": "盧峻翔",
-          "side": "home",
-          "points": 4,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 1,
-          "turnovers_valid": false
-        },
-        {
-          "name": "翟蒙",
-          "side": "away",
-          "points": 3,
-          "assists": 1,
-          "steals": 1,
-          "blocks": 0,
-          "turnovers": 1,
-          "turnovers_valid": false
-        }
-      ]
+      }
     },
     "clockCorrections": 2,
     "identityCorrections": 43,
@@ -54520,6 +54520,7 @@
     ],
     "report": {
       "key": [],
+      "keyPlayers": [],
       "lineups": [],
       "issues": {
         "invalid_seconds": 519,
@@ -54734,8 +54735,7 @@
           "40": {},
           "48": {}
         }
-      },
-      "keyPlayers": []
+      }
     },
     "clockCorrections": 1,
     "identityCorrections": 25,
@@ -60770,6 +60770,38 @@
         "李漢昇：3 分、0 助攻、0 抄截、0 阻攻（失誤紀錄需核對）",
         "柯麥隆：2 分、1 助攻、1 抄截、0 阻攻（失誤紀錄需核對）"
       ],
+      "keyPlayers": [
+        {
+          "name": "李家慷",
+          "side": "home",
+          "points": 8,
+          "assists": 0,
+          "steals": 1,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": false
+        },
+        {
+          "name": "李漢昇",
+          "side": "away",
+          "points": 3,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": false
+        },
+        {
+          "name": "柯麥隆",
+          "side": "away",
+          "points": 2,
+          "assists": 1,
+          "steals": 1,
+          "blocks": 0,
+          "turnovers": 1,
+          "turnovers_valid": false
+        }
+      ],
       "lineups": [
         {
           "side": "home",
@@ -61035,39 +61067,7 @@
           "496": {},
           "456": {}
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "李家慷",
-          "side": "home",
-          "points": 8,
-          "assists": 0,
-          "steals": 1,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": false
-        },
-        {
-          "name": "李漢昇",
-          "side": "away",
-          "points": 3,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": false
-        },
-        {
-          "name": "柯麥隆",
-          "side": "away",
-          "points": 2,
-          "assists": 1,
-          "steals": 1,
-          "blocks": 0,
-          "turnovers": 1,
-          "turnovers_valid": false
-        }
-      ]
+      }
     },
     "clockCorrections": 2,
     "identityCorrections": 15,
@@ -67115,6 +67115,38 @@
         "張伯維：4 分、0 助攻、0 抄截、0 阻攻（失誤紀錄需核對）",
         "飛鬥士：2 分、1 助攻、1 抄截、0 阻攻（失誤紀錄需核對）"
       ],
+      "keyPlayers": [
+        {
+          "name": "翟蒙",
+          "side": "away",
+          "points": 4,
+          "assists": 0,
+          "steals": 1,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": false
+        },
+        {
+          "name": "張伯維",
+          "side": "home",
+          "points": 4,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 1,
+          "turnovers_valid": false
+        },
+        {
+          "name": "飛鬥士",
+          "side": "away",
+          "points": 2,
+          "assists": 1,
+          "steals": 1,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": false
+        }
+      ],
       "lineups": [
         {
           "side": "home",
@@ -67413,39 +67445,7 @@
             "blocks": 0
           }
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "翟蒙",
-          "side": "away",
-          "points": 4,
-          "assists": 0,
-          "steals": 1,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": false
-        },
-        {
-          "name": "張伯維",
-          "side": "home",
-          "points": 4,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 1,
-          "turnovers_valid": false
-        },
-        {
-          "name": "飛鬥士",
-          "side": "away",
-          "points": 2,
-          "assists": 1,
-          "steals": 1,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": false
-        }
-      ]
+      }
     },
     "clockCorrections": 4,
     "identityCorrections": 72,
@@ -77594,6 +77594,38 @@
         "富永 啓生：4 分、0 助攻、0 抄截、0 阻攻、0 失誤",
         "岡田 侑大：3 分、0 助攻、0 抄截、0 阻攻、0 失誤"
       ],
+      "keyPlayers": [
+        {
+          "name": "デクスター・デニス",
+          "side": "home",
+          "points": 11,
+          "assists": 0,
+          "steals": 1,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "富永 啓生",
+          "side": "away",
+          "points": 4,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "岡田 侑大",
+          "side": "home",
+          "points": 3,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        }
+      ],
       "lineups": [
         {
           "side": "away",
@@ -77829,39 +77861,7 @@
           },
           "51000349": {}
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "デクスター・デニス",
-          "side": "home",
-          "points": 11,
-          "assists": 0,
-          "steals": 1,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "富永 啓生",
-          "side": "away",
-          "points": 4,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "岡田 侑大",
-          "side": "home",
-          "points": 3,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        }
-      ]
+      }
     },
     "pbpSource": "https://www.bleague.jp/game_detail/?ScheduleKey=506436#playbyplay",
     "advanced": {
@@ -83663,6 +83663,38 @@
         "ラウリー・アルキンズ：2 分、1 助攻、0 抄截、0 阻攻、0 失誤",
         "野本 大智：2 分、1 助攻、0 抄截、0 阻攻、0 失誤"
       ],
+      "keyPlayers": [
+        {
+          "name": "田中 大貴",
+          "side": "away",
+          "points": 7,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "ラウリー・アルキンズ",
+          "side": "away",
+          "points": 2,
+          "assists": 1,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "野本 大智",
+          "side": "home",
+          "points": 2,
+          "assists": 1,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        }
+      ],
       "lineups": [
         {
           "side": "home",
@@ -83907,39 +83939,7 @@
           "42616": {},
           "8493": {}
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "田中 大貴",
-          "side": "away",
-          "points": 7,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "ラウリー・アルキンズ",
-          "side": "away",
-          "points": 2,
-          "assists": 1,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "野本 大智",
-          "side": "home",
-          "points": 2,
-          "assists": 1,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        }
-      ]
+      }
     },
     "pbpSource": "https://www.bleague.jp/game_detail/?ScheduleKey=506434#playbyplay",
     "advanced": {
@@ -89190,6 +89190,38 @@
         "ティム・ソアレス：3 分、0 助攻、1 抄截、0 阻攻、0 失誤",
         "メイヨ ニック：3 分、0 助攻、0 抄截、0 阻攻、0 失誤"
       ],
+      "keyPlayers": [
+        {
+          "name": "ヴィック・ロー",
+          "side": "home",
+          "points": 5,
+          "assists": 2,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 1,
+          "turnovers_valid": true
+        },
+        {
+          "name": "ティム・ソアレス",
+          "side": "home",
+          "points": 3,
+          "assists": 0,
+          "steals": 1,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "メイヨ ニック",
+          "side": "away",
+          "points": 3,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        }
+      ],
       "lineups": [
         {
           "side": "home",
@@ -89392,39 +89424,7 @@
           "51000563": {},
           "8483": {}
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "ヴィック・ロー",
-          "side": "home",
-          "points": 5,
-          "assists": 2,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 1,
-          "turnovers_valid": true
-        },
-        {
-          "name": "ティム・ソアレス",
-          "side": "home",
-          "points": 3,
-          "assists": 0,
-          "steals": 1,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "メイヨ ニック",
-          "side": "away",
-          "points": 3,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        }
-      ]
+      }
     },
     "pbpSource": "https://www.bleague.jp/game_detail/?ScheduleKey=506432#playbyplay",
     "advanced": {
@@ -94948,6 +94948,38 @@
         "岸本 隆一：6 分、0 助攻、0 抄截、0 阻攻、0 失誤",
         "アミール・シムズ：4 分、0 助攻、0 抄截、0 阻攻、0 失誤"
       ],
+      "keyPlayers": [
+        {
+          "name": "ブライアン・アンゴラ",
+          "side": "home",
+          "points": 9,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 1,
+          "turnovers_valid": true
+        },
+        {
+          "name": "岸本 隆一",
+          "side": "away",
+          "points": 6,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "アミール・シムズ",
+          "side": "home",
+          "points": 4,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        }
+      ],
       "lineups": [
         {
           "side": "home",
@@ -95216,39 +95248,7 @@
             "blocks": 0
           }
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "ブライアン・アンゴラ",
-          "side": "home",
-          "points": 9,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 1,
-          "turnovers_valid": true
-        },
-        {
-          "name": "岸本 隆一",
-          "side": "away",
-          "points": 6,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "アミール・シムズ",
-          "side": "home",
-          "points": 4,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        }
-      ]
+      }
     },
     "pbpSource": "https://www.bleague.jp/game_detail/?ScheduleKey=506433#playbyplay",
     "advanced": {
@@ -103385,6 +103385,38 @@
         "佐藤 卓磨：4 分、0 助攻、0 抄截、0 阻攻、1 失誤",
         "木下 誠：3 分、0 助攻、0 抄截、0 阻攻、0 失誤"
       ],
+      "keyPlayers": [
+        {
+          "name": "マイク・コッツァー",
+          "side": "away",
+          "points": 4,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "佐藤 卓磨",
+          "side": "away",
+          "points": 4,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 1,
+          "turnovers_valid": true
+        },
+        {
+          "name": "木下 誠",
+          "side": "home",
+          "points": 3,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        }
+      ],
       "lineups": [
         {
           "side": "away",
@@ -103593,39 +103625,7 @@
           "51000468": {},
           "30443": {}
         }
-      },
-      "keyPlayers": [
-        {
-          "name": "マイク・コッツァー",
-          "side": "away",
-          "points": 4,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        },
-        {
-          "name": "佐藤 卓磨",
-          "side": "away",
-          "points": 4,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 1,
-          "turnovers_valid": true
-        },
-        {
-          "name": "木下 誠",
-          "side": "home",
-          "points": 3,
-          "assists": 0,
-          "steals": 0,
-          "blocks": 0,
-          "turnovers": 0,
-          "turnovers_valid": true
-        }
-      ]
+      }
     },
     "pbpSource": "https://www.bleague.jp/game_detail/?ScheduleKey=506435#playbyplay",
     "advanced": {
