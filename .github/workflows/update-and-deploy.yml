@@ -45,7 +45,7 @@ jobs:
       - name: Prepare public website only
         run: |
           mkdir public
-          cp index.html app.js reports.js advanced.js speech.js a11y.js style.css reading.css public/
+          cp index.html basketball-analytics-handbook.html app.js reports.js advanced.js speech.js a11y.js style.css reading.css public/
           cp -r downloads public/
           mkdir -p public/data/reports
           cp data/site.json public/data/
