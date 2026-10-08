@@ -1,0 +1,11 @@
+.cache/
+__pycache__/
+*.pyc
+node_modules/
+public/
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm
+.venv/
+backups/
+exports/
