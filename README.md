@@ -85,3 +85,9 @@ python -m http.server 8765
 語音使用瀏覽器內建 Web Speech API，優先選擇本機繁體中文語音，沒有該語音時由可用中文語音或瀏覽器預設處理。語音品質及是否可播放依裝置與瀏覽器提供；沒有語音或播放失敗會提示。不需付費語音 API。技術參考：[MDN SpeechSynthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)。
 
 進階分析七項使用一致的編號、方法說明及卡片格式。前三項依使用者提供的模擬戰報參考外觀；數字仍來自官方資料，保留原有排序與變化門檻。組合個人近三場表格預設展開，可收合。資料更新會自動匯出 `keyPlayers`、`lineups` 與 `playerChanges` 結構供頁面呈現。
+
+## 可直接讀取的 HTML 與日報
+
+部署時先完成官方資料更新，再執行 `python scripts/build_public.py`。輸出 `public/` 包含靜態首頁、依日期的日報全文、JSON-LD、canonical、sitemap.xml、feed.xml 及專案範圍的 llms.txt。原有 JavaScript 仍可重新讀取最新 JSON；讀取失敗時保留靜態內容。發布目錄排除 SQLite 與完整歷史資料。
+
+有效 robots.txt 必須在 `https://ttytseng.github.io/robots.txt`，不能在專案子路徑代替。本站未改動其他使用者 Pages 專案。`llms.txt` 是內容索引，不能保證 AI 引用。
