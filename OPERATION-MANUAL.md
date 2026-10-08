@@ -4,7 +4,7 @@
 
 ## 1. 先了解目前狀態
 
-網站、資料庫、資料更新程式及 GitHub Pages 工作流程已完成本機建置。尚未建立 GitHub 儲存庫，因此雲端排程與公開網址尚未啟用。本機預覽在電腦關機或預覽伺服器停止後不能開啟；單純開啟網站不會抓取新資料。
+網站已於 2026-10-08 發布至 https://ttytseng.github.io/asian-basketball/；儲存庫為 https://github.com/TTYTSENG/asian-basketball。首次雲端官網更新、24 項測試、SQLite 保存與 Pages 部署成功，來源錯誤為空。每日兩次排程已配置，首次定時觸發仍待驗證。本機預覽在電腦關機或預覽伺服器停止後不能開啟；單純開啟網站不會抓取新資料。
 
 資料流程：官方網站 → Python 擷取與驗證 → SQLite 保存 → JSON 匯出與日報 → 網頁顯示。GitHub Pages 顯示靜態檔案；讀者瀏覽器不會直接查詢或寫入 SQLite。
 

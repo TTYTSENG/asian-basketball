@@ -38,7 +38,7 @@ SQLite 已保存完整已取得賽程及歷史個人統計；六項資料庫測�
 
 ## 尚未驗證
 
-- GitHub 儲存庫尚未建立，未能執行雲端 Actions、Pages 實際部署與排程觸發。
+- 已完成首次雲端 Actions 與 Pages 部署；首次定時排程觸發仍待驗證。
 - axe 不代表完整 WCAG 認證；尚未由實際視障使用者或螢幕閱讀器人工驗收。
 - 未從中國境內網路實測 GitHub Pages 的可達性。
 
@@ -49,3 +49,12 @@ SQLite 已保存完整已取得賽程及歷史個人統計；六項資料庫測�
 - 標準、高對比、深色於 200% 字級再次執行 axe WCAG 2 A/AA、2.1 A/AA、2.2 AA 標籤檢查，均無檢出違規；320px、200% 無整頁水平溢出，設定列可水平捲動並由鍵盤帶出按鈕。
 - 在 Chrome 用可控 SpeechSynthesis 測試替身驗證：不自動播放、區塊選擇、文字選取、分段佇列、暫停／繼續、停止、過期回呼不重啟、播放完成、錯誤恢復、切換導覽停止、不支援提示。這是控制邏輯測試，沒有實際聆聽裝置語音；實機語音與視障使用者操作仍待人工驗收。
 - GitHub Pages 工作流程加入 `reports.js`、`speech.js` 發布清單，下載 ZIP 同步更新。雲端部署仍待建立儲存庫。
+
+## 2026-10-08 正式發布驗證
+
+- 儲存庫：https://github.com/TTYTSENG/asian-basketball。
+- 正式網站：https://ttytseng.github.io/asian-basketball/。
+- 首次工作流程：https://github.com/TTYTSENG/asian-basketball/actions/runs/37768705060；所有步驟成功，24 項測試通過，官方來源錯誤為空。
+- GitHub 已保存雲端更新的 SQLite 與 2026-10-08 日報；正式頁面已顯示九場戰報、63 項分析。
+- 35 個上傳檔案比對一致（文字正規化 Git 換行，SQLite 與 PDF 逐位元比對）。本機已同步首次雲端資料。
+- Actions 每日 07:17、09:47 臺北時間排程已配置，仍待首次定時觸發。

@@ -15,7 +15,7 @@
 5. 若初次上傳的工作流程已執行但 Pages 設定未完成，到 **Actions → Official data and GitHub Pages → Run workflow** 執行一次。
 6. 部署成功後，網址為 `https://你的帳號.github.io/asian-basketball/`。往後依排程執行，無須每日手動更新。
 
-目前尚未建立遠端儲存庫，因此 GitHub 雲端排程、Linux 網路存取與公開部署**尚未實機驗證**；本機已使用真實官方資料執行更新及瀏覽器測試。
+已於 2026-10-08 發布：網站 https://ttytseng.github.io/asian-basketball/；儲存庫 https://github.com/TTYTSENG/asian-basketball。首次 GitHub Actions 已通過 24 項測試、官網擷取、SQLite 保存與資料驗證，並成功部署；來源錯誤為空。排程已配置，首次定時觸發仍待到排程時間。
 
 ## 更新時程與零成本條件
 
