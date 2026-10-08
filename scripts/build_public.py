@@ -53,10 +53,13 @@ def guides(data):return ''.join('<article class="guide"><h3>'+e(g['name'])+'</h3
 def news(data):return ''.join('<article><h4>'+e(n['name'])+'</h4><ul>'+''.join('<li>'+link(x['title'],x['url'])+(' · '+e(x['date']) if x.get('date') else '')+'</li>' for x in n['items'])+'</ul>'+link('官方新聞入口',n['source'])+'</article>' for n in data['news'])
 def meta(url,title,desc,graph):return f'<link rel="canonical" href="{e(url)}"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:url" content="{e(url)}"><meta property="og:type" content="website"><meta property="og:locale" content="zh_TW"><meta name="author" content="凸肚男"><script type="application/ld+json">'+json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False).replace('<','\\u003c')+'</script><link rel="alternate" type="application/rss+xml" title="籃球日報" href="'+BASE+'/feed.xml">'
 def write(public,path,text):
+    if path.endswith('.html') and 'webmcp.js' not in text:
+        script='../webmcp.js' if path.startswith('reports/') else './webmcp.js'
+        text=text.replace('</head>','<script src="'+script+'" defer></script></head>')
     p=public/path;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(text,encoding='utf8')
 def build(public):
     data=json.loads((ROOT/'data/site.json').read_text(encoding='utf8'));public.mkdir(exist_ok=True)
-    for name in ['index.html','basketball-analytics-handbook.html','app.js','reports.js','advanced.js','speech.js','a11y.js','style.css','reading.css']:shutil.copy2(ROOT/name,public/name)
+    for name in ['index.html','basketball-analytics-handbook.html','app.js','reports.js','advanced.js','speech.js','a11y.js','style.css','reading.css','webmcp.js']:shutil.copy2(ROOT/name,public/name)
     shutil.copytree(ROOT/'downloads',public/'downloads',dirs_exist_ok=True)
     (public/'data/reports').mkdir(parents=True,exist_ok=True);shutil.copy2(ROOT/'data/site.json',public/'data/site.json')
     reports=sorted((ROOT/'data/reports').glob('*.json'))
@@ -67,6 +70,7 @@ def build(public):
     text=text.replace('</head>',meta(BASE+'/',NAME+'｜凸肚男','官方賽程、賽後數據與每日分析。',[AUTHOR,{'@type':'WebSite','name':NAME,'url':BASE+'/','inLanguage':'zh-Hant','publisher':{'@id':AUTHOR['@id']}},{'@type':'WebPage','name':NAME,'url':BASE+'/','dateModified':data['generatedAt'],'author':{'@id':AUTHOR['@id']}}])+'</head>')
     text=text.replace('id="updated">','id="updated">靜態資料發布時間：'+e(data['generatedAt'])+' · ')
     text=text.replace('</main>','<section><h2>日期日報與資料來源</h2><p><a href="reports/">依日期閱讀完整日報</a> · <a href="feed.xml">RSS 訂閱</a></p></section></main>')
+    text=text.replace('</main>','<section><h2>AI 賽事資料查詢</h2><p data-webmcp-status>在支援網站工具的 AI 瀏覽器中，可查聯盟賽程、指定日期日報及比賽分析。回傳結果包含官方來源與資料時間。</p></section></main>')
     write(public,'index.html',text)
     rows=[];urls=[BASE+'/',BASE+'/basketball-analytics-handbook.html',BASE+'/reports/'];items=[]
     for p in reports:
