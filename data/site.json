@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T10:58:07+08:00",
+  "generatedAt": "2026-10-09T16:00:23+08:00",
   "asOf": "2026-10-09",
   "leagues": [
     {
@@ -14,8 +14,8 @@
           "home": "新北中信特攻",
           "away": "高雄全家海神",
           "score": [
-            null,
-            null
+            78,
+            82
           ],
           "source": "https://tpbl.basketball/games/27535",
           "time": "14:30",
@@ -5127,7 +5127,7 @@
           "quality": "資料驗證限制：陣容人數不足的秒數 1440；受影響指標停止判定。 官方事件時間不一致，按事件順序校正 32 筆；共同上場時間為重建值。"
         }
       ],
-      "lastSuccess": "2026-10-09T10:58:07+08:00"
+      "lastSuccess": "2026-10-09T16:00:23+08:00"
     },
     {
       "id": "plg",
@@ -13162,7 +13162,7 @@
           "quality": "資料驗證限制：球員失誤紀錄不符 1；受影響指標停止判定。 官方事件時間不一致，按事件順序校正 2 筆；共同上場時間為重建值。 以官方名單中唯一相同姓名校正背號／隊別 15 筆。"
         }
       ],
-      "lastSuccess": "2026-10-09T10:58:07+08:00"
+      "lastSuccess": "2026-10-09T16:00:23+08:00"
     },
     {
       "id": "b",
@@ -18467,7 +18467,7 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。"
         }
       ],
-      "lastSuccess": "2026-10-09T10:58:07+08:00"
+      "lastSuccess": "2026-10-09T16:00:23+08:00"
     }
   ],
   "news": [
@@ -18488,7 +18488,7 @@
           "url": "https://www.easl.basketball/news/game-preview-everything-to-know-about-easl-opening-day-double-header-games-macau-hau-chon-vs-taipei-fubon-braves-group-b-abra-weavers-vs-hong-kong-eastern-group-c-october-3-2026"
         }
       ],
-      "lastSuccess": "2026-10-09T10:58:07+08:00"
+      "lastSuccess": "2026-10-09T16:00:23+08:00"
     },
     {
       "name": "CBA",
@@ -18510,7 +18510,7 @@
           "date": "2026-09-05"
         }
       ],
-      "lastSuccess": "2026-10-09T10:58:07+08:00"
+      "lastSuccess": "2026-10-09T16:00:23+08:00"
     },
     {
       "name": "FIBA 亞洲賽事",
@@ -18529,7 +18529,7 @@
           "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/2027-wcq-asia-august-31-game-center"
         }
       ],
-      "lastSuccess": "2026-10-09T10:58:07+08:00"
+      "lastSuccess": "2026-10-09T16:00:23+08:00"
     }
   ],
   "guides": [
