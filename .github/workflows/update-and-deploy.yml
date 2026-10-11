@@ -4,9 +4,8 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    # 07:17 and 09:47 Taipei; second run retries delayed official statistics.
-    - cron: '17 23 * * *'
-    - cron: '47 1 * * *'
+        # Daily at 23:00 Asia/Taipei (UTC+8), equivalent to 15:00 UTC.
+    - cron: '0 15 * * *'
 permissions:
   contents: write
   pages: write
