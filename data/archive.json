@@ -301170,7 +301170,7 @@
       {
         "period": 1,
         "sec": 71,
-        "side": "away",
+        "side": "home",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -301727,7 +301727,7 @@
       {
         "period": 2,
         "sec": 172,
-        "side": "away",
+        "side": "home",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -303669,7 +303669,7 @@
       {
         "period": 4,
         "sec": 78,
-        "side": "away",
+        "side": "home",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -305120,7 +305120,7 @@
       {
         "period": 1,
         "sec": 428,
-        "side": "home",
+        "side": "away",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -307485,7 +307485,7 @@
       {
         "period": 3,
         "sec": 201,
-        "side": "home",
+        "side": "away",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -307997,7 +307997,7 @@
       {
         "period": 4,
         "sec": 428,
-        "side": "home",
+        "side": "away",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -308696,7 +308696,8 @@
         "invalid_seconds": 870,
         "absent_player": 9,
         "box_fga": 3,
-        "box_turnovers": 3
+        "box_turnovers": 3,
+        "missing_clock": 1
       },
       "counts": {
         "home": {
@@ -310141,7 +310142,7 @@
       {
         "period": 1,
         "sec": 329,
-        "side": "away",
+        "side": "home",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -313771,7 +313772,8 @@
         "invalid_seconds": 416,
         "unknown_score": 14,
         "box_turnovers": 2,
-        "box_fga": 8
+        "box_fga": 8,
+        "missing_clock": 1
       },
       "counts": {
         "home": {
@@ -317041,7 +317043,7 @@
       {
         "period": 1,
         "sec": 132,
-        "side": "home",
+        "side": "away",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -317113,7 +317115,7 @@
       {
         "period": 1,
         "sec": 87,
-        "side": "away",
+        "side": "home",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -317355,7 +317357,7 @@
       {
         "period": 2,
         "sec": 579,
-        "side": "home",
+        "side": "away",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -318668,7 +318670,7 @@
       {
         "period": 3,
         "sec": 303,
-        "side": "home",
+        "side": "away",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -319522,7 +319524,7 @@
       {
         "period": 4,
         "sec": 321,
-        "side": "away",
+        "side": "home",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -322724,7 +322726,7 @@
       {
         "period": 2,
         "sec": 323,
-        "side": "away",
+        "side": "home",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -324414,7 +324416,7 @@
       {
         "period": 4,
         "sec": 457,
-        "side": "away",
+        "side": "home",
         "pid": "",
         "name": "",
         "kind": "DREB",
@@ -325221,7 +325223,8 @@
         "invalid_seconds": 745,
         "unknown_score": 26,
         "box_fga": 5,
-        "box_turnovers": 7
+        "box_turnovers": 7,
+        "missing_clock": 1
       },
       "counts": {
         "home": {

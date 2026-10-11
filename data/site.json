@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T21:17:15+08:00",
+  "generatedAt": "2026-10-11T21:18:14+08:00",
   "asOf": "2026-10-11",
   "leagues": [
     {
@@ -4461,7 +4461,7 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。 官方事件時間不一致，按事件順序校正 18 筆；共同上場時間為重建值。"
         }
       ],
-      "lastSuccess": "2026-10-11T21:17:15+08:00"
+      "lastSuccess": "2026-10-11T21:18:14+08:00"
     },
     {
       "id": "plg",
@@ -12496,7 +12496,7 @@
           "quality": "資料驗證限制：球員失誤紀錄不符 1；受影響指標停止判定。 官方事件時間不一致，按事件順序校正 2 筆；共同上場時間為重建值。 以官方名單中唯一相同姓名校正背號／隊別 38 筆。"
         }
       ],
-      "lastSuccess": "2026-10-11T21:17:15+08:00"
+      "lastSuccess": "2026-10-11T21:18:14+08:00"
     },
     {
       "id": "b",
@@ -21835,7 +21835,7 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。"
         }
       ],
-      "lastSuccess": "2026-10-11T21:17:15+08:00"
+      "lastSuccess": "2026-10-11T21:18:14+08:00"
     },
     {
       "id": "cba",
@@ -21868,7 +21868,7 @@
           "away": "北京首钢",
           "score": [
             79,
-            81
+            83
           ],
           "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110436&date=2026-10-11&isToMatch=0",
           "time": "19:30",
@@ -21885,7 +21885,7 @@
           "home": "辽宁本钢",
           "away": "四川锦城",
           "score": [
-            96,
+            99,
             66
           ],
           "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110451&date=2026-10-11&isToMatch=0",
@@ -23160,7 +23160,7 @@
           "lineups": [],
           "keyPlayers": [],
           "playerChanges": [],
-          "quality": "資料驗證限制：出手球員不在重建陣容 12、陣容人數不足的秒數 416、陣容不明的得分事件 14、球員失誤紀錄不符 2、球員出手數不符 8；受影響指標停止判定。"
+          "quality": "資料驗證限制：出手球員不在重建陣容 12、陣容人數不足的秒數 416、陣容不明的得分事件 14、球員失誤紀錄不符 2、球員出手數不符 8、缺少事件時間 1；受影響指標停止判定。"
         },
         {
           "league": "cba",
@@ -23749,7 +23749,7 @@
           "lineups": [],
           "keyPlayers": [],
           "playerChanges": [],
-          "quality": "資料驗證限制：陣容不明的得分事件 45、陣容人數不足的秒數 870、出手球員不在重建陣容 9、球員出手數不符 3、球員失誤紀錄不符 3；受影響指標停止判定。"
+          "quality": "資料驗證限制：陣容不明的得分事件 45、陣容人數不足的秒數 870、出手球員不在重建陣容 9、球員出手數不符 3、球員失誤紀錄不符 3、缺少事件時間 1；受影響指標停止判定。"
         },
         {
           "league": "cba",
@@ -24868,10 +24868,10 @@
           "lineups": [],
           "keyPlayers": [],
           "playerChanges": [],
-          "quality": "資料驗證限制：出手球員不在重建陣容 33、陣容人數不足的秒數 745、陣容不明的得分事件 26、球員出手數不符 5、球員失誤紀錄不符 7；受影響指標停止判定。"
+          "quality": "資料驗證限制：出手球員不在重建陣容 33、陣容人數不足的秒數 745、陣容不明的得分事件 26、球員出手數不符 5、球員失誤紀錄不符 7、缺少事件時間 1；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-10-11T21:17:15+08:00"
+      "lastSuccess": "2026-10-11T21:18:14+08:00"
     }
   ],
   "news": [
@@ -24892,7 +24892,7 @@
           "url": "https://www.easl.basketball/news/game-preview-everything-to-know-about-easl-opening-day-double-header-games-macau-hau-chon-vs-taipei-fubon-braves-group-b-abra-weavers-vs-hong-kong-eastern-group-c-october-3-2026"
         }
       ],
-      "lastSuccess": "2026-10-11T21:17:15+08:00"
+      "lastSuccess": "2026-10-11T21:18:14+08:00"
     },
     {
       "name": "CBA",
@@ -24914,7 +24914,7 @@
           "date": "2026-09-05"
         }
       ],
-      "lastSuccess": "2026-10-11T21:17:15+08:00"
+      "lastSuccess": "2026-10-11T21:18:14+08:00"
     },
     {
       "name": "FIBA 亞洲賽事",
@@ -24933,7 +24933,7 @@
           "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/2027-wcq-asia-august-31-game-center"
         }
       ],
-      "lastSuccess": "2026-10-11T21:17:15+08:00"
+      "lastSuccess": "2026-10-11T21:18:14+08:00"
     }
   ],
   "guides": [
