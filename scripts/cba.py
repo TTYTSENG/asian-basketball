@@ -49,7 +49,7 @@ def schedule(today):
             out[gid]=g
     return list(out.values())
 
-def parse_events(rows,players,score):
+def parse_events(rows,players,score,teams=None):
     identities={}
     for side,ps in players.items():
         for p in ps:identities.setdefault(p['name'],[]).append((side,p['id']))
@@ -98,8 +98,9 @@ def parse_events(rows,players,score):
         # Team rebounds still terminate/extend an ATO possession when side is known.
         for suffix,kind in [('队抢到进攻篮板','OREB'),('队获得防守篮板','DREB')]:
             if suffix in text:
-                color_side='home' if r.get('color')==r.get('homeColor') else 'away'
-                add(kind,s=color_side,p='',name='')
+                team_sides=[s for s,name in (teams or {}).items() if name+suffix in text]
+                if len(team_sides)==1:add(kind,s=team_sides[0],p='',name='')
+                else:unknown+=1
     if [previous['home'],previous['away']]!=score:unknown+=1
     return events,unknown
 
@@ -132,7 +133,7 @@ def game(g,detail=True):
                 if offset>=result['total']:break
             else:raise ValueError('CBA event pagination incomplete')
             if not rows:raise ValueError('CBA play-by-play missing')
-            events,unknown=parse_events(rows,players,g['score'])
+            events,unknown=parse_events(rows,players,g['score'],{s:g[s] for s in ('home','away')})
             qsec=max(r['minutes']*60+r['seconds'] for r in rows if r['quarterNum']==1)
             if qsec not in (600,720):raise ValueError('CBA period duration unavailable')
             g['events']=period_ends(events);g['report']=analyze(g['events'],players,g['score'],qsec,starters);g['pbpSource']=g['source'];g['periodSeconds']=qsec
@@ -140,5 +141,7 @@ def game(g,detail=True):
                 g['report']['issues']['unparsed_events']=unknown;g['report']['key']=[];g['report']['keyPlayers']=[];g['report']['lineups']=[]
                 # Block ATO when an event/clock/score cannot be reconstructed.
                 g['report']['issues']['missing_clock']=unknown
+            if g['report']['issues'].get('box_fga'):
+                g['report']['issues']['missing_clock']=max(1,g['report']['issues'].get('missing_clock',0))
         except Exception as exc:g['detailError']=str(exc)[:160]
     g['advanced']=metrics(g);return g
