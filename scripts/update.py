@@ -5,10 +5,12 @@ from datetime import datetime,timedelta
 from concurrent.futures import ThreadPoolExecutor,as_completed
 from sources import TZ,tpbl_schedule,plg_schedule,b_schedule,tpbl_game,plg_game,b_game,news,cba_news
 from engine import finalize
+from cba import schedule as cba_schedule,game as cba_game
 from database import bootstrap,archive as db_archive,snapshot,persist,export
 
 ROOT=Path(__file__).resolve().parents[1];DATA=ROOT/'data'
 CONFIG=[('tpbl','TPBL','https://tpbl.basketball/schedule',tpbl_schedule,tpbl_game),('plg','P. LEAGUE+','https://pleagueofficial.com/schedule-regular-season',plg_schedule,plg_game),('b','日本 B.LEAGUE（最高級別）','https://www.bleague.jp/schedule/',b_schedule,b_game)]
+CONFIG.append(('cba','CBA','https://www.cbaleague.com/data/',cba_schedule,cba_game))
 GUIDES=[
  {'name':'TPBL','description':'臺灣職業籃球聯盟，以主客場例行賽與季後賽競逐冠軍。每節十二分鐘；賽季隊伍、球員註冊與季後賽資格以當季官方章程為準。','links':[{'label':'聯盟與賽制／官方首頁','url':'https://tpbl.basketball/'},{'label':'球隊與球員資料','url':'https://tpbl.basketball/teams'},{'label':'官方戰績','url':'https://tpbl.basketball/standings'}]},
  {'name':'P. LEAGUE+','description':'臺灣職業籃球聯盟，賽事包含例行賽與季後賽。每節十二分鐘，當季參賽隊伍與賽務章程由聯盟公布。','teams':['臺北富邦勇士','桃園璞園領航猿','洋基工程','台鋼獵鷹'],'links':[{'label':'聯盟介紹','url':'https://pleagueofficial.com/about'},{'label':'當季賽務章程','url':'https://pleagueofficial.com/rulebook'},{'label':'球隊資料','url':'https://pleagueofficial.com/#team'},{'label':'球員資料','url':'https://pleagueofficial.com/all-players'},{'label':'官方戰績','url':'https://pleagueofficial.com/standings'}]},
@@ -56,7 +58,7 @@ def run(today):
             bad=[g for g in league['recent'] if not g.get('players')]
             if bad:league['error']=f'{len(bad)} 場詳細統計尚未取得；將在下次更新重試。'
             if lid=='tpbl':GUIDES[0]['teams']=sorted(set(g[s] for g in allgames for s in ('home','away')))
-            guide=next(x for x in GUIDES if x['name']==({'tpbl':'TPBL','plg':'P. LEAGUE+','b':'日本 B.LEAGUE'}[lid]))
+            guide=next(x for x in GUIDES if x['name']==({'tpbl':'TPBL','plg':'P. LEAGUE+','b':'日本 B.LEAGUE','cba':'CBA'}[lid]))
             if lid=='b':guide['teams']=sorted(set(g[s] for g in allgames for s in ('home','away')))
             guide['players']=list(dict.fromkeys(p['name'] for g in latest[:3] for ps in archive.get(lid+':'+g['id'],{}).get('players',{}).values() for p in ps if p.get('seconds',0)>0))[:8]
         except Exception as exc:

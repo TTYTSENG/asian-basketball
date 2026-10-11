@@ -3,7 +3,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 from database import connect,check
 data=json.loads((Path(__file__).resolve().parents[1]/'data/site.json').read_text(encoding='utf8'))
-assert [x['id'] for x in data['leagues']]==['tpbl','plg','b']
+assert [x['id'] for x in data['leagues']]==['tpbl','plg','b','cba']
 for league in data['leagues']:
     assert len(league['recent'])<=5
     for g in league['recent']:

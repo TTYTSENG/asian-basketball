@@ -20,7 +20,7 @@ def table(title,headers,rows):
 def sources(g):return '<p>'+link('引用：官方賽事紀錄',g.get('source',''))+(' · '+link('官方逐球資料',g['pbpSource']) if g.get('pbpSource') else '')+'</p>'
 def analysis(g,level=4):
     h='h'+str(level);sub='h'+str(min(level+1,6))
-    out=f'<article class="report"><{h}>{e(g["date"])} {e(g["home"])} vs {e(g["away"])}</{h}><p>比分（主：客）：{e("：".join(map(str,g["score"])))}</p>'
+    out=f'<article class="report"><{h}>{e(g["date"])} {e(g.get("competition",""))} {e(g["home"])} vs {e(g["away"])}</{h}><p>比分（主：客）：{e("：".join(map(str,g["score"])))}</p>'
     for title,text in g.get('analysis',[]):out+=f'<{sub}>{e(title)}</{sub}><p>{e(text)}</p>'
     if g.get('keyPlayers'):
         out+=table('第四節最後五分鐘關鍵球員',['球員','得分','助攻','抄截','阻攻','失誤'],[[e(p['name']),e(p['points']),e(p['assists']),e(p['steals']),e(p['blocks']),e(p['turnovers']) if p.get('turnovers_valid') else '需核對'] for p in g['keyPlayers']])
@@ -41,6 +41,7 @@ def analysis(g,level=4):
 def games(data):
     out=''
     for league in data['leagues']:
+        if league['id']=='cba':continue
         out+='<article class="league-block"><h3>'+e(league['name'])+'</h3>'+link('官方賽程與數據',league['source'])
         if league.get('error'):out+='<p class="notice">'+e(league['error'])+'</p>'
         if league.get('lastSuccess'):out+='<p>來源最後成功擷取：<time datetime="'+e(league['lastSuccess'])+'">'+e(league['lastSuccess'])+'</time></p>'
