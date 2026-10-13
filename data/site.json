@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T12:54:10+08:00",
-  "asOf": "2026-10-13",
+  "generatedAt": "2026-10-14T04:27:27+08:00",
+  "asOf": "2026-10-14",
   "leagues": [
     {
       "id": "tpbl",
@@ -4476,7 +4476,7 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。 官方事件時間不一致，按事件順序校正 18 筆；共同上場時間為重建值。"
         }
       ],
-      "lastSuccess": "2026-10-13T12:54:10+08:00"
+      "lastSuccess": "2026-10-14T04:27:27+08:00"
     },
     {
       "id": "plg",
@@ -12511,7 +12511,7 @@
           "quality": "資料驗證限制：球員失誤紀錄不符 1；受影響指標停止判定。 官方事件時間不一致，按事件順序校正 2 筆；共同上場時間為重建值。 以官方名單中唯一相同姓名校正背號／隊別 15 筆。"
         }
       ],
-      "lastSuccess": "2026-10-13T12:54:10+08:00"
+      "lastSuccess": "2026-10-14T04:27:27+08:00"
     },
     {
       "id": "b",
@@ -20339,7 +20339,7 @@
           "quality": "資料驗證限制：球員失誤紀錄不符 1；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-10-13T12:54:10+08:00"
+      "lastSuccess": "2026-10-14T04:27:27+08:00"
     },
     {
       "id": "cba",
@@ -20556,6 +20556,114 @@
           ],
           "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110746&date=2026-10-19&isToMatch=0",
           "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第2轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110757",
+          "date": "2026-10-20",
+          "home": "福建晋江文旅",
+          "away": "浙江浙商证券",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110757&date=2026-10-20&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第2轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110763",
+          "date": "2026-10-20",
+          "home": "南京同曦宙光",
+          "away": "广州智都集团",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110763&date=2026-10-20&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第2轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110768",
+          "date": "2026-10-20",
+          "home": "长白山恩都里",
+          "away": "四川锦城",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110768&date=2026-10-20&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第2轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110776",
+          "date": "2026-10-20",
+          "home": "宁波町渥",
+          "away": "山西汾酒",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110776&date=2026-10-20&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第2轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110783",
+          "date": "2026-10-20",
+          "home": "北京首钢",
+          "away": "广东东阳光",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110783&date=2026-10-20&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第2轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110787",
+          "date": "2026-10-20",
+          "home": "新疆广汇能源",
+          "away": "天津先行者",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110787&date=2026-10-20&isToMatch=0",
+          "time": "20:00",
           "complete": false,
           "competition": "常规赛第2轮",
           "season": 2026,
@@ -23497,7 +23605,7 @@
           "quality": "資料驗證限制：出手球員不在重建陣容 29、陣容人數不足的秒數 1165、陣容不明的得分事件 61、球員失誤紀錄不符 10、球員出手數不符 3、缺少事件時間 1；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-10-13T12:54:10+08:00"
+      "lastSuccess": "2026-10-14T04:27:27+08:00"
     }
   ],
   "news": [
@@ -23518,7 +23626,7 @@
           "url": "https://www.easl.basketball/news/game-preview-everything-to-know-about-easl-opening-day-double-header-games-macau-hau-chon-vs-taipei-fubon-braves-group-b-abra-weavers-vs-hong-kong-eastern-group-c-october-3-2026"
         }
       ],
-      "lastSuccess": "2026-10-13T12:54:10+08:00"
+      "lastSuccess": "2026-10-14T04:27:27+08:00"
     },
     {
       "name": "CBA",
@@ -23540,7 +23648,7 @@
           "date": "2026-09-05"
         }
       ],
-      "lastSuccess": "2026-10-13T12:54:10+08:00"
+      "lastSuccess": "2026-10-14T04:27:27+08:00"
     },
     {
       "name": "FIBA 亞洲賽事",
@@ -23559,7 +23667,7 @@
           "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/2027-wcq-asia-august-31-game-center"
         }
       ],
-      "lastSuccess": "2026-10-13T12:54:10+08:00"
+      "lastSuccess": "2026-10-14T04:27:27+08:00"
     }
   ],
   "guides": [
