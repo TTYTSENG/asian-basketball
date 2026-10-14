@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T04:27:27+08:00",
-  "asOf": "2026-10-14",
+  "generatedAt": "2026-10-15T03:06:03+08:00",
+  "asOf": "2026-10-15",
   "leagues": [
     {
       "id": "tpbl",
@@ -4476,7 +4476,7 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。 官方事件時間不一致，按事件順序校正 18 筆；共同上場時間為重建值。"
         }
       ],
-      "lastSuccess": "2026-10-14T04:27:27+08:00"
+      "lastSuccess": "2026-10-15T03:06:03+08:00"
     },
     {
       "id": "plg",
@@ -12511,7 +12511,7 @@
           "quality": "資料驗證限制：球員失誤紀錄不符 1；受影響指標停止判定。 官方事件時間不一致，按事件順序校正 2 筆；共同上場時間為重建值。 以官方名單中唯一相同姓名校正背號／隊別 15 筆。"
         }
       ],
-      "lastSuccess": "2026-10-14T04:27:27+08:00"
+      "lastSuccess": "2026-10-15T03:06:03+08:00"
     },
     {
       "id": "b",
@@ -20339,7 +20339,8 @@
           "quality": "資料驗證限制：球員失誤紀錄不符 1；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-10-14T04:27:27+08:00"
+      "lastSuccess": "2026-10-14T04:27:27+08:00",
+      "error": "官方來源暫時無法讀取；保留上次成功資料，待下次排程重試。"
     },
     {
       "id": "cba",
@@ -20664,6 +20665,42 @@
           ],
           "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110787&date=2026-10-20&isToMatch=0",
           "time": "20:00",
+          "complete": false,
+          "competition": "常规赛第2轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110794",
+          "date": "2026-10-21",
+          "home": "青岛崂山啤酒",
+          "away": "辽宁本钢",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110794&date=2026-10-21&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第2轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110801",
+          "date": "2026-10-21",
+          "home": "浙江稠州金租",
+          "away": "山东高速",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110801&date=2026-10-21&isToMatch=0",
+          "time": "19:35",
           "complete": false,
           "competition": "常规赛第2轮",
           "season": 2026,
@@ -23605,7 +23642,7 @@
           "quality": "資料驗證限制：出手球員不在重建陣容 29、陣容人數不足的秒數 1165、陣容不明的得分事件 61、球員失誤紀錄不符 10、球員出手數不符 3、缺少事件時間 1；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-10-14T04:27:27+08:00"
+      "lastSuccess": "2026-10-15T03:06:03+08:00"
     }
   ],
   "news": [
@@ -23614,19 +23651,19 @@
       "source": "https://www.easl.basketball/news",
       "items": [
         {
+          "title": "GAME RECAP: Busan KCC Egis Rides Fourth Quarter Surge to Win On The Road",
+          "url": "https://www.easl.basketball/news/game-recap-busan-kcc-egis-rides-fourth-quarter-surge-to-win-on-the-road"
+        },
+        {
+          "title": "GAME RECAP: Alvark Tokyo Dominates in Rematch Versus South Gobi Broncos",
+          "url": "https://www.easl.basketball/news/game-recap-alvark-tokyo-dominates-in-rematch-versus-south-gobi-broncos"
+        },
+        {
           "title": "GAME RECAP: Abra Weavers Thrill Home Crowd, Take First EASL Win Versus Eastern",
           "url": "https://www.easl.basketball/news/game-recap-abra-weavers-thrill-home-crowd-take-first-easl-win-versus-eastern"
-        },
-        {
-          "title": "GAME RECAP: Braves Earns First Win in EASL Tip-Off 2026 over Debuting Macau Hou Chon",
-          "url": "https://www.easl.basketball/news/game-recap-braves-earns-first-win-in-easl-tip-off-2026-over-debuting-macau-hau-chon"
-        },
-        {
-          "title": "GAME PREVIEW:  Everything to know about EASL Opening Day Games › Macau Hou Chon vs Taipei Fubon Braves & Abra Weavers vs Hong Kong Eastern (October 3, 2026)",
-          "url": "https://www.easl.basketball/news/game-preview-everything-to-know-about-easl-opening-day-double-header-games-macau-hau-chon-vs-taipei-fubon-braves-group-b-abra-weavers-vs-hong-kong-eastern-group-c-october-3-2026"
         }
       ],
-      "lastSuccess": "2026-10-14T04:27:27+08:00"
+      "lastSuccess": "2026-10-15T03:06:03+08:00"
     },
     {
       "name": "CBA",
@@ -23648,7 +23685,7 @@
           "date": "2026-09-05"
         }
       ],
-      "lastSuccess": "2026-10-14T04:27:27+08:00"
+      "lastSuccess": "2026-10-15T03:06:03+08:00"
     },
     {
       "name": "FIBA 亞洲賽事",
@@ -23667,7 +23704,7 @@
           "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/2027-wcq-asia-august-31-game-center"
         }
       ],
-      "lastSuccess": "2026-10-14T04:27:27+08:00"
+      "lastSuccess": "2026-10-15T03:06:03+08:00"
     }
   ],
   "guides": [
@@ -23774,44 +23811,6 @@
           "label": "官方排名",
           "url": "https://www.bleague.jp/standings/"
         }
-      ],
-      "teams": [
-        "A千葉",
-        "A東京",
-        "三河",
-        "三遠",
-        "京都",
-        "仙台",
-        "佐賀",
-        "信州",
-        "北海道",
-        "千葉J",
-        "名古屋D",
-        "大阪",
-        "宇都宮",
-        "富山",
-        "島根",
-        "川崎",
-        "広島",
-        "東京SR",
-        "横浜BC",
-        "滋賀",
-        "琉球",
-        "神戸",
-        "秋田",
-        "群馬",
-        "茨城",
-        "長崎"
-      ],
-      "players": [
-        "松本 健児リオン",
-        "ジャレル・ブラントリー",
-        "森川 正明",
-        "永野 威旺",
-        "熊谷 航",
-        "星川 堅信",
-        "髙比良 寛治",
-        "プラット 聖也"
       ]
     },
     {
@@ -23875,5 +23874,7 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    "b"
+  ]
 }
