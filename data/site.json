@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-15T03:06:03+08:00",
-  "asOf": "2026-10-15",
+  "generatedAt": "2026-10-16T02:47:40+08:00",
+  "asOf": "2026-10-16",
   "leagues": [
     {
       "id": "tpbl",
@@ -4476,7 +4476,7 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。 官方事件時間不一致，按事件順序校正 18 筆；共同上場時間為重建值。"
         }
       ],
-      "lastSuccess": "2026-10-15T03:06:03+08:00"
+      "lastSuccess": "2026-10-16T02:47:40+08:00"
     },
     {
       "id": "plg",
@@ -12511,7 +12511,7 @@
           "quality": "資料驗證限制：球員失誤紀錄不符 1；受影響指標停止判定。 官方事件時間不一致，按事件順序校正 2 筆；共同上場時間為重建值。 以官方名單中唯一相同姓名校正背號／隊別 15 筆。"
         }
       ],
-      "lastSuccess": "2026-10-15T03:06:03+08:00"
+      "lastSuccess": "2026-10-16T02:47:40+08:00"
     },
     {
       "id": "b",
@@ -12824,6 +12824,160 @@
           ],
           "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506485",
           "time": "18:35",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506486",
+          "date": "2026-10-21",
+          "home": "北海道",
+          "away": "富山",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506486",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506487",
+          "date": "2026-10-21",
+          "home": "宇都宮",
+          "away": "名古屋D",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506487",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506488",
+          "date": "2026-10-21",
+          "home": "千葉J",
+          "away": "京都",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506488",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506489",
+          "date": "2026-10-21",
+          "home": "川崎",
+          "away": "大阪",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506489",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506490",
+          "date": "2026-10-21",
+          "home": "信州",
+          "away": "東京SR",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506490",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506491",
+          "date": "2026-10-21",
+          "home": "滋賀",
+          "away": "神戸",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506491",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506492",
+          "date": "2026-10-21",
+          "home": "広島",
+          "away": "秋田",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506492",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506493",
+          "date": "2026-10-21",
+          "home": "佐賀",
+          "away": "長崎",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506493",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506494",
+          "date": "2026-10-21",
+          "home": "琉球",
+          "away": "A千葉",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506494",
+          "time": "18:35",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506495",
+          "date": "2026-10-22",
+          "home": "仙台",
+          "away": "横浜BC",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506495",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506496",
+          "date": "2026-10-22",
+          "home": "A東京",
+          "away": "茨城",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506496",
+          "time": "18:05",
           "complete": false
         }
       ],
@@ -14789,9 +14943,9 @@
               "ftm": 10,
               "fta": 12,
               "seconds": 13500,
-              "assists": 26,
+              "assists": 29,
               "rebounds": 44,
-              "steals": 7,
+              "steals": 6,
               "blocks": 3
             },
             "away": {
@@ -14802,7 +14956,7 @@
               "ftm": 23,
               "fta": 32,
               "seconds": 13500,
-              "assists": 20,
+              "assists": 21,
               "rebounds": 39,
               "steals": 8,
               "blocks": 3
@@ -14887,7 +15041,7 @@
                 "seconds": 1972,
                 "points": 13,
                 "usg": 17.101449501319784,
-                "eff": 28,
+                "eff": 29,
                 "assists": 7,
                 "turnovers": 2,
                 "ast_to": 3.5,
@@ -14939,7 +15093,7 @@
                 "points": 10,
                 "usg": 12.669705540413524,
                 "eff": 16,
-                "assists": 0,
+                "assists": 1,
                 "turnovers": 0,
                 "ast_to": null,
                 "potential_assists": null,
@@ -15006,10 +15160,10 @@
                 "seconds": 2213,
                 "points": 19,
                 "usg": 26.88589256356127,
-                "eff": 18,
-                "assists": 3,
+                "eff": 19,
+                "assists": 4,
                 "turnovers": 3,
-                "ast_to": 1.0,
+                "ast_to": 1.3333333333333333,
                 "potential_assists": null,
                 "passes_made": null,
                 "passes_received": null,
@@ -15074,7 +15228,7 @@
                 "seconds": 2180,
                 "points": 25,
                 "usg": 19.340300047405265,
-                "eff": 43,
+                "eff": 42,
                 "assists": 2,
                 "turnovers": 0,
                 "ast_to": null,
@@ -15108,8 +15262,8 @@
                 "seconds": 1443,
                 "points": 10,
                 "usg": 14.004827834615067,
-                "eff": 15,
-                "assists": 3,
+                "eff": 16,
+                "assists": 4,
                 "turnovers": 0,
                 "ast_to": null,
                 "potential_assists": null,
@@ -15142,10 +15296,10 @@
                 "seconds": 1011,
                 "points": 2,
                 "usg": 5.073372236703255,
-                "eff": 5,
-                "assists": 3,
+                "eff": 6,
+                "assists": 4,
                 "turnovers": 1,
-                "ast_to": 3.0,
+                "ast_to": 4.0,
                 "potential_assists": null,
                 "passes_made": null,
                 "passes_received": null,
@@ -15160,7 +15314,7 @@
               "seconds": 2180,
               "points": 25,
               "usg": 19.340300047405265,
-              "eff": 43,
+              "eff": 42,
               "assists": 2,
               "turnovers": 0,
               "ast_to": null,
@@ -15436,7 +15590,7 @@
               "ftm": 5,
               "fta": 8,
               "seconds": 12000,
-              "assists": 14,
+              "assists": 15,
               "rebounds": 35,
               "steals": 5,
               "blocks": 1
@@ -15451,7 +15605,7 @@
               "seconds": 12000,
               "assists": 20,
               "rebounds": 41,
-              "steals": 9,
+              "steals": 10,
               "blocks": 1
             }
           },
@@ -15500,7 +15654,7 @@
                 "seconds": 215,
                 "points": 0,
                 "usg": 26.25303550723052,
-                "eff": 0,
+                "eff": 1,
                 "assists": 0,
                 "turnovers": 0,
                 "ast_to": null,
@@ -15585,7 +15739,7 @@
                 "seconds": 1577,
                 "points": 6,
                 "usg": 14.316810739516962,
-                "eff": 9,
+                "eff": 8,
                 "assists": 4,
                 "turnovers": 0,
                 "ast_to": null,
@@ -15619,7 +15773,7 @@
                 "seconds": 1577,
                 "points": 3,
                 "usg": 5.36880402731886,
-                "eff": 5,
+                "eff": 6,
                 "assists": 0,
                 "turnovers": 0,
                 "ast_to": null,
@@ -15652,10 +15806,10 @@
                 "name": "富山 仁貴",
                 "seconds": 83,
                 "points": 0,
-                "usg": 73.65171332298118,
-                "eff": -1,
+                "usg": 110.47756998447177,
+                "eff": -2,
                 "assists": 0,
-                "turnovers": 1,
+                "turnovers": 2,
                 "ast_to": 0.0,
                 "potential_assists": null,
                 "passes_made": null,
@@ -15670,7 +15824,7 @@
                 "seconds": 2036,
                 "points": 16,
                 "usg": 34.16846232912016,
-                "eff": 13,
+                "eff": 12,
                 "assists": 2,
                 "turnovers": 3,
                 "ast_to": 0.6666666666666666,
@@ -15686,11 +15840,11 @@
                 "name": "角田 太輝",
                 "seconds": 1935,
                 "points": 10,
-                "usg": 25.27376622556047,
-                "eff": 2,
+                "usg": 23.69415583646294,
+                "eff": 3,
                 "assists": 2,
-                "turnovers": 5,
-                "ast_to": 0.4,
+                "turnovers": 4,
+                "ast_to": 0.5,
                 "potential_assists": null,
                 "passes_made": null,
                 "passes_received": null,
@@ -15755,7 +15909,7 @@
                 "seconds": 642,
                 "points": 2,
                 "usg": 14.28292571450336,
-                "eff": 4,
+                "eff": 5,
                 "assists": 1,
                 "turnovers": 0,
                 "ast_to": null,
@@ -15772,8 +15926,8 @@
                 "seconds": 1789,
                 "points": 8,
                 "usg": 11.95965495825938,
-                "eff": 15,
-                "assists": 1,
+                "eff": 16,
+                "assists": 2,
                 "turnovers": 0,
                 "ast_to": null,
                 "potential_assists": null,
@@ -16102,7 +16256,7 @@
                       "points": 10,
                       "fgm": 4,
                       "fga": 11,
-                      "turnovers": 5,
+                      "turnovers": 4,
                       "seconds": 1935,
                       "ftm": 0,
                       "fta": 0,
@@ -16162,7 +16316,7 @@
                       "seconds": 1789,
                       "ftm": 0,
                       "fta": 0,
-                      "assists": 1,
+                      "assists": 2,
                       "rebounds": 8,
                       "steals": 1,
                       "blocks": 0
@@ -16221,7 +16375,7 @@
                       "assists": 2,
                       "rebounds": 8,
                       "steals": 2,
-                      "blocks": 1
+                      "blocks": 0
                     },
                     {
                       "date": "2026-10-10",
@@ -16398,7 +16552,7 @@
                       "points": 10,
                       "fgm": 4,
                       "fga": 11,
-                      "turnovers": 5,
+                      "turnovers": 4,
                       "seconds": 1935,
                       "ftm": 0,
                       "fta": 0,
@@ -16458,7 +16612,7 @@
                       "seconds": 1789,
                       "ftm": 0,
                       "fta": 0,
-                      "assists": 1,
+                      "assists": 2,
                       "rebounds": 8,
                       "steals": 1,
                       "blocks": 0
@@ -16517,7 +16671,7 @@
                       "assists": 2,
                       "rebounds": 8,
                       "steals": 2,
-                      "blocks": 1
+                      "blocks": 0
                     },
                     {
                       "date": "2026-10-10",
@@ -16700,7 +16854,7 @@
                       "fta": 0,
                       "assists": 4,
                       "rebounds": 3,
-                      "steals": 2,
+                      "steals": 1,
                       "blocks": 0
                     },
                     {
@@ -16979,7 +17133,7 @@
                       "fta": 0,
                       "assists": 0,
                       "rebounds": 3,
-                      "steals": 1,
+                      "steals": 2,
                       "blocks": 0
                     },
                     {
@@ -17035,7 +17189,7 @@
                       "fta": 0,
                       "assists": 4,
                       "rebounds": 3,
-                      "steals": 2,
+                      "steals": 1,
                       "blocks": 0
                     },
                     {
@@ -20339,8 +20493,7 @@
           "quality": "資料驗證限制：球員失誤紀錄不符 1；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-10-14T04:27:27+08:00",
-      "error": "官方來源暫時無法讀取；保留上次成功資料，待下次排程重試。"
+      "lastSuccess": "2026-10-16T02:47:40+08:00"
     },
     {
       "id": "cba",
@@ -20703,6 +20856,96 @@
           "time": "19:35",
           "complete": false,
           "competition": "常规赛第2轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110820",
+          "date": "2026-10-22",
+          "home": "福建晋江文旅",
+          "away": "宁波町渥",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110820&date=2026-10-22&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第3轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110827",
+          "date": "2026-10-22",
+          "home": "广东东阳光",
+          "away": "浙江浙商证券",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110827&date=2026-10-22&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第3轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110831",
+          "date": "2026-10-22",
+          "home": "长白山恩都里",
+          "away": "新疆广汇能源",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110831&date=2026-10-22&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第3轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110839",
+          "date": "2026-10-22",
+          "home": "山西汾酒",
+          "away": "上海久事",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110839&date=2026-10-22&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第3轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110842",
+          "date": "2026-10-22",
+          "home": "北京首钢",
+          "away": "深圳马可波罗",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110842&date=2026-10-22&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第3轮",
           "season": 2026,
           "quarter": null,
           "analysisOnly": true
@@ -22598,7 +22841,7 @@
               {
                 "id": "100016690",
                 "side": "away",
-                "name": "贾卡尔-桑普森",
+                "name": "桑普森",
                 "seconds": 1455,
                 "points": 14,
                 "usg": 21.29580856347355,
@@ -22942,11 +23185,11 @@
                   "period": 2,
                   "timeout_sec": 400,
                   "timeout_side": null,
-                  "offense": "home",
-                  "defense": "away",
+                  "offense": null,
+                  "defense": null,
                   "points": 0,
                   "turnovers": 0,
-                  "finisher": "100111135",
+                  "finisher": null,
                   "inbounder": null,
                   "receiver": null,
                   "eligible": false,
@@ -23078,7 +23321,7 @@
           "lineups": [],
           "keyPlayers": [],
           "playerChanges": [],
-          "quality": "資料驗證限制：出手球員不在重建陣容 40、陣容人數不足的秒數 2755、陣容不明的得分事件 117、逐球得分與正式比分不符 1、球員出手數不符 6、球員失誤紀錄不符 5、球員得分不符 1、球員命中數不符 1、unparsed_events 17、缺少事件時間 17；受影響指標停止判定。"
+          "quality": "資料驗證限制：出手球員不在重建陣容 35、陣容人數不足的秒數 3116、陣容不明的得分事件 135、球員出手數不符 5、球員失誤紀錄不符 4、缺少事件時間 1；受影響指標停止判定。"
         },
         {
           "league": "cba",
@@ -23642,7 +23885,7 @@
           "quality": "資料驗證限制：出手球員不在重建陣容 29、陣容人數不足的秒數 1165、陣容不明的得分事件 61、球員失誤紀錄不符 10、球員出手數不符 3、缺少事件時間 1；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-10-15T03:06:03+08:00"
+      "lastSuccess": "2026-10-16T02:47:40+08:00"
     }
   ],
   "news": [
@@ -23663,7 +23906,7 @@
           "url": "https://www.easl.basketball/news/game-recap-abra-weavers-thrill-home-crowd-take-first-easl-win-versus-eastern"
         }
       ],
-      "lastSuccess": "2026-10-15T03:06:03+08:00"
+      "lastSuccess": "2026-10-16T02:47:40+08:00"
     },
     {
       "name": "CBA",
@@ -23685,7 +23928,7 @@
           "date": "2026-09-05"
         }
       ],
-      "lastSuccess": "2026-10-15T03:06:03+08:00"
+      "lastSuccess": "2026-10-16T02:47:40+08:00"
     },
     {
       "name": "FIBA 亞洲賽事",
@@ -23704,7 +23947,7 @@
           "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/2027-wcq-asia-august-31-game-center"
         }
       ],
-      "lastSuccess": "2026-10-15T03:06:03+08:00"
+      "lastSuccess": "2026-10-16T02:47:40+08:00"
     }
   ],
   "guides": [
@@ -23811,6 +24054,44 @@
           "label": "官方排名",
           "url": "https://www.bleague.jp/standings/"
         }
+      ],
+      "teams": [
+        "A千葉",
+        "A東京",
+        "三河",
+        "三遠",
+        "京都",
+        "仙台",
+        "佐賀",
+        "信州",
+        "北海道",
+        "千葉J",
+        "名古屋D",
+        "大阪",
+        "宇都宮",
+        "富山",
+        "島根",
+        "川崎",
+        "広島",
+        "東京SR",
+        "横浜BC",
+        "滋賀",
+        "琉球",
+        "神戸",
+        "秋田",
+        "群馬",
+        "茨城",
+        "長崎"
+      ],
+      "players": [
+        "松本 健児リオン",
+        "ジャレル・ブラントリー",
+        "森川 正明",
+        "永野 威旺",
+        "熊谷 航",
+        "星川 堅信",
+        "髙比良 寛治",
+        "プラット 聖也"
       ]
     },
     {
@@ -23874,7 +24155,5 @@
       ]
     }
   ],
-  "errors": [
-    "b"
-  ]
+  "errors": []
 }
