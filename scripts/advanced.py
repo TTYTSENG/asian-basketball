@@ -1,4 +1,43 @@
 """Transparent single-game metrics. No inferred optical tracking or fake VORP."""
+
+def observation_metrics(g):
+    """Publish auditable box-score ratios; missing inputs remain unavailable."""
+    stats=g.get('stats',{});warnings=[];teams={}
+    def ratio(n,d):return 100*n/d if n is not None and d is not None and d>0 else None
+    for side in ('home','away'):
+        t=stats.get(side,{});opp=stats.get('away' if side=='home' else 'home',{})
+        pts,fgm,fga,ftm,fta=(t.get(k) for k in ('points','fgm','fga','ftm','fta'))
+        m3,a3=t.get('three_made'),t.get('three_attempted')
+        valid_shots=all(v is not None and v>=0 for v in (fgm,fga,m3,a3)) and m3<=a3<=fga and m3<=fgm<=fga
+        if valid_shots and pts is not None and ftm is not None:
+            valid_shots=pts==2*fgm+m3+ftm
+        if m3 is not None and not valid_shots:warnings.append(side+'：投籃欄位未通過一致性核對')
+        reb=t.get('offensive_rebounds');dreb=t.get('defensive_rebounds')
+        orebd=reb+opp['defensive_rebounds'] if reb is not None and opp.get('defensive_rebounds') is not None else None
+        drebd=dreb+opp['offensive_rebounds'] if dreb is not None and opp.get('offensive_rebounds') is not None else None
+        tsden=2*(fga+.44*fta) if fga is not None and fta is not None else None
+        teams[side]=dict(ts=ratio(pts,tsden),fta_rate=ratio(fta,fga),
+            assisted_fg_pct=ratio(t.get('assists'),fgm),ft_points_pct=ratio(ftm,pts),
+            efg=ratio(fgm+.5*m3,fga) if valid_shots else None,
+            three_attempt_pct=ratio(a3,fga) if valid_shots else None,
+            three_points_pct=ratio(3*m3,pts) if valid_shots else None,
+            oreb_pct=ratio(reb,orebd),dreb_pct=ratio(dreb,drebd),
+            paint_points=t.get('paint_points'),second_chance_points=t.get('second_chance_points'),
+            fast_break_points=t.get('fast_break_points'),off_rating_est=None,tov_pct_est=None,
+            source_counts={k:t.get(k) for k in ('points','fgm','fga','three_made','three_attempted','ftm','fta','assists','turnovers','offensive_rebounds','defensive_rebounds')})
+    poss=[]
+    for side in ('home','away'):
+        t=stats.get(side,{})
+        if all(t.get(k) is not None and t[k]>=0 for k in ('fga','offensive_rebounds','turnovers','fta')):
+            poss.append(t['fga']-t['offensive_rebounds']+t['turnovers']+.44*t['fta'])
+    estimate=sum(poss)/2 if len(poss)==2 and min(poss)>0 else None
+    for side in teams:
+        teams[side]['off_rating_est']=ratio(stats.get(side,{}).get('points'),estimate)
+        teams[side]['tov_pct_est']=ratio(stats.get(side,{}).get('turnovers'),estimate)
+    duration=g.get('periodSeconds')
+    regulation=4*duration/60 if duration in (600,720) else (40 if g.get('league')=='b' else 48 if g.get('league') in ('tpbl','plg') else None)
+    return dict(teams=teams,possessions_est=estimate,regulation_minutes=regulation,
+                warnings=warnings,method='回合為雙方(FGA−ORB＋TOV＋0.44×FTA)平均估計；不是官方逐回合或追蹤數據。TS%同樣使用0.44估計係數。')
 def usage(p,team):
     required=('fta','fga','turnovers','seconds')
     if any(p.get(k) is None or team.get(k) is None for k in required):return None
@@ -82,7 +121,7 @@ def metrics(g):
             output.append(dict(id=p['id'],side=side,name=p['name'],seconds=p['seconds'],points=p['points'],usg=usage(p,team),eff=eff,assists=ast,turnovers=tov,ast_to=ratio,potential_assists=None,passes_made=None,passes_received=None,secondary_assists=None,vorp=None))
     eligible=[p for p in output if p['seconds']>=600 and p['eff'] is not None]
     benchmark=max(eligible,key=lambda p:(p['eff'],p['points'],-p['turnovers'],p['id'])) if eligible else None
-    return dict(players=sorted(output,key=lambda p:(p['side'],-(p['usg'] or 0),p['id'])),benchmark=benchmark,
+    return dict(players=sorted(output,key=lambda p:(p['side'],-(p['usg'] or 0),p['id'])),benchmark=benchmark,observation=observation_metrics(g),
         benchmark_method='本場 EFF 最高且至少上場十分鐘的球員；EFF 是傳統綜合效率，不是整體能力排名。',
         tracking_status='官網逐球沒有完整的傳球者、接球者與傳球鏈，潛在助攻、傳出／接球次數及次級助攻尚不可計算；不以助攻次數代替。',
         vorp_status='尚無適用 TPBL、P+、B.LEAGUE 且完成驗證的 BPM 模型、替補基準與完整賽季球權資料，暫不計算 VORP；不把單場正負值當作 BPM。',

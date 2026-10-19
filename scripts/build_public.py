@@ -2,12 +2,14 @@
 
 Only public site/report JSON is consumed. Run after update.py at every deployment.
 """
-import json,re,html,shutil
+import json,re,html,shutil,sys
 from pathlib import Path
 from urllib.parse import urlparse
 from xml.sax.saxutils import escape
 
 ROOT=Path(__file__).resolve().parents[1]
+sys.path.insert(0,str(ROOT/'scripts'))
+from catalogue import build_catalogue,load_games,game_path
 BASE='https://ttytseng.github.io/asian-basketball'
 NAME='專注亞洲籃球觀察'
 AUTHOR={'@type':'Person','@id':BASE+'/#author','name':'凸肚男','email':'tzesmann@gmail.com','url':BASE+'/#about'}
@@ -32,7 +34,7 @@ def analysis(g,level=4):
     if a:
         ato=a.get('ato',{});out+=f'<{sub}>ATO 暫停後進攻與防守</{sub}><p>共 {e(ato.get("total",0))} 次暫停；排除 {e(ato.get("excluded",0))} 個不完整回合。得分為本站進攻成功口徑，不能單憑此判定戰術效果。</p>'
         def rate(n,total):return f'{100*n/total:.1f}%（{n}/{total}）' if total else '無樣本'
-        out+=table('ATO 統計',['球隊','進攻得分成功率','防守阻止得分成功率','得分／失誤'],[[e(g[x['side']]),rate(x['attack_success'],x['attack_n']),rate(x['defense_success'],x['defense_n']),e(f'{x["points"]}／{x["turnovers"]}')] for x in ato.get('summary',[])])
+        out+=table('ATO 統計',['球隊','進攻得分成功率','防守阻止得分成功率','每回合得分','得分／失誤'],[[e(g[x['side']]),rate(x['attack_success'],x['attack_n']),rate(x['defense_success'],x['defense_n']),f'{x["points"]/x["attack_n"]:.2f}（{x["attack_n"]}回合）' if x['attack_n'] else '無樣本',e(f'{x["points"]}／{x["turnovers"]}')] for x in ato.get('summary',[])])
         out+=f'<{sub}>USG% 使用率與基本指標</{sub}><p>{e(a.get("benchmark_method",""))} 使用率為 box-score 估計，並非效率；短時間出賽估計可能大幅波動。</p>'
         def number(n):return f'{n:.1f}' if isinstance(n,(int,float)) else '資料不足'
         out+=table('個人使用率與組織指標',['球員／球隊','分鐘','USG%','EFF','助攻／失誤'],[[e(p['name']+'／'+g[p['side']]),f'{p["seconds"]/60:.1f}',number(p.get('usg')),number(p.get('eff')),e(f'{p.get("assists","—")}／{p.get("turnovers","—")}')] for p in a.get('players',[])])
@@ -45,11 +47,15 @@ def games(data):
         out+='<article class="league-block"><h3>'+e(league['name'])+'</h3>'+link('官方賽程與數據',league['source'])
         if league.get('error'):out+='<p class="notice">'+e(league['error'])+'</p>'
         if league.get('lastSuccess'):out+='<p>來源最後成功擷取：<time datetime="'+e(league['lastSuccess'])+'">'+e(league['lastSuccess'])+'</time></p>'
-        out+=table('未來七天賽程',['臺北時間','對戰','來源'],[[e(g['date']+' '+g.get('time','')),e(g['away']+' 作客 '+g['home']),link('官方賽事',g['source'])] for g in league.get('upcoming',[])]) if league.get('upcoming') else '<p>未來七天沒有已取得的官方賽程。</p>'
-        out+=table('最近五場賽後統計',['日期／對戰','比分（主：客）','來源'],[[e(g['date']+' '+g['home']+' vs '+g['away']),e('：'.join(map(str,g['score']))),link('官方紀錄',g['source'])] for g in league.get('recent',[])]) if league.get('recent') else '<p>目前沒有取得可驗證的完賽紀錄。</p>'
+        out+=table('近期賽程摘要',['臺北時間','對戰','來源'],[[e(g['date']+' '+g.get('time','')),e(g['away']+' 作客 '+g['home']),link('官方賽事',g['source'])] for g in league.get('upcoming',[])[:3]]) if league.get('upcoming') else '<p>未來七天沒有已取得的官方賽程。</p>'
+        out+=table('最近賽後摘要',['日期／對戰','比分（主：客）','來源'],[[e(g['date']+' '+g['home']+' vs '+g['away']),e('：'.join(map(str,g['score']))),link('官方紀錄',g['source'])] for g in league.get('recent',[])[:3]]) if league.get('recent') else '<p>目前沒有取得可驗證的完賽紀錄。</p>'
+        out+='<p><a href="'+BASE+'/history/?league='+e(league['id'])+'">查看全部已保存賽事</a> · <a href="'+BASE+'/history/?league='+e(league['id'])+'&amp;status=upcoming">未完賽清單</a></p>'
         out+='</article>'
     return out
-def analyses(data):return ''.join('<section><h3>'+e(l['name'])+'</h3>'+(''.join(analysis(g) for g in l.get('recent',[])[:3]) or '<p>尚未取得可驗證的完賽分析。</p>')+'</section>' for l in data['leagues'])
+def analyses(data):
+    return ''.join('<article class="league-block"><h3>'+e(l['name'])+'</h3><ul class="article-list">'+''.join(
+        '<li><a href="'+BASE+'/'+game_path(g)+'">'+e(g['date']+' '+g['home']+' vs '+g['away'])+'</a> · '+e('：'.join(map(str,g['score'])))+' · '+link('官方紀錄',g['source'])+'</li>'
+        for g in l.get('recent',[])[:3])+'</ul><p><a href="'+BASE+'/history/?league='+e(l['id'])+'">查看全部日期與場次</a></p></article>' for l in data['leagues'])
 def guides(data):return ''.join('<article class="guide"><h3>'+e(g['name'])+'</h3><p>'+e(g['description'])+'</p><ul>'+''.join('<li>'+link(x['label'],x['url'])+'</li>' for x in g['links'])+'</ul>'+('<p>球隊：'+e('、'.join(g['teams']))+'</p>' if g.get('teams') else '')+'</article>' for g in data['guides'])
 def news(data):return ''.join('<article><h4>'+e(n['name'])+'</h4><ul>'+''.join('<li>'+link(x['title'],x['url'])+(' · '+e(x['date']) if x.get('date') else '')+'</li>' for x in n['items'])+'</ul>'+link('官方新聞入口',n['source'])+'</article>' for n in data['news'])
 def meta(url,title,desc,graph):return f'<link rel="canonical" href="{e(url)}"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:url" content="{e(url)}"><meta property="og:type" content="website"><meta property="og:locale" content="zh_TW"><meta name="author" content="凸肚男"><script type="application/ld+json">'+json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False).replace('<','\\u003c')+'</script><link rel="alternate" type="application/rss+xml" title="籃球日報" href="'+BASE+'/feed.xml">'
@@ -60,7 +66,7 @@ def write(public,path,text):
     p=public/path;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(text,encoding='utf8')
 def build(public):
     data=json.loads((ROOT/'data/site.json').read_text(encoding='utf8'));public.mkdir(exist_ok=True)
-    for name in ['index.html','basketball-analytics-handbook.html','basketball-research-plan.html','researcher-portrait.png','app.js','reports.js','advanced.js','speech.js','a11y.js','style.css','reading.css','webmcp.js']:shutil.copy2(ROOT/name,public/name)
+    for name in ['index.html','basketball-analytics-handbook.html','basketball-research-plan.html','researcher-portrait.png','app.js','reports.js','advanced.js','history.js','speech.js','a11y.js','style.css','reading.css','webmcp.js']:shutil.copy2(ROOT/name,public/name)
     shutil.copytree(ROOT/'downloads',public/'downloads',dirs_exist_ok=True)
     (public/'data/reports').mkdir(parents=True,exist_ok=True);shutil.copy2(ROOT/'data/site.json',public/'data/site.json')
     reports=sorted((ROOT/'data/reports').glob('*.json'))
@@ -74,6 +80,7 @@ def build(public):
     text=text.replace('</main>','<section><h2>AI 賽事資料查詢</h2><p data-webmcp-status>在支援網站工具的 AI 瀏覽器中，可查聯盟賽程、指定日期日報及比賽分析。回傳結果包含官方來源與資料時間。</p></section></main>')
     write(public,'index.html',text)
     rows=[];urls=[BASE+'/',BASE+'/basketball-analytics-handbook.html',BASE+'/basketball-research-plan.html',BASE+'/reports/'];items=[]
+    urls+=build_catalogue(public,data,load_games(ROOT/'data/basketball.sqlite3',data),analysis)
     for p in reports:
         d=json.loads(p.read_text(encoding='utf8'));url=BASE+'/reports/'+p.stem+'.html';title=p.stem+' 亞洲籃球日報';desc='依官方公開資料整理的賽程、賽後統計與分析；包含來源與資料限制。'
         rows.append('<li>'+link(title,url)+'</li>');urls.append(url);items.append((title,url,desc))

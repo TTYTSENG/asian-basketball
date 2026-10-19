@@ -144,4 +144,4 @@ def game(g,detail=True):
             if g['report']['issues'].get('box_fga'):
                 g['report']['issues']['missing_clock']=max(1,g['report']['issues'].get('missing_clock',0))
         except Exception as exc:g['detailError']=str(exc)[:160]
-    g['advanced']=metrics(g);return g
+    g['statsVersion']=2;g['advanced']=metrics(g);return g

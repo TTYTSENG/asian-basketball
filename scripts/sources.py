@@ -35,7 +35,7 @@ def secs(v):
     if ':' in str(v):a,b=str(v).split(':');return int(a)*60+int(b)
     return integer(v)
 def player(pid,name,pts,fgm,fga,tov,seconds,**rest):return dict(id=str(pid),name=name,points=integer(pts),fgm=integer(fgm),fga=integer(fga),turnovers=integer(tov),seconds=secs(seconds),**rest)
-def totals(players):return {s:{k:sum(p[k] for p in ps) if all(p.get(k) is not None for p in ps) else None for k in ('points','fgm','fga','turnovers','ftm','fta','seconds','assists','rebounds','steals','blocks')} for s,ps in players.items()}
+def totals(players):return {s:{k:sum(p[k] for p in ps) if ps and all(p.get(k) is not None for p in ps) else None for k in ('points','fgm','fga','turnovers','ftm','fta','seconds','assists','rebounds','steals','blocks','three_made','three_attempted','offensive_rebounds','defensive_rebounds')} for s,ps in players.items()}
 def period_ends(events):
     out=[];q=None
     for e in events:
@@ -61,7 +61,7 @@ def tpbl_game(g,detail=True):
     g['players']=players;g['stats']=totals(players);g['score']=[box[s+'_team']['teams']['total']['won_score'] for s in ('home','away')]
     for s in ('home','away'):
         t=box[s+'_team']['teams']['total']
-        for k,field in [('fga','field_goals_attempted'),('fta','free_throws_attempted'),('turnovers','turnovers')]:
+        for k,field in [('fga','field_goals_attempted'),('fta','free_throws_attempted'),('turnovers','turnovers'),('three_made','three_pointers_made'),('three_attempted','three_pointers_attempted'),('offensive_rebounds','offensive_rebounds'),('defensive_rebounds','defensive_rebounds'),('paint_points','points_in_paint'),('second_chance_points','second_chance_points'),('fast_break_points','fast_break_points')]:
             if t.get(field) is not None:g['stats'][s][k]=integer(t[field])
     g['statsSource']=base+'/stats'
     if detail:
@@ -82,7 +82,7 @@ def tpbl_game(g,detail=True):
         if missing:
             g['report']['issues']['missing_clock']=len(missing);g['report']['lineups']=[]
             if any(e['quarter']==4 for e in missing):g['report']['key']=[]
-    g['advanced']=metrics(g);return g
+    g['statsVersion']=2;g['advanced']=metrics(g);return g
 
 def plg_schedule(today):
     root='https://pleagueofficial.com';soup=BeautifulSoup(get(root+'/schedule-regular-season'),'lxml');pages=[soup]
@@ -107,13 +107,13 @@ def plg_game(g,detail=True):
     for s in ('home','away'):
         ps=[]
         for p in box[s]:
-            m2,a2=map(int,(p['two_m_two'] or '0-0').split('-'));m3,a3=map(int,(p['trey_m_trey'] or '0-0').split('-'));mf,af=map(int,(p['ft_m_ft'] or '0-0').split('-'));ps.append(player(p['player_id'],p['name'],p['points'],m2+m3,a2+a3,p['turnover'],p['mins'],ftm=mf if p.get('ft_m_ft') or secs(p['mins'])==0 else None,fta=af if p.get('ft_m_ft') or secs(p['mins'])==0 else None,assists=optional_stat(p,'ast'),rebounds=optional_stat(p,'reb'),steals=optional_stat(p,'stl'),blocks=optional_stat(p,'blk')))
+            m2,a2=map(int,(p['two_m_two'] or '0-0').split('-'));m3,a3=map(int,(p['trey_m_trey'] or '0-0').split('-'));mf,af=map(int,(p['ft_m_ft'] or '0-0').split('-'));ps.append(player(p['player_id'],p['name'],p['points'],m2+m3,a2+a3,p['turnover'],p['mins'],ftm=mf if p.get('ft_m_ft') or secs(p['mins'])==0 else None,fta=af if p.get('ft_m_ft') or secs(p['mins'])==0 else None,assists=optional_stat(p,'ast'),rebounds=optional_stat(p,'reb'),steals=optional_stat(p,'stl'),blocks=optional_stat(p,'blk'),three_made=m3 if p.get('trey_m_trey') else None,three_attempted=a3 if p.get('trey_m_trey') else None))
         players[s]=ps
     g['players']=players;g['stats']=totals(players);g['score']=[box['score_home'],box['score_away']];g['statsSource']=url
     for s in ('home','away'):
         t=box.get(s+'_total',{})
         if isinstance(t,dict):
-            for k,field in [('fta','ft'),('turnovers','turnover')]:
+            for k,field in [('fta','ft'),('turnovers','turnover'),('three_made','trey_m'),('three_attempted','trey'),('offensive_rebounds','reb_o'),('defensive_rebounds','reb_d')]:
                 if t.get(field) is not None:g['stats'][s][k]=integer(t[field])
             if t.get('two') is not None and t.get('trey') is not None:g['stats'][s]['fga']=integer(t['two'])+integer(t['trey'])
     if detail:
@@ -137,7 +137,7 @@ def plg_game(g,detail=True):
                 if len(candidates)==1 and candidates[0]!=(side,pid):side,pid=candidates[0];resolved+=1
                 events.append(dict(period=r['period'],sec=r['sec'],side=side,pid=pid,name=r['name'],kind=kind[0],pts=kind[1]))
         events=period_ends(events);g['events']=events;g['report']=analyze(events,players,g['score'],720,starters);g['clockCorrections']=fixed;g['identityCorrections']=resolved;g['pbpSource']=url
-    g['advanced']=metrics(g);return g
+    g['statsVersion']=2;g['advanced']=metrics(g);return g
 
 def b_schedule(today):
     from concurrent.futures import ThreadPoolExecutor
@@ -162,18 +162,22 @@ def b_schedule(today):
     return list(games.values())
 def b_game(g,detail=True):
     html=get(g['source']);match=re.search(r'_contexts_s3id\.data\s*=\s*',html)
-    if not match:raise ValueError('B official embedded context missing')
+    if not match:
+        # A just-finished game's detail feed may lag the schedule. Do not cache
+        # that incomplete page for another 30 minutes on the next retry.
+        (CACHE/(hashlib.sha256(g['source'].encode()).hexdigest()+'.txt')).unlink(missing_ok=True)
+        raise ValueError('B official embedded context missing')
     data=json.JSONDecoder().raw_decode(html[match.end():])[0];game=data['Game']
     if not game['GameEndedFlg']:raise ValueError('B game has not ended')
     players={}
     for s in ('home','away'):
         rows=data[s.title()+'Boxscores'];rows=[x for x in rows if x['PeriodCategory']==18]
         if not rows:raise ValueError('B full-game box score missing')
-        players[s]=[player(x['PlayerID'],x['PlayerNameJ'],x.get('Point'),integer(x.get('PT2M'))+integer(x.get('PT3M')),integer(x.get('PT2A'))+integer(x.get('PT3A')),x.get('TO'),x.get('PlayTime'),ftm=optional_stat(x,'FTM'),fta=optional_stat(x,'FTA'),assists=optional_stat(x,'AS'),rebounds=optional_stat(x,'RB_TOT'),steals=optional_stat(x,'ST'),blocks=optional_stat(x,'BS')) for x in rows if x.get('PlayerID')]
+        players[s]=[player(x['PlayerID'],x['PlayerNameJ'],x.get('Point'),integer(x.get('PT2M'))+integer(x.get('PT3M')),integer(x.get('PT2A'))+integer(x.get('PT3A')),x.get('TO'),x.get('PlayTime'),ftm=optional_stat(x,'FTM'),fta=optional_stat(x,'FTA'),assists=optional_stat(x,'AS'),rebounds=optional_stat(x,'RB_TOT'),steals=optional_stat(x,'ST'),blocks=optional_stat(x,'BS'),three_made=optional_stat(x,'PT3M'),three_attempted=optional_stat(x,'PT3A'),offensive_rebounds=optional_stat(x,'RB_OFF'),defensive_rebounds=optional_stat(x,'RB_DEF')) for x in rows if x.get('PlayerID')]
     g['players']=players;g['stats']=totals(players);g['score']=[game['HomeTeamScore'],game['AwayTeamScore']];g['date']=data['ymd'];g['statsSource']=g['source']
     total=next((x for x in data['Summaries'] if x['PeriodCategory']==18),{})
     for s in ('home','away'):
-        for k,field in [('fta','FTA'),('turnovers','TO'),('fga','PTA')]:
+        for k,field in [('fta','FTA'),('turnovers','TO'),('fga','PTA'),('three_made','PT3M'),('three_attempted','PT3A'),('offensive_rebounds','RB_OFF'),('defensive_rebounds','RB_DEF')]:
             field=s.title()+'Team'+field
             if total.get(field) is not None:g['stats'][s][k]=integer(total[field])
     if detail:
@@ -188,7 +192,7 @@ def b_game(g,detail=True):
                 side='home' if str(r.get('TeamID'))==str(game['HomeTeamID']) else 'away'
                 events.append(dict(period=r['Period'],sec=secs(r['RestTime']),side=side,pid=str(r.get('PlayerID1') or ''),name=r.get('PlayerNameJ1') or '',kind=kind[0],pts=kind[1]))
         events=period_ends(events);g['events']=events;g['report']=analyze(events,players,g['score'],600);g['pbpSource']=g['source']+'#playbyplay'
-    g['advanced']=metrics(g);return g
+    g['statsVersion']=2;g['advanced']=metrics(g);return g
 
 def news(name,url):
     soup=BeautifulSoup(get(url),'lxml');out=[];seen=set();links=soup.select('a[href]')

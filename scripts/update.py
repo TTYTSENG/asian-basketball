@@ -24,6 +24,35 @@ def load(path,default):
     return json.loads(path.read_text(encoding='utf8')) if path.exists() else default
 def write(path,data):
     path.parent.mkdir(parents=True,exist_ok=True);temp=path.with_suffix('.tmp');temp.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf8');temp.replace(path)
+
+def select_refresh_games(allgames, archive, asof):
+    """Keep whole matchdays; homepage limits never restrict collection.
+
+    Refresh at least five recent games including their whole final date, all
+    missing games within the last ten days, and eight older backfill records.
+    The backfill budget limits work, never the completeness of the latest day.
+    """
+    unique={str(g['id']):g for g in allgames}
+    done=sorted((g for g in unique.values() if g.get('complete') and g['date']<=asof),
+                key=lambda g:(g['date'],g.get('time',''),str(g['id'])),reverse=True)
+    if not done:return [],{}
+    cutoff=done[min(4,len(done)-1)]['date']
+    latest=[g for g in done if g['date']>=cutoff]
+    wanted={str(g['id']):(g,True) for g in latest}
+    recent_cutoff=(datetime.strptime(asof,'%Y-%m-%d').date()-timedelta(days=10)).isoformat()
+    older=[]
+    for g in done:
+        key=g['league']+':'+str(g['id']);cached=archive.get(key,{})
+        needs=not cached.get('players') or not cached.get('report') or cached.get('statsVersion')!=2
+        if needs and str(g['id']) not in wanted:
+            if g['date']>=recent_cutoff:wanted[str(g['id'])]=(g,True)
+            else:older.append(g)
+    for g in older[:8]:wanted[str(g['id'])]=(g,True)
+    for recent in latest:
+        for team in (recent['home'],recent['away']):
+            prior=[g for g in done if g['date']<recent['date'] and team in (g['home'],g['away'])][:3]
+            for g in prior:wanted.setdefault(str(g['id']),(g,False))
+    return latest,wanted
 def run(today):
     conn=bootstrap();now=datetime.now(TZ).isoformat(timespec='seconds');old=snapshot(conn) or {};archive=db_archive(conn);old_leagues={x['id']:x for x in old.get('leagues',[])};leagues=[];errors=[];schedules={}
     for lid,name,url,schedule,game in CONFIG:
@@ -32,13 +61,7 @@ def run(today):
         try:
             allgames=schedule(today);schedules[lid]=allgames;done=sorted([g for g in allgames if g['complete'] and g['date']<=today.isoformat()],key=lambda g:(g['date'],g['time'],g['id']),reverse=True)
             league['upcoming']=sorted([g for g in allgames if not g['complete'] and today.isoformat()<=g['date']<=(today+timedelta(days=6)).isoformat()],key=lambda g:(g['date'],g['time'],g['id']))
-            latest=done[:5];wanted={g['id']:(g,True) for g in latest}
-            # Bootstrap histories for teams appearing in the three displayed reports.
-            # For each report include its teams' last three matches before it.
-            for recent in latest[:3]:
-                for team in (recent['home'],recent['away']):
-                    prior=[g for g in done if g['date']<recent['date'] and team in (g['home'],g['away'])][:3]
-                    for g in prior:wanted.setdefault(g['id'],(g,False))
+            latest,wanted=select_refresh_games(allgames,archive,today.isoformat())
             with ThreadPoolExecutor(max_workers=3) as pool:
                 pending={}
                 for gid,(g,detail) in wanted.items():
