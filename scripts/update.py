@@ -28,9 +28,9 @@ def write(path,data):
 def select_refresh_games(allgames, archive, asof):
     """Keep whole matchdays; homepage limits never restrict collection.
 
-    Refresh at least five recent games including their whole final date, all
-    missing games within the last ten days, and eight older backfill records.
-    The backfill budget limits work, never the completeness of the latest day.
+    Refresh at least five recent games including their whole final date.
+    Older incomplete records are retained but not backfilled. Historical player
+    baselines use already stored data; insufficient history stays unavailable.
     """
     unique={str(g['id']):g for g in allgames}
     done=sorted((g for g in unique.values() if g.get('complete') and g['date']<=asof),
@@ -39,19 +39,6 @@ def select_refresh_games(allgames, archive, asof):
     cutoff=done[min(4,len(done)-1)]['date']
     latest=[g for g in done if g['date']>=cutoff]
     wanted={str(g['id']):(g,True) for g in latest}
-    recent_cutoff=(datetime.strptime(asof,'%Y-%m-%d').date()-timedelta(days=10)).isoformat()
-    older=[]
-    for g in done:
-        key=g['league']+':'+str(g['id']);cached=archive.get(key,{})
-        needs=not cached.get('players') or not cached.get('report') or cached.get('statsVersion')!=2
-        if needs and str(g['id']) not in wanted:
-            if g['date']>=recent_cutoff:wanted[str(g['id'])]=(g,True)
-            else:older.append(g)
-    for g in older[:8]:wanted[str(g['id'])]=(g,True)
-    for recent in latest:
-        for team in (recent['home'],recent['away']):
-            prior=[g for g in done if g['date']<recent['date'] and team in (g['home'],g['away'])][:3]
-            for g in prior:wanted.setdefault(str(g['id']),(g,False))
     return latest,wanted
 def run(today):
     conn=bootstrap();now=datetime.now(TZ).isoformat(timespec='seconds');old=snapshot(conn) or {};archive=db_archive(conn);old_leagues={x['id']:x for x in old.get('leagues',[])};leagues=[];errors=[];schedules={}

@@ -33,12 +33,12 @@ class FullMatchdayTests(unittest.TestCase):
         self.assertNotIn('7', wanted)
         self.assertNotIn('8', wanted)
 
-    def test_previous_day_not_cut_in_half_and_old_failures_retried(self):
+    def test_previous_day_not_cut_in_half_and_old_gaps_skipped(self):
         games = [fixture(1), *[fixture(i, '2026-10-17') for i in range(2, 14)],
                  fixture(20, '2026-10-05')]
         latest, wanted = select_refresh_games(games, {}, '2026-10-19')
         self.assertEqual(len(latest), 13)
-        self.assertIn('20', wanted)
+        self.assertNotIn('20', wanted)
 
     def test_database_history_and_all_single_game_pages(self):
         cache = ROOT / '.cache/catalogue-tests'

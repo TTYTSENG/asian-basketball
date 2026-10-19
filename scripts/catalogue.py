@@ -122,7 +122,7 @@ def build_catalogue(public,site,games,render):
     filters+='<label>賽季<select name="season"><option value="">全部賽季</option>'+''.join(f'<option>{esc(y)}</option>' for y in sorted({g['season'] for g in prepared},reverse=True))+'</select></label>'
     filters+='<label>日期<input type="date" name="date"></label><label>球隊<input name="team" type="search" placeholder="輸入隊名"></label>'
     filters+='<label>資料狀態<select name="status"><option value="">全部</option><option value="detail">已有詳細統計</option><option value="pending">已完賽待補</option><option value="upcoming">未完賽</option></select></label><button type="reset">清除篩選</button></form>'
-    body='<section><p>列出目前已保存的官方賽事，不代表已收齊全部歷年賽季。詳細資料會持續補抓；日報是當日快照，歷史賽事頁使用最近取得的官方紀錄。</p>'
+    body='<section><p>列出目前已保存的官方賽事，不代表已收齊全部歷年賽季。較早或資料不足場次先保留狀態，不額外回補；後續比賽持續更新。日報是當日快照，歷史賽事頁使用最近取得的官方紀錄。</p>'
     body+='<p class="meta">賽季依比賽日期以7月分界推定，供篩選使用；官方賽季或分級仍以來源為準。未完賽可能包含官方狀態待更新，請點入官網核對。</p>'+filters
     body+=f'<p id="history-count" role="status">共 {len(games)} 場已保存賽事。預設顯示最近已完賽場次；可用篩選查看未完賽。</p><div class="table-wrap"><table><caption>歷史賽事列表</caption><thead><tr><th scope="col">日期</th><th scope="col">聯盟</th><th scope="col">對戰</th><th scope="col">比分</th><th scope="col">資料狀態</th></tr></thead><tbody id="history-body">'
     body+=''.join(history_row(g) for g in games if g.get('complete'))+'</tbody></table></div><div class="pagination"><button id="history-prev" type="button" hidden>上一頁</button><span id="history-page"></span><button id="history-next" type="button" hidden>下一頁</button></div><p id="history-error" class="notice" hidden></p></section>'
