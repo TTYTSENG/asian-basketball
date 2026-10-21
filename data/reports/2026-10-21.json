@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T17:10:31+08:00",
+  "generatedAt": "2026-10-21T19:11:41+08:00",
   "asOf": "2026-10-21",
   "leagues": [
     {
@@ -6412,7 +6412,7 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。 官方事件時間不一致，按事件順序校正 18 筆；共同上場時間為重建值。"
         }
       ],
-      "lastSuccess": "2026-10-21T17:10:31+08:00"
+      "lastSuccess": "2026-10-21T19:11:41+08:00"
     },
     {
       "id": "plg",
@@ -15392,7 +15392,7 @@
           "quality": "資料驗證限制：球員失誤紀錄不符 1；受影響指標停止判定。 官方事件時間不一致，按事件順序校正 2 筆；共同上場時間為重建值。 以官方名單中唯一相同姓名校正背號／隊別 15 筆。"
         }
       ],
-      "lastSuccess": "2026-10-21T17:10:31+08:00"
+      "lastSuccess": "2026-10-21T19:11:41+08:00"
     },
     {
       "id": "b",
@@ -15406,8 +15406,8 @@
           "home": "北海道",
           "away": "富山",
           "score": [
-            null,
-            null
+            40,
+            39
           ],
           "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506486",
           "time": "18:05",
@@ -15420,8 +15420,8 @@
           "home": "宇都宮",
           "away": "名古屋D",
           "score": [
-            null,
-            null
+            45,
+            48
           ],
           "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506487",
           "time": "18:05",
@@ -15434,8 +15434,8 @@
           "home": "千葉J",
           "away": "京都",
           "score": [
-            null,
-            null
+            40,
+            54
           ],
           "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506488",
           "time": "18:05",
@@ -15448,8 +15448,8 @@
           "home": "川崎",
           "away": "大阪",
           "score": [
-            null,
-            null
+            56,
+            31
           ],
           "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506489",
           "time": "18:05",
@@ -15462,8 +15462,8 @@
           "home": "信州",
           "away": "東京SR",
           "score": [
-            null,
-            null
+            57,
+            47
           ],
           "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506490",
           "time": "18:05",
@@ -15476,8 +15476,8 @@
           "home": "滋賀",
           "away": "神戸",
           "score": [
-            null,
-            null
+            40,
+            43
           ],
           "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506491",
           "time": "18:05",
@@ -15490,8 +15490,8 @@
           "home": "広島",
           "away": "秋田",
           "score": [
-            null,
-            null
+            55,
+            50
           ],
           "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506492",
           "time": "18:05",
@@ -15504,8 +15504,8 @@
           "home": "佐賀",
           "away": "長崎",
           "score": [
-            null,
-            null
+            35,
+            48
           ],
           "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506493",
           "time": "18:05",
@@ -15518,8 +15518,8 @@
           "home": "琉球",
           "away": "A千葉",
           "score": [
-            null,
-            null
+            33,
+            24
           ],
           "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506494",
           "time": "18:35",
@@ -31779,7 +31779,7 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。"
         }
       ],
-      "lastSuccess": "2026-10-21T17:10:31+08:00"
+      "lastSuccess": "2026-10-21T19:11:41+08:00"
     },
     {
       "id": "cba",
@@ -36406,32 +36406,13 @@
           "quality": "資料驗證限制：陣容人數不足的秒數 755、出手球員不在重建陣容 16、陣容不明的得分事件 37、逐球得分與正式比分不符 1、球員出手數不符 5、球員失誤紀錄不符 4、球員得分不符 2、unparsed_events 4、缺少事件時間 4；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-10-21T17:10:31+08:00"
+      "lastSuccess": "2026-10-21T19:11:41+08:00"
     },
     {
       "id": "nbl",
       "name": "澳洲 NBL",
       "source": "https://schedule.nbl.com.au/nbl/",
       "upcoming": [
-        {
-          "league": "nbl",
-          "id": "370d79db-58ad-11f1-8bd9-59a0fb078f66",
-          "date": "2026-10-21",
-          "home": "Tasmania JackJumpers",
-          "away": "Brisbane Bullets",
-          "score": [
-            48,
-            36
-          ],
-          "source": "https://schedule.nbl.com.au/match?league=NBL&match=370d79db-58ad-11f1-8bd9-59a0fb078f66&year=2026&season=67d4a190-40bc-4bfb-a9a2-11bd0b93f020",
-          "time": "16:30",
-          "complete": false,
-          "season": "2026–27",
-          "competition": "澳洲 NBL",
-          "periodSeconds": 600,
-          "homeId": "bfab212e-410c-11f0-b95c-1b3c55488bbb",
-          "awayId": "bf3d7137-410c-11f0-8229-1b3c55488bbb"
-        },
         {
           "league": "nbl",
           "id": "370e679e-58ad-11f1-acba-8b618b817e22",
@@ -36548,6 +36529,627 @@
         }
       ],
       "recent": [
+        {
+          "league": "nbl",
+          "id": "370d79db-58ad-11f1-8bd9-59a0fb078f66",
+          "date": "2026-10-21",
+          "home": "Tasmania JackJumpers",
+          "away": "Brisbane Bullets",
+          "score": [
+            106,
+            85
+          ],
+          "source": "https://schedule.nbl.com.au/match?league=NBL&match=370d79db-58ad-11f1-8bd9-59a0fb078f66&year=2026&season=67d4a190-40bc-4bfb-a9a2-11bd0b93f020",
+          "time": "16:30",
+          "complete": true,
+          "season": "2026–27",
+          "competition": "澳洲 NBL",
+          "periodSeconds": 600,
+          "homeId": "bfab212e-410c-11f0-b95c-1b3c55488bbb",
+          "awayId": "bf3d7137-410c-11f0-8229-1b3c55488bbb",
+          "statsSource": "https://schedule.nbl.com.au/api/calendar/match?match=370d79db-58ad-11f1-8bd9-59a0fb078f66&league=NBL",
+          "stats": {
+            "home": {
+              "points": 106,
+              "fgm": 38,
+              "fga": 66,
+              "turnovers": 13,
+              "ftm": 19,
+              "fta": 27,
+              "seconds": 12000.0,
+              "assists": 28,
+              "rebounds": 43,
+              "steals": 7,
+              "blocks": 2,
+              "three_made": 11,
+              "three_attempted": 22,
+              "offensive_rebounds": 16,
+              "defensive_rebounds": 27
+            },
+            "away": {
+              "points": 85,
+              "fgm": 34,
+              "fga": 81,
+              "turnovers": 12,
+              "ftm": 9,
+              "fta": 12,
+              "seconds": 12000.0,
+              "assists": 18,
+              "rebounds": 35,
+              "steals": 7,
+              "blocks": 4,
+              "three_made": 8,
+              "three_attempted": 29,
+              "offensive_rebounds": 19,
+              "defensive_rebounds": 16
+            }
+          },
+          "pbpSource": "https://schedule.nbl.com.au/api/calendar/match?match=370d79db-58ad-11f1-8bd9-59a0fb078f66&league=NBL",
+          "advanced": {
+            "players": [
+              {
+                "id": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+                "side": "away",
+                "name": "Max Mackinnon",
+                "seconds": 1471,
+                "points": 21,
+                "usg": 28.952088775338268,
+                "eff": 17,
+                "assists": 0,
+                "turnovers": 1,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "92068945-7e79-11f1-8300-03da7d40c682",
+                "side": "away",
+                "name": "Nate Hinton",
+                "seconds": 1553,
+                "points": 13,
+                "usg": 25.85094664940125,
+                "eff": 12,
+                "assists": 5,
+                "turnovers": 2,
+                "ast_to": 2.5,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "5176def2-410d-11f0-8117-9dbbf7342624",
+                "side": "away",
+                "name": "Taine Murray",
+                "seconds": 951,
+                "points": 8,
+                "usg": 21.364311585131773,
+                "eff": 5,
+                "assists": 1,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+                "side": "away",
+                "name": "Archie Woodhill",
+                "seconds": 1054,
+                "points": 5,
+                "usg": 20.852013261880437,
+                "eff": 3,
+                "assists": 0,
+                "turnovers": 1,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+                "side": "away",
+                "name": "Raul Neto",
+                "seconds": 826,
+                "points": 9,
+                "usg": 20.69493594917324,
+                "eff": 15,
+                "assists": 6,
+                "turnovers": 3,
+                "ast_to": 2.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "506a8485-410d-11f0-8bae-9dbbf7342624",
+                "side": "away",
+                "name": "Lat Mayen",
+                "seconds": 1009,
+                "points": 9,
+                "usg": 20.426660664519932,
+                "eff": 7,
+                "assists": 0,
+                "turnovers": 1,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "77506203-410d-11f0-8a9c-2902fc2f936f",
+                "side": "away",
+                "name": "Harry Rouhliadeff",
+                "seconds": 1324,
+                "points": 4,
+                "usg": 18.222797678991036,
+                "eff": 1,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "bb900f37-8ba8-11f1-a10c-65253084e076",
+                "side": "away",
+                "name": "Jaylin Williams",
+                "seconds": 1749,
+                "points": 10,
+                "usg": 18.15096154718796,
+                "eff": 9,
+                "assists": 3,
+                "turnovers": 2,
+                "ast_to": 1.5,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+                "side": "away",
+                "name": "Mawot Mag",
+                "seconds": 1044,
+                "points": 6,
+                "usg": 11.13403412253987,
+                "eff": 7,
+                "assists": 0,
+                "turnovers": 1,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "2bb2e532-410d-11f0-9e4a-975350631782",
+                "side": "away",
+                "name": "Mitch Norton",
+                "seconds": 1019,
+                "points": 0,
+                "usg": 9.585878084406053,
+                "eff": 5,
+                "assists": 3,
+                "turnovers": 1,
+                "ast_to": 3.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "505a76d2-410d-11f0-a8c2-9dbbf7342624",
+                "side": "home",
+                "name": "Nicholas Stoddart",
+                "seconds": 162,
+                "points": 0,
+                "usg": 48.90453834115806,
+                "eff": -3,
+                "assists": 0,
+                "turnovers": 2,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+                "side": "home",
+                "name": "Taran Armstrong",
+                "seconds": 1747,
+                "points": 19,
+                "usg": 26.18170384643292,
+                "eff": 20,
+                "assists": 6,
+                "turnovers": 5,
+                "ast_to": 1.2,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+                "side": "home",
+                "name": "Josh Bannan",
+                "seconds": 1785,
+                "points": 22,
+                "usg": 25.92022724582791,
+                "eff": 29,
+                "assists": 5,
+                "turnovers": 1,
+                "ast_to": 5.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+                "side": "home",
+                "name": "David Johnson",
+                "seconds": 1441,
+                "points": 17,
+                "usg": 23.82441770679595,
+                "eff": 17,
+                "assists": 3,
+                "turnovers": 1,
+                "ast_to": 3.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "6acd2470-410d-11f0-855a-9dbbf7342624",
+                "side": "home",
+                "name": "Nick Marshall",
+                "seconds": 1371,
+                "points": 12,
+                "usg": 19.031035226677353,
+                "eff": 12,
+                "assists": 0,
+                "turnovers": 1,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "503613bd-410d-11f0-86d2-9dbbf7342624",
+                "side": "home",
+                "name": "Will Magnay",
+                "seconds": 1644,
+                "points": 12,
+                "usg": 17.09160069908502,
+                "eff": 22,
+                "assists": 7,
+                "turnovers": 1,
+                "ast_to": 7.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "6b99c9fc-410d-11f0-ba5e-9dbbf7342624",
+                "side": "home",
+                "name": "Kody Stattmann",
+                "seconds": 162,
+                "points": 0,
+                "usg": 16.30151278038602,
+                "eff": 1,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+                "side": "home",
+                "name": "Dakota Mathias",
+                "seconds": 2116,
+                "points": 16,
+                "usg": 15.92494475358769,
+                "eff": 18,
+                "assists": 6,
+                "turnovers": 1,
+                "ast_to": 6.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "77156fba-410d-11f0-bf4f-2902fc2f936f",
+                "side": "home",
+                "name": "Biwali Bayles",
+                "seconds": 201,
+                "points": 0,
+                "usg": 13.138532688669331,
+                "eff": -1,
+                "assists": 0,
+                "turnovers": 1,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+                "side": "home",
+                "name": "Ben Gold",
+                "seconds": 1329,
+                "points": 8,
+                "usg": 9.458557212348584,
+                "eff": 12,
+                "assists": 1,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "8dba126b-7991-11f0-8dc5-3d951dd99a45",
+                "side": "home",
+                "name": "Jed Richardson",
+                "seconds": 21,
+                "points": 0,
+                "usg": 0.0,
+                "eff": 0,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "aff70461-78ad-11f0-a0a5-b53d5691d7c3",
+                "side": "home",
+                "name": "Ryley Haywood",
+                "seconds": 21,
+                "points": 0,
+                "usg": 0.0,
+                "eff": 0,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              }
+            ],
+            "benchmark": {
+              "id": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+              "side": "home",
+              "name": "Josh Bannan",
+              "seconds": 1785,
+              "points": 22,
+              "usg": 25.92022724582791,
+              "eff": 29,
+              "assists": 5,
+              "turnovers": 1,
+              "ast_to": 5.0,
+              "potential_assists": null,
+              "passes_made": null,
+              "passes_received": null,
+              "secondary_assists": null,
+              "vorp": null
+            },
+            "observation": {
+              "teams": {
+                "home": {
+                  "ts": 68.05341551104263,
+                  "fta_rate": 40.90909090909091,
+                  "assisted_fg_pct": 73.6842105263158,
+                  "ft_points_pct": 17.92452830188679,
+                  "efg": 65.9090909090909,
+                  "three_attempt_pct": 33.333333333333336,
+                  "three_points_pct": 31.132075471698112,
+                  "oreb_pct": 50.0,
+                  "dreb_pct": 58.69565217391305,
+                  "paint_points": null,
+                  "second_chance_points": null,
+                  "fast_break_points": null,
+                  "off_rating_est": 137.519460300986,
+                  "tov_pct_est": 16.86559418785677,
+                  "source_counts": {
+                    "points": 106,
+                    "fgm": 38,
+                    "fga": 66,
+                    "three_made": 11,
+                    "three_attempted": 22,
+                    "ftm": 19,
+                    "fta": 27,
+                    "assists": 28,
+                    "turnovers": 13,
+                    "offensive_rebounds": 16,
+                    "defensive_rebounds": 27
+                  }
+                },
+                "away": {
+                  "ts": 49.258229021789525,
+                  "fta_rate": 14.814814814814815,
+                  "assisted_fg_pct": 52.94117647058823,
+                  "ft_points_pct": 10.588235294117647,
+                  "efg": 46.91358024691358,
+                  "three_attempt_pct": 35.80246913580247,
+                  "three_points_pct": 28.235294117647058,
+                  "oreb_pct": 41.30434782608695,
+                  "dreb_pct": 50.0,
+                  "paint_points": null,
+                  "second_chance_points": null,
+                  "fast_break_points": null,
+                  "off_rating_est": 110.27503892060197,
+                  "tov_pct_est": 15.568240788790867,
+                  "source_counts": {
+                    "points": 85,
+                    "fgm": 34,
+                    "fga": 81,
+                    "three_made": 8,
+                    "three_attempted": 29,
+                    "ftm": 9,
+                    "fta": 12,
+                    "assists": 18,
+                    "turnovers": 12,
+                    "offensive_rebounds": 19,
+                    "defensive_rebounds": 16
+                  }
+                }
+              },
+              "possessions_est": 77.08,
+              "regulation_minutes": 40.0,
+              "warnings": [],
+              "method": "回合為雙方(FGA−ORB＋TOV＋0.44×FTA)平均估計；不是官方逐回合或追蹤數據。TS%同樣使用0.44估計係數。"
+            },
+            "benchmark_method": "本場 EFF 最高且至少上場十分鐘的球員；EFF 是傳統綜合效率，不是整體能力排名。",
+            "tracking_status": "官網逐球沒有完整的傳球者、接球者與傳球鏈，潛在助攻、傳出／接球次數及次級助攻尚不可計算；不以助攻次數代替。",
+            "vorp_status": "尚無適用 TPBL、P+、B.LEAGUE 且完成驗證的 BPM 模型、替補基準與完整賽季球權資料，暫不計算 VORP；不把單場正負值當作 BPM。",
+            "ato": {
+              "records": [
+                {
+                  "period": 2,
+                  "timeout_sec": 168,
+                  "timeout_side": "away",
+                  "offense": "away",
+                  "defense": "home",
+                  "points": 0,
+                  "turnovers": 1,
+                  "finisher": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 3,
+                  "timeout_sec": 416,
+                  "timeout_side": "away",
+                  "offense": "away",
+                  "defense": "home",
+                  "points": 0,
+                  "turnovers": 1,
+                  "finisher": "bb900f37-8ba8-11f1-a10c-65253084e076",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 3,
+                  "timeout_sec": 58,
+                  "timeout_side": "away",
+                  "offense": "away",
+                  "defense": "home",
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 4,
+                  "timeout_sec": 21,
+                  "timeout_side": "away",
+                  "offense": "away",
+                  "defense": "home",
+                  "points": 3,
+                  "turnovers": 0,
+                  "finisher": "506a8485-410d-11f0-8bae-9dbbf7342624",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                }
+              ],
+              "summary": [
+                {
+                  "side": "home",
+                  "attack_n": 0,
+                  "attack_success": 0,
+                  "defense_n": 0,
+                  "defense_success": 0,
+                  "points": 0,
+                  "turnovers": 0
+                },
+                {
+                  "side": "away",
+                  "attack_n": 0,
+                  "attack_success": 0,
+                  "defense_n": 0,
+                  "defense_success": 0,
+                  "points": 0,
+                  "turnovers": 0
+                }
+              ],
+              "excluded": 4,
+              "total": 4
+            }
+          },
+          "analysis": [
+            [
+              "第四節最後五分鐘的關鍵球員",
+              "逐球資料或比分驗證不足，暫不判定。"
+            ],
+            [
+              "五人組合與個人近三場",
+              "尚無至少兩組共同上場四分鐘、且通過完整換人與比分驗證的五人組合。"
+            ],
+            [
+              "球員特殊變化提示",
+              "沒有符合門檻的得分變化，或球員之前三場實際出賽資料不足。門檻：本場至少十分鐘，得分相差至少八分。"
+            ]
+          ],
+          "lineups": [],
+          "keyPlayers": [],
+          "playerChanges": [],
+          "quality": "資料驗證限制：事件時間倒退 15、出手球員不在重建陣容 57、逐球得分與正式比分不符 1、球員失誤紀錄不符 1；受影響指標停止判定。"
+        },
         {
           "league": "nbl",
           "id": "371032f3-58ad-11f1-a72d-69c2b72ae0a9",
@@ -39134,604 +39736,9 @@
           "keyPlayers": [],
           "playerChanges": [],
           "quality": "資料驗證限制：事件時間倒退 65、出手球員不在重建陣容 15、陣容人數不足的秒數 368、陣容不明的得分事件 11、缺少事件時間 1；受影響指標停止判定。"
-        },
-        {
-          "league": "nbl",
-          "id": "3700bf63-58ad-11f1-89a0-03625b994063",
-          "date": "2026-10-16",
-          "home": "Tasmania JackJumpers",
-          "away": "Adelaide 36ers",
-          "score": [
-            88,
-            94
-          ],
-          "source": "https://schedule.nbl.com.au/match?league=NBL&match=3700bf63-58ad-11f1-89a0-03625b994063&year=2026&season=67d4a190-40bc-4bfb-a9a2-11bd0b93f020",
-          "time": "16:30",
-          "complete": true,
-          "season": "2026–27",
-          "competition": "澳洲 NBL",
-          "periodSeconds": 600,
-          "homeId": "0602b1bc-8dfb-488c-ac11-7895de1a7556",
-          "awayId": "3164912c-7e74-463b-8fc3-5f7d45edfcc6",
-          "statsSource": "https://schedule.nbl.com.au/api/calendar/match?match=3700bf63-58ad-11f1-89a0-03625b994063&league=NBL",
-          "stats": {
-            "home": {
-              "points": 88,
-              "fgm": 35,
-              "fga": 70,
-              "turnovers": 13,
-              "ftm": 8,
-              "fta": 12,
-              "seconds": 12000.0,
-              "assists": 21,
-              "rebounds": 38,
-              "steals": 3,
-              "blocks": 3,
-              "three_made": 10,
-              "three_attempted": 31,
-              "offensive_rebounds": 10,
-              "defensive_rebounds": 28
-            },
-            "away": {
-              "points": 94,
-              "fgm": 33,
-              "fga": 68,
-              "turnovers": 5,
-              "ftm": 20,
-              "fta": 29,
-              "seconds": 12000.0,
-              "assists": 18,
-              "rebounds": 35,
-              "steals": 7,
-              "blocks": 0,
-              "three_made": 8,
-              "three_attempted": 26,
-              "offensive_rebounds": 11,
-              "defensive_rebounds": 24
-            }
-          },
-          "pbpSource": "https://schedule.nbl.com.au/api/calendar/match?match=3700bf63-58ad-11f1-89a0-03625b994063&league=NBL",
-          "advanced": {
-            "players": [
-              {
-                "id": "5000dcdc-410d-11f0-87be-9dbbf7342624",
-                "side": "away",
-                "name": "Bryce Cotton",
-                "seconds": 2328,
-                "points": 35,
-                "usg": 34.57262655793199,
-                "eff": 33,
-                "assists": 5,
-                "turnovers": 1,
-                "ast_to": 5.0,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "aa0319fe-9a80-11f0-b3c8-412517d7cfd1",
-                "side": "away",
-                "name": "Nick Rakocevic",
-                "seconds": 1502,
-                "points": 13,
-                "usg": 31.152493193155394,
-                "eff": 9,
-                "assists": 2,
-                "turnovers": 1,
-                "ast_to": 2.0,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "38c500ec-f10b-11f0-8aaf-db8065a34bd1",
-                "side": "away",
-                "name": "John Jenkins III",
-                "seconds": 1790,
-                "points": 13,
-                "usg": 21.512548986909028,
-                "eff": 7,
-                "assists": 1,
-                "turnovers": 1,
-                "ast_to": 1.0,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "6c400b70-410d-11f0-981c-9dbbf7342624",
-                "side": "away",
-                "name": "Keanu Rasmussen",
-                "seconds": 1213,
-                "points": 8,
-                "usg": 20.487012587515835,
-                "eff": 10,
-                "assists": 4,
-                "turnovers": 2,
-                "ast_to": 2.0,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "75ac7795-410d-11f0-a812-2902fc2f936f",
-                "side": "away",
-                "name": "Zylan Cheatham",
-                "seconds": 2400,
-                "points": 15,
-                "usg": 12.686567164179104,
-                "eff": 25,
-                "assists": 3,
-                "turnovers": 0,
-                "ast_to": null,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "4fbce56d-410d-11f0-9f23-9dbbf7342624",
-                "side": "away",
-                "name": "Matt Kenyon",
-                "seconds": 1120,
-                "points": 4,
-                "usg": 9.394989339019189,
-                "eff": 11,
-                "assists": 3,
-                "turnovers": 0,
-                "ast_to": null,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "75eadf37-410d-11f0-96ca-2902fc2f936f",
-                "side": "away",
-                "name": "Jacob Rigoni",
-                "seconds": 1447,
-                "points": 6,
-                "usg": 5.802019618562337,
-                "eff": 7,
-                "assists": 0,
-                "turnovers": 0,
-                "ast_to": null,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "0f83407b-410d-11f0-8c13-9dbbf7342624",
-                "side": "away",
-                "name": "Corey Webster",
-                "seconds": 69,
-                "points": 0,
-                "usg": 0.0,
-                "eff": 0,
-                "assists": 0,
-                "turnovers": 0,
-                "ast_to": null,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "516ccd9a-410d-11f0-b7aa-9dbbf7342624",
-                "side": "away",
-                "name": "Isaac White",
-                "seconds": 129,
-                "points": 0,
-                "usg": 0.0,
-                "eff": 0,
-                "assists": 0,
-                "turnovers": 0,
-                "ast_to": null,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "c658f351-75cc-11f1-9795-d1fdb3712424",
-                "side": "away",
-                "name": "Deonte Williams",
-                "seconds": 2,
-                "points": 0,
-                "usg": 0.0,
-                "eff": 0,
-                "assists": 0,
-                "turnovers": 0,
-                "ast_to": null,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "6c291b79-410d-11f0-a3af-9dbbf7342624",
-                "side": "home",
-                "name": "Josh Bannan",
-                "seconds": 1563,
-                "points": 13,
-                "usg": 29.56915137405237,
-                "eff": 12,
-                "assists": 2,
-                "turnovers": 4,
-                "ast_to": 0.5,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "d802e793-5d66-11f1-bf06-3de9ffd90808",
-                "side": "home",
-                "name": "Ben Gold",
-                "seconds": 1535,
-                "points": 12,
-                "usg": 27.91237238930321,
-                "eff": 8,
-                "assists": 1,
-                "turnovers": 4,
-                "ast_to": 0.25,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
-                "side": "home",
-                "name": "Taran Armstrong",
-                "seconds": 2173,
-                "points": 20,
-                "usg": 23.470482886001975,
-                "eff": 23,
-                "assists": 10,
-                "turnovers": 1,
-                "ast_to": 10.0,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "503613bd-410d-11f0-86d2-9dbbf7342624",
-                "side": "home",
-                "name": "Will Magnay",
-                "seconds": 1510,
-                "points": 19,
-                "usg": 21.172848582325354,
-                "eff": 29,
-                "assists": 5,
-                "turnovers": 1,
-                "ast_to": 5.0,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
-                "side": "home",
-                "name": "Dakota Mathias",
-                "seconds": 2058,
-                "points": 14,
-                "usg": 18.494031051478135,
-                "eff": 12,
-                "assists": 0,
-                "turnovers": 2,
-                "ast_to": 0.0,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
-                "side": "home",
-                "name": "David Johnson",
-                "seconds": 1104,
-                "points": 4,
-                "usg": 17.237643072437503,
-                "eff": 3,
-                "assists": 2,
-                "turnovers": 0,
-                "ast_to": null,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "77156fba-410d-11f0-bf4f-2902fc2f936f",
-                "side": "home",
-                "name": "Biwali Bayles",
-                "seconds": 227,
-                "points": 0,
-                "usg": 11.976310857124608,
-                "eff": -1,
-                "assists": 0,
-                "turnovers": 0,
-                "ast_to": null,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "6acd2470-410d-11f0-855a-9dbbf7342624",
-                "side": "home",
-                "name": "Nick Marshall",
-                "seconds": 1830,
-                "points": 6,
-                "usg": 4.456758302569321,
-                "eff": 10,
-                "assists": 1,
-                "turnovers": 1,
-                "ast_to": 1.0,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              }
-            ],
-            "benchmark": {
-              "id": "5000dcdc-410d-11f0-87be-9dbbf7342624",
-              "side": "away",
-              "name": "Bryce Cotton",
-              "seconds": 2328,
-              "points": 35,
-              "usg": 34.57262655793199,
-              "eff": 33,
-              "assists": 5,
-              "turnovers": 1,
-              "ast_to": 5.0,
-              "potential_assists": null,
-              "passes_made": null,
-              "passes_received": null,
-              "secondary_assists": null,
-              "vorp": null
-            },
-            "observation": {
-              "teams": {
-                "home": {
-                  "ts": 58.448459086078635,
-                  "fta_rate": 17.142857142857142,
-                  "assisted_fg_pct": 60.0,
-                  "ft_points_pct": 9.090909090909092,
-                  "efg": 57.142857142857146,
-                  "three_attempt_pct": 44.285714285714285,
-                  "three_points_pct": 34.09090909090909,
-                  "oreb_pct": 29.41176470588235,
-                  "dreb_pct": 71.7948717948718,
-                  "paint_points": null,
-                  "second_chance_points": null,
-                  "fast_break_points": null,
-                  "off_rating_est": 115.0026136957658,
-                  "tov_pct_est": 16.989022477783585,
-                  "source_counts": {
-                    "points": 88,
-                    "fgm": 35,
-                    "fga": 70,
-                    "three_made": 10,
-                    "three_attempted": 31,
-                    "ftm": 8,
-                    "fta": 12,
-                    "assists": 21,
-                    "turnovers": 13,
-                    "offensive_rebounds": 10,
-                    "defensive_rebounds": 28
-                  }
-                },
-                "away": {
-                  "ts": 58.19712729073799,
-                  "fta_rate": 42.64705882352941,
-                  "assisted_fg_pct": 54.54545454545455,
-                  "ft_points_pct": 21.27659574468085,
-                  "efg": 54.411764705882355,
-                  "three_attempt_pct": 38.23529411764706,
-                  "three_points_pct": 25.53191489361702,
-                  "oreb_pct": 28.205128205128204,
-                  "dreb_pct": 70.58823529411765,
-                  "paint_points": null,
-                  "second_chance_points": null,
-                  "fast_break_points": null,
-                  "off_rating_est": 122.84370099320438,
-                  "tov_pct_est": 6.534239414532148,
-                  "source_counts": {
-                    "points": 94,
-                    "fgm": 33,
-                    "fga": 68,
-                    "three_made": 8,
-                    "three_attempted": 26,
-                    "ftm": 20,
-                    "fta": 29,
-                    "assists": 18,
-                    "turnovers": 5,
-                    "offensive_rebounds": 11,
-                    "defensive_rebounds": 24
-                  }
-                }
-              },
-              "possessions_est": 76.52000000000001,
-              "regulation_minutes": 40.0,
-              "warnings": [],
-              "method": "回合為雙方(FGA−ORB＋TOV＋0.44×FTA)平均估計；不是官方逐回合或追蹤數據。TS%同樣使用0.44估計係數。"
-            },
-            "benchmark_method": "本場 EFF 最高且至少上場十分鐘的球員；EFF 是傳統綜合效率，不是整體能力排名。",
-            "tracking_status": "官網逐球沒有完整的傳球者、接球者與傳球鏈，潛在助攻、傳出／接球次數及次級助攻尚不可計算；不以助攻次數代替。",
-            "vorp_status": "尚無適用 TPBL、P+、B.LEAGUE 且完成驗證的 BPM 模型、替補基準與完整賽季球權資料，暫不計算 VORP；不把單場正負值當作 BPM。",
-            "ato": {
-              "records": [
-                {
-                  "period": 2,
-                  "timeout_sec": 371,
-                  "timeout_side": "home",
-                  "offense": "away",
-                  "defense": "home",
-                  "points": 2,
-                  "turnovers": 0,
-                  "finisher": "38c500ec-f10b-11f0-8aaf-db8065a34bd1",
-                  "inbounder": null,
-                  "receiver": null,
-                  "eligible": false,
-                  "exclusion": "逐球得分、時間或失誤驗證不足"
-                },
-                {
-                  "period": 2,
-                  "timeout_sec": 191,
-                  "timeout_side": "away",
-                  "offense": "away",
-                  "defense": "home",
-                  "points": 0,
-                  "turnovers": 0,
-                  "finisher": "5000dcdc-410d-11f0-87be-9dbbf7342624",
-                  "inbounder": null,
-                  "receiver": null,
-                  "eligible": false,
-                  "exclusion": "逐球得分、時間或失誤驗證不足"
-                },
-                {
-                  "period": 2,
-                  "timeout_sec": 6,
-                  "timeout_side": "away",
-                  "offense": "away",
-                  "defense": "home",
-                  "points": 0,
-                  "turnovers": 1,
-                  "finisher": "5000dcdc-410d-11f0-87be-9dbbf7342624",
-                  "inbounder": null,
-                  "receiver": null,
-                  "eligible": false,
-                  "exclusion": "逐球得分、時間或失誤驗證不足"
-                },
-                {
-                  "period": 3,
-                  "timeout_sec": 334,
-                  "timeout_side": "home",
-                  "offense": "home",
-                  "defense": "away",
-                  "points": 2,
-                  "turnovers": 0,
-                  "finisher": "6c291b79-410d-11f0-a3af-9dbbf7342624",
-                  "inbounder": null,
-                  "receiver": null,
-                  "eligible": false,
-                  "exclusion": "逐球得分、時間或失誤驗證不足"
-                },
-                {
-                  "period": 4,
-                  "timeout_sec": 403,
-                  "timeout_side": "away",
-                  "offense": "away",
-                  "defense": "home",
-                  "points": 0,
-                  "turnovers": 0,
-                  "finisher": "5000dcdc-410d-11f0-87be-9dbbf7342624",
-                  "inbounder": null,
-                  "receiver": null,
-                  "eligible": false,
-                  "exclusion": "逐球得分、時間或失誤驗證不足"
-                },
-                {
-                  "period": 4,
-                  "timeout_sec": 186,
-                  "timeout_side": "home",
-                  "offense": "home",
-                  "defense": "away",
-                  "points": 0,
-                  "turnovers": 1,
-                  "finisher": "503613bd-410d-11f0-86d2-9dbbf7342624",
-                  "inbounder": null,
-                  "receiver": null,
-                  "eligible": false,
-                  "exclusion": "逐球得分、時間或失誤驗證不足"
-                },
-                {
-                  "period": 4,
-                  "timeout_sec": 82,
-                  "timeout_side": "home",
-                  "offense": "home",
-                  "defense": "away",
-                  "points": 0,
-                  "turnovers": 0,
-                  "finisher": "503613bd-410d-11f0-86d2-9dbbf7342624",
-                  "inbounder": null,
-                  "receiver": null,
-                  "eligible": false,
-                  "exclusion": "逐球得分、時間或失誤驗證不足"
-                }
-              ],
-              "summary": [
-                {
-                  "side": "home",
-                  "attack_n": 0,
-                  "attack_success": 0,
-                  "defense_n": 0,
-                  "defense_success": 0,
-                  "points": 0,
-                  "turnovers": 0
-                },
-                {
-                  "side": "away",
-                  "attack_n": 0,
-                  "attack_success": 0,
-                  "defense_n": 0,
-                  "defense_success": 0,
-                  "points": 0,
-                  "turnovers": 0
-                }
-              ],
-              "excluded": 7,
-              "total": 7
-            }
-          },
-          "analysis": [
-            [
-              "第四節最後五分鐘的關鍵球員",
-              "逐球資料或比分驗證不足，暫不判定。"
-            ],
-            [
-              "五人組合與個人近三場",
-              "尚無至少兩組共同上場四分鐘、且通過完整換人與比分驗證的五人組合。"
-            ],
-            [
-              "球員特殊變化提示",
-              "沒有符合門檻的得分變化，或球員之前三場實際出賽資料不足。門檻：本場至少十分鐘，得分相差至少八分。"
-            ]
-          ],
-          "lineups": [],
-          "keyPlayers": [],
-          "playerChanges": [],
-          "quality": "資料驗證限制：事件時間倒退 33、出手球員不在重建陣容 2；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-10-21T17:10:31+08:00"
+      "lastSuccess": "2026-10-21T19:11:41+08:00"
     }
   ],
   "news": [
@@ -39752,7 +39759,7 @@
           "url": "https://www.easl.basketball/news/game-recap-abra-weavers-thrill-home-crowd-take-first-easl-win-versus-eastern"
         }
       ],
-      "lastSuccess": "2026-10-21T17:10:31+08:00"
+      "lastSuccess": "2026-10-21T19:11:41+08:00"
     },
     {
       "name": "CBA",
@@ -39774,7 +39781,7 @@
           "date": "2026-10-19"
         }
       ],
-      "lastSuccess": "2026-10-21T17:10:31+08:00"
+      "lastSuccess": "2026-10-21T19:11:41+08:00"
     },
     {
       "name": "FIBA 亞洲賽事",
@@ -39793,50 +39800,10 @@
           "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/2027-wcq-asia-august-31-game-center"
         }
       ],
-      "lastSuccess": "2026-10-21T17:10:31+08:00"
+      "lastSuccess": "2026-10-21T19:11:41+08:00"
     }
   ],
   "guides": [
-    {
-      "name": "澳洲 NBL",
-      "description": "澳洲國家籃球聯賽，包含澳洲與紐西蘭職業球隊。例行賽與季後賽的參賽隊伍及賽制依當季官方公告；每節十分鐘。本站將官方比賽時間轉為臺北時間，與亞洲聯盟並列觀察。",
-      "links": [
-        {
-          "label": "聯盟與球隊",
-          "url": "https://www.nbl.com.au/"
-        },
-        {
-          "label": "官方賽程與 Game Centre",
-          "url": "https://schedule.nbl.com.au/nbl/"
-        },
-        {
-          "label": "球員與球隊數據",
-          "url": "https://www.nbl.com.au/stats/statistics"
-        }
-      ],
-      "teams": [
-        "Adelaide 36ers",
-        "Brisbane Bullets",
-        "Cairns Taipans",
-        "Illawarra Hawks",
-        "Melbourne United",
-        "NZ Breakers",
-        "Perth Wildcats",
-        "South East Melbourne Phoenix",
-        "Sydney Kings",
-        "Tasmania JackJumpers"
-      ],
-      "players": [
-        "Malith Machar",
-        "Josh Oduro",
-        "Cole Anthony",
-        "Sam Waardenburg",
-        "Luke Travers",
-        "Joe Ingles",
-        "Shea Ili",
-        "Tom Wilson"
-      ]
-    },
     {
       "name": "TPBL",
       "description": "臺灣職業籃球聯盟，以主客場例行賽與季後賽競逐冠軍。每節十二分鐘；賽季隊伍、球員註冊與季後賽資格以當季官方章程為準。",
@@ -40020,6 +39987,46 @@
         "艾孜麦提",
         "杨",
         "曲笑宇"
+      ]
+    },
+    {
+      "name": "澳洲 NBL",
+      "description": "澳洲國家籃球聯賽，包含澳洲與紐西蘭職業球隊。例行賽與季後賽的參賽隊伍及賽制依當季官方公告；每節十分鐘。本站將官方比賽時間轉為臺北時間，與亞洲聯盟並列觀察。",
+      "links": [
+        {
+          "label": "聯盟與球隊",
+          "url": "https://www.nbl.com.au/"
+        },
+        {
+          "label": "官方賽程與 Game Centre",
+          "url": "https://schedule.nbl.com.au/nbl/"
+        },
+        {
+          "label": "球員與球隊數據",
+          "url": "https://www.nbl.com.au/stats/statistics"
+        }
+      ],
+      "teams": [
+        "Adelaide 36ers",
+        "Brisbane Bullets",
+        "Cairns Taipans",
+        "Illawarra Hawks",
+        "Melbourne United",
+        "NZ Breakers",
+        "Perth Wildcats",
+        "South East Melbourne Phoenix",
+        "Sydney Kings",
+        "Tasmania JackJumpers"
+      ],
+      "players": [
+        "Ryley Haywood",
+        "Nicholas Stoddart",
+        "Kody Stattmann",
+        "Biwali Bayles",
+        "Josh Bannan",
+        "Will Magnay",
+        "David Johnson",
+        "Ben Gold"
       ]
     },
     {

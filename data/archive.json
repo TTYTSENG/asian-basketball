@@ -842118,5 +842118,4549 @@
         "total": 7
       }
     }
+  },
+  "nbl:370d79db-58ad-11f1-8bd9-59a0fb078f66": {
+    "league": "nbl",
+    "id": "370d79db-58ad-11f1-8bd9-59a0fb078f66",
+    "date": "2026-10-21",
+    "home": "Tasmania JackJumpers",
+    "away": "Brisbane Bullets",
+    "score": [
+      106,
+      85
+    ],
+    "source": "https://schedule.nbl.com.au/match?league=NBL&match=370d79db-58ad-11f1-8bd9-59a0fb078f66&year=2026&season=67d4a190-40bc-4bfb-a9a2-11bd0b93f020",
+    "time": "16:30",
+    "complete": true,
+    "season": "2026–27",
+    "competition": "澳洲 NBL",
+    "periodSeconds": 600,
+    "homeId": "bfab212e-410c-11f0-b95c-1b3c55488bbb",
+    "awayId": "bf3d7137-410c-11f0-8229-1b3c55488bbb",
+    "statsSource": "https://schedule.nbl.com.au/api/calendar/match?match=370d79db-58ad-11f1-8bd9-59a0fb078f66&league=NBL",
+    "players": {
+      "home": [
+        {
+          "id": "aff70461-78ad-11f0-a0a5-b53d5691d7c3",
+          "name": "Ryley Haywood",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 21,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "three_made": 0,
+          "three_attempted": 0
+        },
+        {
+          "id": "505a76d2-410d-11f0-a8c2-9dbbf7342624",
+          "name": "Nicholas Stoddart",
+          "points": 0,
+          "fgm": 0,
+          "fga": 1,
+          "turnovers": 2,
+          "seconds": 162,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "three_made": 0,
+          "three_attempted": 1
+        },
+        {
+          "id": "6b99c9fc-410d-11f0-ba5e-9dbbf7342624",
+          "name": "Kody Stattmann",
+          "points": 0,
+          "fgm": 0,
+          "fga": 1,
+          "turnovers": 0,
+          "seconds": 162,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 2,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 1,
+          "three_made": 0,
+          "three_attempted": 0
+        },
+        {
+          "id": "77156fba-410d-11f0-bf4f-2902fc2f936f",
+          "name": "Biwali Bayles",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 1,
+          "seconds": 201,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "three_made": 0,
+          "three_attempted": 0
+        },
+        {
+          "id": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+          "name": "Josh Bannan",
+          "points": 22,
+          "fgm": 8,
+          "fga": 13,
+          "turnovers": 1,
+          "seconds": 1785,
+          "ftm": 6,
+          "fta": 8,
+          "assists": 5,
+          "rebounds": 9,
+          "steals": 1,
+          "blocks": 0,
+          "offensive_rebounds": 2,
+          "defensive_rebounds": 7,
+          "three_made": 0,
+          "three_attempted": 2
+        },
+        {
+          "id": "503613bd-410d-11f0-86d2-9dbbf7342624",
+          "name": "Will Magnay",
+          "points": 12,
+          "fgm": 4,
+          "fga": 7,
+          "turnovers": 1,
+          "seconds": 1644,
+          "ftm": 4,
+          "fta": 6,
+          "assists": 7,
+          "rebounds": 7,
+          "steals": 2,
+          "blocks": 0,
+          "offensive_rebounds": 4,
+          "defensive_rebounds": 3,
+          "three_made": 0,
+          "three_attempted": 0
+        },
+        {
+          "id": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+          "name": "David Johnson",
+          "points": 17,
+          "fgm": 7,
+          "fga": 12,
+          "turnovers": 1,
+          "seconds": 1441,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 3,
+          "rebounds": 2,
+          "steals": 0,
+          "blocks": 1,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 1,
+          "three_made": 3,
+          "three_attempted": 5
+        },
+        {
+          "id": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+          "name": "Ben Gold",
+          "points": 8,
+          "fgm": 2,
+          "fga": 3,
+          "turnovers": 0,
+          "seconds": 1329,
+          "ftm": 3,
+          "fta": 4,
+          "assists": 1,
+          "rebounds": 4,
+          "steals": 0,
+          "blocks": 1,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 3,
+          "three_made": 1,
+          "three_attempted": 1
+        },
+        {
+          "id": "8dba126b-7991-11f0-8dc5-3d951dd99a45",
+          "name": "Jed Richardson",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 21,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "three_made": 0,
+          "three_attempted": 0
+        },
+        {
+          "id": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+          "name": "Taran Armstrong",
+          "points": 19,
+          "fgm": 8,
+          "fga": 11,
+          "turnovers": 5,
+          "seconds": 1747,
+          "ftm": 2,
+          "fta": 3,
+          "assists": 6,
+          "rebounds": 2,
+          "steals": 2,
+          "blocks": 0,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 1,
+          "three_made": 1,
+          "three_attempted": 2
+        },
+        {
+          "id": "6acd2470-410d-11f0-855a-9dbbf7342624",
+          "name": "Nick Marshall",
+          "points": 12,
+          "fgm": 4,
+          "fga": 8,
+          "turnovers": 1,
+          "seconds": 1371,
+          "ftm": 1,
+          "fta": 2,
+          "assists": 0,
+          "rebounds": 4,
+          "steals": 2,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 4,
+          "three_made": 3,
+          "three_attempted": 5
+        },
+        {
+          "id": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+          "name": "Dakota Mathias",
+          "points": 16,
+          "fgm": 5,
+          "fga": 10,
+          "turnovers": 1,
+          "seconds": 2116,
+          "ftm": 3,
+          "fta": 4,
+          "assists": 6,
+          "rebounds": 3,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 2,
+          "three_made": 3,
+          "three_attempted": 6
+        }
+      ],
+      "away": [
+        {
+          "id": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+          "name": "Raul Neto",
+          "points": 9,
+          "fgm": 4,
+          "fga": 4,
+          "turnovers": 3,
+          "seconds": 826,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 6,
+          "rebounds": 2,
+          "steals": 1,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 2,
+          "three_made": 1,
+          "three_attempted": 1
+        },
+        {
+          "id": "5176def2-410d-11f0-8117-9dbbf7342624",
+          "name": "Taine Murray",
+          "points": 8,
+          "fgm": 3,
+          "fga": 7,
+          "turnovers": 0,
+          "seconds": 951,
+          "ftm": 1,
+          "fta": 3,
+          "assists": 1,
+          "rebounds": 2,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 2,
+          "defensive_rebounds": 0,
+          "three_made": 1,
+          "three_attempted": 4
+        },
+        {
+          "id": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+          "name": "Archie Woodhill",
+          "points": 5,
+          "fgm": 2,
+          "fga": 8,
+          "turnovers": 1,
+          "seconds": 1054,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 4,
+          "steals": 1,
+          "blocks": 0,
+          "offensive_rebounds": 3,
+          "defensive_rebounds": 1,
+          "three_made": 1,
+          "three_attempted": 2
+        },
+        {
+          "id": "506a8485-410d-11f0-8bae-9dbbf7342624",
+          "name": "Lat Mayen",
+          "points": 9,
+          "fgm": 4,
+          "fga": 7,
+          "turnovers": 1,
+          "seconds": 1009,
+          "ftm": 0,
+          "fta": 1,
+          "assists": 0,
+          "rebounds": 3,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 3,
+          "defensive_rebounds": 0,
+          "three_made": 1,
+          "three_attempted": 2
+        },
+        {
+          "id": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+          "name": "Max Mackinnon",
+          "points": 21,
+          "fgm": 8,
+          "fga": 16,
+          "turnovers": 1,
+          "seconds": 1471,
+          "ftm": 1,
+          "fta": 1,
+          "assists": 0,
+          "rebounds": 4,
+          "steals": 1,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 4,
+          "three_made": 4,
+          "three_attempted": 8
+        },
+        {
+          "id": "92068945-7e79-11f1-8300-03da7d40c682",
+          "name": "Nate Hinton",
+          "points": 13,
+          "fgm": 6,
+          "fga": 14,
+          "turnovers": 2,
+          "seconds": 1553,
+          "ftm": 1,
+          "fta": 1,
+          "assists": 5,
+          "rebounds": 2,
+          "steals": 2,
+          "blocks": 0,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 1,
+          "three_made": 0,
+          "three_attempted": 3
+        },
+        {
+          "id": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+          "name": "Tyrell Harrison",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "three_made": 0,
+          "three_attempted": 0
+        },
+        {
+          "id": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+          "name": "Mawot Mag",
+          "points": 6,
+          "fgm": 1,
+          "fga": 2,
+          "turnovers": 1,
+          "seconds": 1044,
+          "ftm": 4,
+          "fta": 4,
+          "assists": 0,
+          "rebounds": 1,
+          "steals": 1,
+          "blocks": 1,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 1,
+          "three_made": 0,
+          "three_attempted": 1
+        },
+        {
+          "id": "77506203-410d-11f0-8a9c-2902fc2f936f",
+          "name": "Harry Rouhliadeff",
+          "points": 4,
+          "fgm": 1,
+          "fga": 9,
+          "turnovers": 0,
+          "seconds": 1324,
+          "ftm": 2,
+          "fta": 2,
+          "assists": 0,
+          "rebounds": 4,
+          "steals": 0,
+          "blocks": 1,
+          "offensive_rebounds": 4,
+          "defensive_rebounds": 0,
+          "three_made": 0,
+          "three_attempted": 3
+        },
+        {
+          "id": "bb900f37-8ba8-11f1-a10c-65253084e076",
+          "name": "Jaylin Williams",
+          "points": 10,
+          "fgm": 5,
+          "fga": 11,
+          "turnovers": 2,
+          "seconds": 1749,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 3,
+          "rebounds": 3,
+          "steals": 0,
+          "blocks": 1,
+          "offensive_rebounds": 2,
+          "defensive_rebounds": 1,
+          "three_made": 0,
+          "three_attempted": 3
+        },
+        {
+          "id": "2bb2e532-410d-11f0-9e4a-975350631782",
+          "name": "Mitch Norton",
+          "points": 0,
+          "fgm": 0,
+          "fga": 3,
+          "turnovers": 1,
+          "seconds": 1019,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 3,
+          "rebounds": 4,
+          "steals": 1,
+          "blocks": 1,
+          "offensive_rebounds": 2,
+          "defensive_rebounds": 2,
+          "three_made": 0,
+          "three_attempted": 2
+        }
+      ]
+    },
+    "stats": {
+      "home": {
+        "points": 106,
+        "fgm": 38,
+        "fga": 66,
+        "turnovers": 13,
+        "ftm": 19,
+        "fta": 27,
+        "seconds": 12000.0,
+        "assists": 28,
+        "rebounds": 43,
+        "steals": 7,
+        "blocks": 2,
+        "three_made": 11,
+        "three_attempted": 22,
+        "offensive_rebounds": 16,
+        "defensive_rebounds": 27
+      },
+      "away": {
+        "points": 85,
+        "fgm": 34,
+        "fga": 81,
+        "turnovers": 12,
+        "ftm": 9,
+        "fta": 12,
+        "seconds": 12000.0,
+        "assists": 18,
+        "rebounds": 35,
+        "steals": 7,
+        "blocks": 4,
+        "three_made": 8,
+        "three_attempted": 29,
+        "offensive_rebounds": 19,
+        "defensive_rebounds": 16
+      }
+    },
+    "events": [
+      {
+        "period": 1,
+        "sec": 578,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 558,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 537,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 532,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 532,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 515,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 515,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 515,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 519,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 519,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 515,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 501,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 472,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 466,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 466,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 462,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 462,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 462,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 462,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 462,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 451,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 451,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 435,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 435,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 423,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 408,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 401,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 401,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 401,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 386,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 370,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 364,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 345,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 345,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 345,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 345,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 345,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 331,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 327,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 299,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 280,
+        "side": "home",
+        "pid": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+        "name": "Ben Gold",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 280,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 307,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 280,
+        "side": "home",
+        "pid": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+        "name": "Ben Gold",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 280,
+        "side": "home",
+        "pid": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+        "name": "Ben Gold",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 267,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 244,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 244,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 233,
+        "side": "away",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 229,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 221,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 196,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 190,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 180,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 180,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 180,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 180,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 180,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 162,
+        "side": "home",
+        "pid": "77156fba-410d-11f0-bf4f-2902fc2f936f",
+        "name": "Biwali Bayles",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 153,
+        "side": "away",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 134,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 115,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 78,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 78,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 46,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 34,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 34,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 22,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 22,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 22,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 1,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 59,
+        "side": "away",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 62,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 100,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 100,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 591,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 575,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 575,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 565,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 565,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 547,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 534,
+        "side": "home",
+        "pid": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+        "name": "Ben Gold",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 534,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 522,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 522,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 501,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 489,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 489,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 489,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 489,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 489,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 469,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 449,
+        "side": "home",
+        "pid": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+        "name": "Ben Gold",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 449,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 443,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 429,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 429,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 407,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 398,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 398,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 395,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 395,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 383,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 366,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 356,
+        "side": "away",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 346,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 346,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 333,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 333,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 315,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 315,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 292,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 285,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 272,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 272,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 270,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 270,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 250,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 234,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 234,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 221,
+        "side": "away",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 221,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 221,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 221,
+        "side": "away",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 221,
+        "side": "away",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 219,
+        "side": "away",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 197,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 194,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 187,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 168,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 168,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 168,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 168,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 168,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 178,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 152,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 152,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 152,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 152,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 152,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 136,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 136,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 136,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 136,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 125,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 104,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 104,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 97,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 97,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 82,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 82,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 82,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 82,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 82,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 64,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 48,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 43,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 34,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 28,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 7,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 476,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 476,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 476,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 92,
+        "side": "away",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 87,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 587,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 572,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 572,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 569,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 569,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 548,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 548,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 526,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 510,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 510,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 502,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 502,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 483,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 483,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 474,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 474,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 468,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 468,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 456,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 456,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 445,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 445,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 445,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 445,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 434,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 421,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 421,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 421,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 421,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 421,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 417,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 416,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 488,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 488,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 405,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 405,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 397,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 384,
+        "side": "away",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 375,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 371,
+        "side": "away",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 357,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 357,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 345,
+        "side": "away",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 345,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 344,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 344,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 322,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 322,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 319,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 319,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 319,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 319,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 306,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 306,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 306,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 306,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 295,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 283,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 283,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 283,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 266,
+        "side": "away",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 266,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 259,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 252,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 235,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 235,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 235,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 235,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 235,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 214,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 214,
+        "side": "home",
+        "pid": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+        "name": "Ben Gold",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 202,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 202,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 188,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 169,
+        "side": "away",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 165,
+        "side": "away",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 153,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 139,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 121,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 99,
+        "side": "home",
+        "pid": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+        "name": "Ben Gold",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 99,
+        "side": "away",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 81,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 65,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 58,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 58,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 58,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 37,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 30,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 23,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 2,
+        "side": "away",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 2,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 35,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 35,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 588,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 572,
+        "side": "home",
+        "pid": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+        "name": "Ben Gold",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 572,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 572,
+        "side": "home",
+        "pid": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+        "name": "Ben Gold",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 572,
+        "side": "home",
+        "pid": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+        "name": "Ben Gold",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 572,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 547,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 536,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 536,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 516,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 516,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 497,
+        "side": "home",
+        "pid": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+        "name": "Ben Gold",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 490,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 490,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 472,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 476,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 476,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 464,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 453,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 448,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 445,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 445,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 445,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 445,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 445,
+        "side": "away",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 432,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 432,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 432,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 432,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 432,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 424,
+        "side": "away",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 405,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 405,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 387,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 387,
+        "side": "home",
+        "pid": "6acd2470-410d-11f0-855a-9dbbf7342624",
+        "name": "Nick Marshall",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 372,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 372,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 359,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 356,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 356,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 337,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 337,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 337,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 337,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 317,
+        "side": "away",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 317,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 287,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 287,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 273,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 248,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 236,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 220,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 220,
+        "side": "away",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 215,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 215,
+        "side": "away",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 193,
+        "side": "home",
+        "pid": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+        "name": "Ben Gold",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 193,
+        "side": "home",
+        "pid": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+        "name": "Taran Armstrong",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 172,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 172,
+        "side": "away",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 157,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 148,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 146,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 140,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 136,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 132,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 113,
+        "side": "home",
+        "pid": "6b99c9fc-410d-11f0-ba5e-9dbbf7342624",
+        "name": "Kody Stattmann",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 113,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 113,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 101,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 99,
+        "side": "home",
+        "pid": "505a76d2-410d-11f0-a8c2-9dbbf7342624",
+        "name": "Nicholas Stoddart",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 99,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 90,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 79,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 79,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 79,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 79,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 68,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 68,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 55,
+        "side": "away",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 50,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 29,
+        "side": "home",
+        "pid": "505a76d2-410d-11f0-a8c2-9dbbf7342624",
+        "name": "Nicholas Stoddart",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 25,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 25,
+        "side": "home",
+        "pid": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+        "name": "Dakota Mathias",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 21,
+        "side": "home",
+        "pid": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+        "name": "Ben Gold",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 21,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 21,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 19,
+        "side": "home",
+        "pid": "505a76d2-410d-11f0-a8c2-9dbbf7342624",
+        "name": "Nicholas Stoddart",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 19,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 7,
+        "side": "away",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 7,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 2,
+        "side": "home",
+        "pid": "505a76d2-410d-11f0-a8c2-9dbbf7342624",
+        "name": "Nicholas Stoddart",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 1,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 1,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 2,
+        "side": "away",
+        "pid": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+        "name": "Max Mackinnon",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 393,
+        "side": "home",
+        "pid": "503613bd-410d-11f0-86d2-9dbbf7342624",
+        "name": "Will Magnay",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 384,
+        "side": "home",
+        "pid": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+        "name": "David Johnson",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 182,
+        "side": "away",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 93,
+        "side": "away",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 68,
+        "side": "home",
+        "pid": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "name": "Josh Bannan",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 68,
+        "side": "away",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      }
+    ],
+    "report": {
+      "key": [],
+      "keyPlayers": [],
+      "lineups": [],
+      "issues": {
+        "clock": 15,
+        "absent_player": 57,
+        "score": 1,
+        "box_turnovers": 1
+      },
+      "counts": {
+        "home": {
+          "2c961a5e-b0a7-11f0-a50c-29696256d6d9": {
+            "points": 16,
+            "turnovers": 1,
+            "fgm": 5,
+            "fga": 10,
+            "assists": 6,
+            "steals": 0,
+            "blocks": 0
+          },
+          "6acd2470-410d-11f0-855a-9dbbf7342624": {
+            "points": 12,
+            "turnovers": 1,
+            "fgm": 4,
+            "fga": 8,
+            "assists": 0,
+            "steals": 2,
+            "blocks": 0
+          },
+          "50da5c2e-410d-11f0-b4c1-9dbbf7342624": {
+            "points": 19,
+            "turnovers": 5,
+            "fgm": 8,
+            "fga": 11,
+            "assists": 6,
+            "steals": 2,
+            "blocks": 0
+          },
+          "6c291b79-410d-11f0-a3af-9dbbf7342624": {
+            "points": 22,
+            "turnovers": 2,
+            "fgm": 8,
+            "fga": 13,
+            "assists": 5,
+            "steals": 1,
+            "blocks": 0
+          },
+          "503613bd-410d-11f0-86d2-9dbbf7342624": {
+            "points": 12,
+            "turnovers": 1,
+            "fgm": 4,
+            "fga": 7,
+            "assists": 7,
+            "steals": 2,
+            "blocks": 0
+          },
+          "d802e793-5d66-11f1-bf06-3de9ffd90808": {
+            "points": 8,
+            "turnovers": 0,
+            "fgm": 2,
+            "fga": 3,
+            "assists": 1,
+            "steals": 0,
+            "blocks": 1
+          },
+          "d03ec058-530a-11f0-8dce-df8f30c19ba4": {
+            "points": 17,
+            "turnovers": 1,
+            "fgm": 7,
+            "fga": 12,
+            "assists": 3,
+            "steals": 0,
+            "blocks": 1
+          },
+          "77156fba-410d-11f0-bf4f-2902fc2f936f": {
+            "points": 0,
+            "turnovers": 1,
+            "fgm": 0,
+            "fga": 0,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0
+          },
+          "6b99c9fc-410d-11f0-ba5e-9dbbf7342624": {
+            "points": 0,
+            "turnovers": 0,
+            "fgm": 0,
+            "fga": 1,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0
+          },
+          "505a76d2-410d-11f0-a8c2-9dbbf7342624": {
+            "points": 0,
+            "turnovers": 2,
+            "fgm": 0,
+            "fga": 1,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0
+          },
+          "aff70461-78ad-11f0-a0a5-b53d5691d7c3": {},
+          "8dba126b-7991-11f0-8dc5-3d951dd99a45": {}
+        },
+        "away": {
+          "6b64f080-410d-11f0-84d8-9dbbf7342624": {
+            "points": 21,
+            "turnovers": 1,
+            "fgm": 8,
+            "fga": 16,
+            "assists": 0,
+            "steals": 1,
+            "blocks": 0
+          },
+          "92068945-7e79-11f1-8300-03da7d40c682": {
+            "points": 13,
+            "turnovers": 2,
+            "fgm": 6,
+            "fga": 14,
+            "assists": 5,
+            "steals": 3,
+            "blocks": 0
+          },
+          "77506203-410d-11f0-8a9c-2902fc2f936f": {
+            "points": 4,
+            "turnovers": 0,
+            "fgm": 1,
+            "fga": 9,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 1
+          },
+          "2bb2e532-410d-11f0-9e4a-975350631782": {
+            "points": 0,
+            "turnovers": 1,
+            "fgm": 0,
+            "fga": 3,
+            "assists": 3,
+            "steals": 1,
+            "blocks": 1
+          },
+          "bb900f37-8ba8-11f1-a10c-65253084e076": {
+            "points": 10,
+            "turnovers": 2,
+            "fgm": 5,
+            "fga": 11,
+            "assists": 3,
+            "steals": 0,
+            "blocks": 1
+          },
+          "5176def2-410d-11f0-8117-9dbbf7342624": {
+            "points": 8,
+            "turnovers": 0,
+            "fgm": 3,
+            "fga": 7,
+            "assists": 1,
+            "steals": 0,
+            "blocks": 0
+          },
+          "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9": {
+            "points": 9,
+            "turnovers": 3,
+            "fgm": 4,
+            "fga": 4,
+            "assists": 6,
+            "steals": 1,
+            "blocks": 0
+          },
+          "6ae51b44-410d-11f0-b4e3-9dbbf7342624": {
+            "points": 5,
+            "turnovers": 1,
+            "fgm": 2,
+            "fga": 8,
+            "assists": 0,
+            "steals": 1,
+            "blocks": 1
+          },
+          "506a8485-410d-11f0-8bae-9dbbf7342624": {
+            "points": 9,
+            "turnovers": 1,
+            "fgm": 4,
+            "fga": 7,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0
+          },
+          "3d90487d-78c8-11f0-97f8-a75e0a32dc9a": {
+            "points": 6,
+            "turnovers": 1,
+            "fgm": 1,
+            "fga": 2,
+            "assists": 0,
+            "steals": 2,
+            "blocks": 1
+          },
+          "501ecdb9-410d-11f0-82fa-9dbbf7342624": {}
+        }
+      }
+    },
+    "pbpSource": "https://schedule.nbl.com.au/api/calendar/match?match=370d79db-58ad-11f1-8bd9-59a0fb078f66&league=NBL",
+    "advanced": {
+      "players": [
+        {
+          "id": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+          "side": "away",
+          "name": "Max Mackinnon",
+          "seconds": 1471,
+          "points": 21,
+          "usg": 28.952088775338268,
+          "eff": 17,
+          "assists": 0,
+          "turnovers": 1,
+          "ast_to": 0.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "92068945-7e79-11f1-8300-03da7d40c682",
+          "side": "away",
+          "name": "Nate Hinton",
+          "seconds": 1553,
+          "points": 13,
+          "usg": 25.85094664940125,
+          "eff": 12,
+          "assists": 5,
+          "turnovers": 2,
+          "ast_to": 2.5,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "5176def2-410d-11f0-8117-9dbbf7342624",
+          "side": "away",
+          "name": "Taine Murray",
+          "seconds": 951,
+          "points": 8,
+          "usg": 21.364311585131773,
+          "eff": 5,
+          "assists": 1,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+          "side": "away",
+          "name": "Archie Woodhill",
+          "seconds": 1054,
+          "points": 5,
+          "usg": 20.852013261880437,
+          "eff": 3,
+          "assists": 0,
+          "turnovers": 1,
+          "ast_to": 0.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+          "side": "away",
+          "name": "Raul Neto",
+          "seconds": 826,
+          "points": 9,
+          "usg": 20.69493594917324,
+          "eff": 15,
+          "assists": 6,
+          "turnovers": 3,
+          "ast_to": 2.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "506a8485-410d-11f0-8bae-9dbbf7342624",
+          "side": "away",
+          "name": "Lat Mayen",
+          "seconds": 1009,
+          "points": 9,
+          "usg": 20.426660664519932,
+          "eff": 7,
+          "assists": 0,
+          "turnovers": 1,
+          "ast_to": 0.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "77506203-410d-11f0-8a9c-2902fc2f936f",
+          "side": "away",
+          "name": "Harry Rouhliadeff",
+          "seconds": 1324,
+          "points": 4,
+          "usg": 18.222797678991036,
+          "eff": 1,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "bb900f37-8ba8-11f1-a10c-65253084e076",
+          "side": "away",
+          "name": "Jaylin Williams",
+          "seconds": 1749,
+          "points": 10,
+          "usg": 18.15096154718796,
+          "eff": 9,
+          "assists": 3,
+          "turnovers": 2,
+          "ast_to": 1.5,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+          "side": "away",
+          "name": "Mawot Mag",
+          "seconds": 1044,
+          "points": 6,
+          "usg": 11.13403412253987,
+          "eff": 7,
+          "assists": 0,
+          "turnovers": 1,
+          "ast_to": 0.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "2bb2e532-410d-11f0-9e4a-975350631782",
+          "side": "away",
+          "name": "Mitch Norton",
+          "seconds": 1019,
+          "points": 0,
+          "usg": 9.585878084406053,
+          "eff": 5,
+          "assists": 3,
+          "turnovers": 1,
+          "ast_to": 3.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "505a76d2-410d-11f0-a8c2-9dbbf7342624",
+          "side": "home",
+          "name": "Nicholas Stoddart",
+          "seconds": 162,
+          "points": 0,
+          "usg": 48.90453834115806,
+          "eff": -3,
+          "assists": 0,
+          "turnovers": 2,
+          "ast_to": 0.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "50da5c2e-410d-11f0-b4c1-9dbbf7342624",
+          "side": "home",
+          "name": "Taran Armstrong",
+          "seconds": 1747,
+          "points": 19,
+          "usg": 26.18170384643292,
+          "eff": 20,
+          "assists": 6,
+          "turnovers": 5,
+          "ast_to": 1.2,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+          "side": "home",
+          "name": "Josh Bannan",
+          "seconds": 1785,
+          "points": 22,
+          "usg": 25.92022724582791,
+          "eff": 29,
+          "assists": 5,
+          "turnovers": 1,
+          "ast_to": 5.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "d03ec058-530a-11f0-8dce-df8f30c19ba4",
+          "side": "home",
+          "name": "David Johnson",
+          "seconds": 1441,
+          "points": 17,
+          "usg": 23.82441770679595,
+          "eff": 17,
+          "assists": 3,
+          "turnovers": 1,
+          "ast_to": 3.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "6acd2470-410d-11f0-855a-9dbbf7342624",
+          "side": "home",
+          "name": "Nick Marshall",
+          "seconds": 1371,
+          "points": 12,
+          "usg": 19.031035226677353,
+          "eff": 12,
+          "assists": 0,
+          "turnovers": 1,
+          "ast_to": 0.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "503613bd-410d-11f0-86d2-9dbbf7342624",
+          "side": "home",
+          "name": "Will Magnay",
+          "seconds": 1644,
+          "points": 12,
+          "usg": 17.09160069908502,
+          "eff": 22,
+          "assists": 7,
+          "turnovers": 1,
+          "ast_to": 7.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "6b99c9fc-410d-11f0-ba5e-9dbbf7342624",
+          "side": "home",
+          "name": "Kody Stattmann",
+          "seconds": 162,
+          "points": 0,
+          "usg": 16.30151278038602,
+          "eff": 1,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "2c961a5e-b0a7-11f0-a50c-29696256d6d9",
+          "side": "home",
+          "name": "Dakota Mathias",
+          "seconds": 2116,
+          "points": 16,
+          "usg": 15.92494475358769,
+          "eff": 18,
+          "assists": 6,
+          "turnovers": 1,
+          "ast_to": 6.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "77156fba-410d-11f0-bf4f-2902fc2f936f",
+          "side": "home",
+          "name": "Biwali Bayles",
+          "seconds": 201,
+          "points": 0,
+          "usg": 13.138532688669331,
+          "eff": -1,
+          "assists": 0,
+          "turnovers": 1,
+          "ast_to": 0.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "d802e793-5d66-11f1-bf06-3de9ffd90808",
+          "side": "home",
+          "name": "Ben Gold",
+          "seconds": 1329,
+          "points": 8,
+          "usg": 9.458557212348584,
+          "eff": 12,
+          "assists": 1,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "8dba126b-7991-11f0-8dc5-3d951dd99a45",
+          "side": "home",
+          "name": "Jed Richardson",
+          "seconds": 21,
+          "points": 0,
+          "usg": 0.0,
+          "eff": 0,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "aff70461-78ad-11f0-a0a5-b53d5691d7c3",
+          "side": "home",
+          "name": "Ryley Haywood",
+          "seconds": 21,
+          "points": 0,
+          "usg": 0.0,
+          "eff": 0,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        }
+      ],
+      "benchmark": {
+        "id": "6c291b79-410d-11f0-a3af-9dbbf7342624",
+        "side": "home",
+        "name": "Josh Bannan",
+        "seconds": 1785,
+        "points": 22,
+        "usg": 25.92022724582791,
+        "eff": 29,
+        "assists": 5,
+        "turnovers": 1,
+        "ast_to": 5.0,
+        "potential_assists": null,
+        "passes_made": null,
+        "passes_received": null,
+        "secondary_assists": null,
+        "vorp": null
+      },
+      "observation": {
+        "teams": {
+          "home": {
+            "ts": 68.05341551104263,
+            "fta_rate": 40.90909090909091,
+            "assisted_fg_pct": 73.6842105263158,
+            "ft_points_pct": 17.92452830188679,
+            "efg": 65.9090909090909,
+            "three_attempt_pct": 33.333333333333336,
+            "three_points_pct": 31.132075471698112,
+            "oreb_pct": 50.0,
+            "dreb_pct": 58.69565217391305,
+            "paint_points": null,
+            "second_chance_points": null,
+            "fast_break_points": null,
+            "off_rating_est": 137.519460300986,
+            "tov_pct_est": 16.86559418785677,
+            "source_counts": {
+              "points": 106,
+              "fgm": 38,
+              "fga": 66,
+              "three_made": 11,
+              "three_attempted": 22,
+              "ftm": 19,
+              "fta": 27,
+              "assists": 28,
+              "turnovers": 13,
+              "offensive_rebounds": 16,
+              "defensive_rebounds": 27
+            }
+          },
+          "away": {
+            "ts": 49.258229021789525,
+            "fta_rate": 14.814814814814815,
+            "assisted_fg_pct": 52.94117647058823,
+            "ft_points_pct": 10.588235294117647,
+            "efg": 46.91358024691358,
+            "three_attempt_pct": 35.80246913580247,
+            "three_points_pct": 28.235294117647058,
+            "oreb_pct": 41.30434782608695,
+            "dreb_pct": 50.0,
+            "paint_points": null,
+            "second_chance_points": null,
+            "fast_break_points": null,
+            "off_rating_est": 110.27503892060197,
+            "tov_pct_est": 15.568240788790867,
+            "source_counts": {
+              "points": 85,
+              "fgm": 34,
+              "fga": 81,
+              "three_made": 8,
+              "three_attempted": 29,
+              "ftm": 9,
+              "fta": 12,
+              "assists": 18,
+              "turnovers": 12,
+              "offensive_rebounds": 19,
+              "defensive_rebounds": 16
+            }
+          }
+        },
+        "possessions_est": 77.08,
+        "regulation_minutes": 40.0,
+        "warnings": [],
+        "method": "回合為雙方(FGA−ORB＋TOV＋0.44×FTA)平均估計；不是官方逐回合或追蹤數據。TS%同樣使用0.44估計係數。"
+      },
+      "benchmark_method": "本場 EFF 最高且至少上場十分鐘的球員；EFF 是傳統綜合效率，不是整體能力排名。",
+      "tracking_status": "官網逐球沒有完整的傳球者、接球者與傳球鏈，潛在助攻、傳出／接球次數及次級助攻尚不可計算；不以助攻次數代替。",
+      "vorp_status": "尚無適用 TPBL、P+、B.LEAGUE 且完成驗證的 BPM 模型、替補基準與完整賽季球權資料，暫不計算 VORP；不把單場正負值當作 BPM。",
+      "ato": {
+        "records": [
+          {
+            "period": 2,
+            "timeout_sec": 168,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 0,
+            "turnovers": 1,
+            "finisher": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          },
+          {
+            "period": 3,
+            "timeout_sec": 416,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 0,
+            "turnovers": 1,
+            "finisher": "bb900f37-8ba8-11f1-a10c-65253084e076",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          },
+          {
+            "period": 3,
+            "timeout_sec": 58,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 0,
+            "turnovers": 0,
+            "finisher": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          },
+          {
+            "period": 4,
+            "timeout_sec": 21,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 3,
+            "turnovers": 0,
+            "finisher": "506a8485-410d-11f0-8bae-9dbbf7342624",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          }
+        ],
+        "summary": [
+          {
+            "side": "home",
+            "attack_n": 0,
+            "attack_success": 0,
+            "defense_n": 0,
+            "defense_success": 0,
+            "points": 0,
+            "turnovers": 0
+          },
+          {
+            "side": "away",
+            "attack_n": 0,
+            "attack_success": 0,
+            "defense_n": 0,
+            "defense_success": 0,
+            "points": 0,
+            "turnovers": 0
+          }
+        ],
+        "excluded": 4,
+        "total": 4
+      }
+    }
   }
 }
