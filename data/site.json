@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-21T19:11:41+08:00",
-  "asOf": "2026-10-21",
+  "generatedAt": "2026-10-22T03:03:08+08:00",
+  "asOf": "2026-10-22",
   "leagues": [
     {
       "id": "tpbl",
@@ -6412,7 +6412,7 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。 官方事件時間不一致，按事件順序校正 18 筆；共同上場時間為重建值。"
         }
       ],
-      "lastSuccess": "2026-10-21T19:11:41+08:00"
+      "lastSuccess": "2026-10-22T03:03:08+08:00"
     },
     {
       "id": "plg",
@@ -15392,7 +15392,7 @@
           "quality": "資料驗證限制：球員失誤紀錄不符 1；受影響指標停止判定。 官方事件時間不一致，按事件順序校正 2 筆；共同上場時間為重建值。 以官方名單中唯一相同姓名校正背號／隊別 15 筆。"
         }
       ],
-      "lastSuccess": "2026-10-21T19:11:41+08:00"
+      "lastSuccess": "2026-10-22T03:03:08+08:00"
     },
     {
       "id": "b",
@@ -31779,49 +31779,14 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。"
         }
       ],
-      "lastSuccess": "2026-10-21T19:11:41+08:00"
+      "lastSuccess": "2026-10-21T19:11:41+08:00",
+      "error": "官方來源暫時無法讀取；保留上次成功資料，待下次排程重試。"
     },
     {
       "id": "cba",
       "name": "CBA",
       "source": "https://www.cbaleague.com/data/",
       "upcoming": [
-        {
-          "league": "cba",
-          "id": "100110794",
-          "date": "2026-10-21",
-          "home": "青岛崂山啤酒",
-          "away": "辽宁本钢",
-          "score": [
-            null,
-            null
-          ],
-          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110794&date=2026-10-21&isToMatch=0",
-          "time": "19:35",
-          "complete": false,
-          "competition": "常规赛第2轮",
-          "season": 2026,
-          "quarter": null,
-          "analysisOnly": true
-        },
-        {
-          "league": "cba",
-          "id": "100110801",
-          "date": "2026-10-21",
-          "home": "浙江稠州金租",
-          "away": "山东高速",
-          "score": [
-            null,
-            null
-          ],
-          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110801&date=2026-10-21&isToMatch=0",
-          "time": "19:35",
-          "complete": false,
-          "competition": "常规赛第2轮",
-          "season": 2026,
-          "quarter": null,
-          "analysisOnly": true
-        },
         {
           "league": "cba",
           "id": "100110820",
@@ -32343,9 +32308,1414 @@
           "season": 2026,
           "quarter": null,
           "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100110963",
+          "date": "2026-10-28",
+          "home": "深圳马可波罗",
+          "away": "山西汾酒",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110963&date=2026-10-28&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第5轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
         }
       ],
       "recent": [
+        {
+          "league": "cba",
+          "id": "100110801",
+          "date": "2026-10-21",
+          "home": "浙江稠州金租",
+          "away": "山东高速",
+          "score": [
+            89,
+            75
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110801&date=2026-10-21&isToMatch=0",
+          "time": "19:35",
+          "complete": true,
+          "competition": "常规赛第2轮",
+          "season": 2026,
+          "quarter": 4,
+          "analysisOnly": true,
+          "stats": {
+            "home": {
+              "points": 89,
+              "fgm": 30,
+              "fga": 68,
+              "turnovers": 10,
+              "ftm": 17,
+              "fta": 22,
+              "seconds": 12000,
+              "assists": 17,
+              "rebounds": 38,
+              "steals": 14,
+              "blocks": 2,
+              "three_made": null,
+              "three_attempted": null,
+              "offensive_rebounds": null,
+              "defensive_rebounds": null
+            },
+            "away": {
+              "points": 75,
+              "fgm": 24,
+              "fga": 56,
+              "turnovers": 18,
+              "ftm": 17,
+              "fta": 23,
+              "seconds": 12000,
+              "assists": 15,
+              "rebounds": 37,
+              "steals": 7,
+              "blocks": 1,
+              "three_made": null,
+              "three_attempted": null,
+              "offensive_rebounds": null,
+              "defensive_rebounds": null
+            }
+          },
+          "statsSource": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110801&date=2026-10-21&isToMatch=0",
+          "pbpSource": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110801&date=2026-10-21&isToMatch=0",
+          "periodSeconds": 600,
+          "statsVersion": 2,
+          "advanced": {
+            "players": [
+              {
+                "id": "100111136",
+                "side": "away",
+                "name": "班顿",
+                "seconds": 1402,
+                "points": 17,
+                "usg": 37.281161413997935,
+                "eff": 10,
+                "assists": 2,
+                "turnovers": 5,
+                "ast_to": 0.4,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100111138",
+                "side": "away",
+                "name": "普卢默",
+                "seconds": 1010,
+                "points": 8,
+                "usg": 31.07300744339769,
+                "eff": 5,
+                "assists": 1,
+                "turnovers": 3,
+                "ast_to": 0.3333333333333333,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100012416",
+                "side": "away",
+                "name": "王岚嵚",
+                "seconds": 1475,
+                "points": 10,
+                "usg": 24.913561739887328,
+                "eff": 6,
+                "assists": 2,
+                "turnovers": 1,
+                "ast_to": 2.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100098030",
+                "side": "away",
+                "name": "法耶",
+                "seconds": 1424,
+                "points": 11,
+                "usg": 23.08099184151052,
+                "eff": 11,
+                "assists": 2,
+                "turnovers": 4,
+                "ast_to": 0.5,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100094640",
+                "side": "away",
+                "name": "姚柯宇",
+                "seconds": 752,
+                "points": 3,
+                "usg": 18.969860685343125,
+                "eff": 0,
+                "assists": 0,
+                "turnovers": 2,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100084648",
+                "side": "away",
+                "name": "王证",
+                "seconds": 757,
+                "points": 8,
+                "usg": 15.075651503702014,
+                "eff": 11,
+                "assists": 1,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100005217",
+                "side": "away",
+                "name": "杨文学",
+                "seconds": 384,
+                "points": 0,
+                "usg": 13.968140751307654,
+                "eff": -1,
+                "assists": 1,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100012403",
+                "side": "away",
+                "name": "祝铭震",
+                "seconds": 1724,
+                "points": 10,
+                "usg": 13.040700888025393,
+                "eff": 14,
+                "assists": 2,
+                "turnovers": 2,
+                "ast_to": 1.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "907892",
+                "side": "away",
+                "name": "陶汉林",
+                "seconds": 1278,
+                "points": 6,
+                "usg": 12.591000113854788,
+                "eff": 10,
+                "assists": 0,
+                "turnovers": 1,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100005379",
+                "side": "away",
+                "name": "陈培东",
+                "seconds": 764,
+                "points": 2,
+                "usg": 11.203142855008926,
+                "eff": 2,
+                "assists": 1,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "959483",
+                "side": "away",
+                "name": "郭凯",
+                "seconds": 600,
+                "points": 0,
+                "usg": 9.51022349025202,
+                "eff": 7,
+                "assists": 3,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "907846",
+                "side": "away",
+                "name": "陈林坚",
+                "seconds": 430,
+                "points": 0,
+                "usg": 6.635039644361876,
+                "eff": 0,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100111139",
+                "side": "home",
+                "name": "维塔尔",
+                "seconds": 1222,
+                "points": 15,
+                "usg": 33.330545832487125,
+                "eff": 14,
+                "assists": 3,
+                "turnovers": 2,
+                "ast_to": 1.5,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100089034",
+                "side": "home",
+                "name": "扎加尔斯",
+                "seconds": 1517,
+                "points": 22,
+                "usg": 28.220315740344226,
+                "eff": 25,
+                "assists": 4,
+                "turnovers": 2,
+                "ast_to": 2.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100012212",
+                "side": "home",
+                "name": "孟子凯",
+                "seconds": 1042,
+                "points": 6,
+                "usg": 27.424800706109806,
+                "eff": 3,
+                "assists": 0,
+                "turnovers": 2,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100000598",
+                "side": "home",
+                "name": "程帅澎",
+                "seconds": 1473,
+                "points": 14,
+                "usg": 25.79273640864019,
+                "eff": 8,
+                "assists": 2,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100014112",
+                "side": "home",
+                "name": "约翰逊",
+                "seconds": 1065,
+                "points": 9,
+                "usg": 24.77639559987663,
+                "eff": 22,
+                "assists": 2,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100054714",
+                "side": "home",
+                "name": "周怡杉",
+                "seconds": 292,
+                "points": 0,
+                "usg": 18.74812518748125,
+                "eff": -2,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "907828",
+                "side": "home",
+                "name": "吴前",
+                "seconds": 1090,
+                "points": 1,
+                "usg": 12.254737828969395,
+                "eff": 1,
+                "assists": 3,
+                "turnovers": 2,
+                "ast_to": 1.5,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "959480",
+                "side": "home",
+                "name": "陆文博",
+                "seconds": 1673,
+                "points": 9,
+                "usg": 11.452829612436245,
+                "eff": 11,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100000331",
+                "side": "home",
+                "name": "王仔路",
+                "seconds": 982,
+                "points": 5,
+                "usg": 11.149597871170112,
+                "eff": 7,
+                "assists": 1,
+                "turnovers": 2,
+                "ast_to": 0.5,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100016974",
+                "side": "home",
+                "name": "张洪硕",
+                "seconds": 497,
+                "points": 3,
+                "usg": 10.354095375170731,
+                "eff": 5,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100074609",
+                "side": "home",
+                "name": "余嘉豪",
+                "seconds": 1003,
+                "points": 5,
+                "usg": 9.387894710030492,
+                "eff": 11,
+                "assists": 2,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100002182",
+                "side": "home",
+                "name": "刘泽一",
+                "seconds": 144,
+                "points": 0,
+                "usg": 0.0,
+                "eff": 0,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              }
+            ],
+            "benchmark": {
+              "id": "100089034",
+              "side": "home",
+              "name": "扎加尔斯",
+              "seconds": 1517,
+              "points": 22,
+              "usg": 28.220315740344226,
+              "eff": 25,
+              "assists": 4,
+              "turnovers": 2,
+              "ast_to": 2.0,
+              "potential_assists": null,
+              "passes_made": null,
+              "passes_received": null,
+              "secondary_assists": null,
+              "vorp": null
+            },
+            "observation": {
+              "teams": {
+                "home": {
+                  "ts": 57.286302780638515,
+                  "fta_rate": 32.35294117647059,
+                  "assisted_fg_pct": 56.666666666666664,
+                  "ft_points_pct": 19.10112359550562,
+                  "efg": null,
+                  "three_attempt_pct": null,
+                  "three_points_pct": null,
+                  "oreb_pct": null,
+                  "dreb_pct": null,
+                  "paint_points": null,
+                  "second_chance_points": null,
+                  "fast_break_points": null,
+                  "off_rating_est": null,
+                  "tov_pct_est": null,
+                  "source_counts": {
+                    "points": 89,
+                    "fgm": 30,
+                    "fga": 68,
+                    "three_made": null,
+                    "three_attempted": null,
+                    "ftm": 17,
+                    "fta": 22,
+                    "assists": 17,
+                    "turnovers": 10,
+                    "offensive_rebounds": null,
+                    "defensive_rebounds": null
+                  }
+                },
+                "away": {
+                  "ts": 56.71506352087114,
+                  "fta_rate": 41.07142857142857,
+                  "assisted_fg_pct": 62.5,
+                  "ft_points_pct": 22.666666666666668,
+                  "efg": null,
+                  "three_attempt_pct": null,
+                  "three_points_pct": null,
+                  "oreb_pct": null,
+                  "dreb_pct": null,
+                  "paint_points": null,
+                  "second_chance_points": null,
+                  "fast_break_points": null,
+                  "off_rating_est": null,
+                  "tov_pct_est": null,
+                  "source_counts": {
+                    "points": 75,
+                    "fgm": 24,
+                    "fga": 56,
+                    "three_made": null,
+                    "three_attempted": null,
+                    "ftm": 17,
+                    "fta": 23,
+                    "assists": 15,
+                    "turnovers": 18,
+                    "offensive_rebounds": null,
+                    "defensive_rebounds": null
+                  }
+                }
+              },
+              "possessions_est": null,
+              "regulation_minutes": 40.0,
+              "warnings": [],
+              "method": "回合為雙方(FGA−ORB＋TOV＋0.44×FTA)平均估計；不是官方逐回合或追蹤數據。TS%同樣使用0.44估計係數。"
+            },
+            "benchmark_method": "本場 EFF 最高且至少上場十分鐘的球員；EFF 是傳統綜合效率，不是整體能力排名。",
+            "tracking_status": "官網逐球沒有完整的傳球者、接球者與傳球鏈，潛在助攻、傳出／接球次數及次級助攻尚不可計算；不以助攻次數代替。",
+            "vorp_status": "尚無適用 TPBL、P+、B.LEAGUE 且完成驗證的 BPM 模型、替補基準與完整賽季球權資料，暫不計算 VORP；不把單場正負值當作 BPM。",
+            "ato": {
+              "records": [
+                {
+                  "period": 1,
+                  "timeout_sec": 318,
+                  "timeout_side": null,
+                  "offense": "away",
+                  "defense": "home",
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": "100012403",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 1,
+                  "timeout_sec": 36,
+                  "timeout_side": null,
+                  "offense": "home",
+                  "defense": "away",
+                  "points": 3,
+                  "turnovers": 0,
+                  "finisher": "100111139",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 2,
+                  "timeout_sec": 174,
+                  "timeout_side": null,
+                  "offense": "home",
+                  "defense": "away",
+                  "points": 2,
+                  "turnovers": 0,
+                  "finisher": "100014112",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 3,
+                  "timeout_sec": 477,
+                  "timeout_side": null,
+                  "offense": null,
+                  "defense": null,
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": null,
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 3,
+                  "timeout_sec": 237,
+                  "timeout_side": null,
+                  "offense": null,
+                  "defense": null,
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": null,
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 4,
+                  "timeout_sec": 458,
+                  "timeout_side": null,
+                  "offense": "home",
+                  "defense": "away",
+                  "points": 0,
+                  "turnovers": 1,
+                  "finisher": "907828",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 4,
+                  "timeout_sec": 245,
+                  "timeout_side": null,
+                  "offense": "home",
+                  "defense": "away",
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": "100000598",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                }
+              ],
+              "summary": [
+                {
+                  "side": "home",
+                  "attack_n": 0,
+                  "attack_success": 0,
+                  "defense_n": 0,
+                  "defense_success": 0,
+                  "points": 0,
+                  "turnovers": 0
+                },
+                {
+                  "side": "away",
+                  "attack_n": 0,
+                  "attack_success": 0,
+                  "defense_n": 0,
+                  "defense_success": 0,
+                  "points": 0,
+                  "turnovers": 0
+                }
+              ],
+              "excluded": 7,
+              "total": 7
+            }
+          },
+          "analysis": [
+            [
+              "第四節最後五分鐘的關鍵球員",
+              "逐球資料或比分驗證不足，暫不判定。"
+            ],
+            [
+              "五人組合與個人近三場",
+              "尚無至少兩組共同上場四分鐘、且通過完整換人與比分驗證的五人組合。"
+            ],
+            [
+              "球員特殊變化提示",
+              "沒有符合門檻的得分變化，或球員之前三場實際出賽資料不足。門檻：本場至少十分鐘，得分相差至少八分。"
+            ]
+          ],
+          "lineups": [],
+          "keyPlayers": [],
+          "playerChanges": [],
+          "quality": "資料驗證限制：陣容人數不足的秒數 876、陣容不明的得分事件 34、出手球員不在重建陣容 20、球員失誤紀錄不符 2、球員出手數不符 4、缺少事件時間 1；受影響指標停止判定。"
+        },
+        {
+          "league": "cba",
+          "id": "100110794",
+          "date": "2026-10-21",
+          "home": "青岛崂山啤酒",
+          "away": "辽宁本钢",
+          "score": [
+            93,
+            97
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110794&date=2026-10-21&isToMatch=0",
+          "time": "19:35",
+          "complete": true,
+          "competition": "常规赛第2轮",
+          "season": 2026,
+          "quarter": 4,
+          "analysisOnly": true,
+          "stats": {
+            "home": {
+              "points": 93,
+              "fgm": 26,
+              "fga": 64,
+              "turnovers": 17,
+              "ftm": 30,
+              "fta": 37,
+              "seconds": 12000,
+              "assists": 13,
+              "rebounds": 37,
+              "steals": 11,
+              "blocks": 8,
+              "three_made": null,
+              "three_attempted": null,
+              "offensive_rebounds": null,
+              "defensive_rebounds": null
+            },
+            "away": {
+              "points": 97,
+              "fgm": 32,
+              "fga": 73,
+              "turnovers": 17,
+              "ftm": 23,
+              "fta": 31,
+              "seconds": 12000,
+              "assists": 20,
+              "rebounds": 47,
+              "steals": 7,
+              "blocks": 2,
+              "three_made": null,
+              "three_attempted": null,
+              "offensive_rebounds": null,
+              "defensive_rebounds": null
+            }
+          },
+          "statsSource": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110794&date=2026-10-21&isToMatch=0",
+          "pbpSource": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100110794&date=2026-10-21&isToMatch=0",
+          "periodSeconds": 600,
+          "statsVersion": 2,
+          "advanced": {
+            "players": [
+              {
+                "id": "100095561",
+                "side": "away",
+                "name": "库珀",
+                "seconds": 1855,
+                "points": 27,
+                "usg": 35.05395516930365,
+                "eff": 22,
+                "assists": 7,
+                "turnovers": 6,
+                "ast_to": 1.1666666666666667,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100111133",
+                "side": "away",
+                "name": "爱德华兹",
+                "seconds": 1194,
+                "points": 18,
+                "usg": 32.89314189628187,
+                "eff": 14,
+                "assists": 2,
+                "turnovers": 1,
+                "ast_to": 2.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100098025",
+                "side": "away",
+                "name": "克里斯",
+                "seconds": 1151,
+                "points": 10,
+                "usg": 25.91339868240025,
+                "eff": 15,
+                "assists": 2,
+                "turnovers": 3,
+                "ast_to": 0.6666666666666666,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "907994",
+                "side": "away",
+                "name": "赵继伟",
+                "seconds": 1284,
+                "points": 8,
+                "usg": 18.035110753615136,
+                "eff": 5,
+                "assists": 2,
+                "turnovers": 3,
+                "ast_to": 0.6666666666666666,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100014995",
+                "side": "away",
+                "name": "张陈治锋",
+                "seconds": 1136,
+                "points": 8,
+                "usg": 17.857045786878743,
+                "eff": 8,
+                "assists": 2,
+                "turnovers": 1,
+                "ast_to": 2.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "907782",
+                "side": "away",
+                "name": "付豪",
+                "seconds": 1566,
+                "points": 9,
+                "usg": 14.432511005529014,
+                "eff": 19,
+                "assists": 1,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100082829",
+                "side": "away",
+                "name": "段睿骐",
+                "seconds": 1275,
+                "points": 7,
+                "usg": 13.512838558812177,
+                "eff": 7,
+                "assists": 3,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100024045",
+                "side": "away",
+                "name": "李虎翼",
+                "seconds": 537,
+                "points": 3,
+                "usg": 12.936917434436781,
+                "eff": 2,
+                "assists": 0,
+                "turnovers": 1,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100004767",
+                "side": "away",
+                "name": "姜宇星",
+                "seconds": 923,
+                "points": 5,
+                "usg": 12.243397743585284,
+                "eff": 6,
+                "assists": 0,
+                "turnovers": 1,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100006119",
+                "side": "away",
+                "name": "吴昌泽",
+                "seconds": 836,
+                "points": 2,
+                "usg": 2.437587600804404,
+                "eff": 3,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100012201",
+                "side": "away",
+                "name": "鄢手骐",
+                "seconds": 243,
+                "points": 0,
+                "usg": 0.0,
+                "eff": 1,
+                "assists": 1,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100098036",
+                "side": "home",
+                "name": "约克",
+                "seconds": 1231,
+                "points": 20,
+                "usg": 38.9606225148574,
+                "eff": 15,
+                "assists": 3,
+                "turnovers": 5,
+                "ast_to": 0.6,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100081774",
+                "side": "home",
+                "name": "韦瑟斯庞",
+                "seconds": 1555,
+                "points": 18,
+                "usg": 32.87358267050262,
+                "eff": 17,
+                "assists": 3,
+                "turnovers": 2,
+                "ast_to": 1.5,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100099126",
+                "side": "home",
+                "name": "米奇",
+                "seconds": 1414,
+                "points": 11,
+                "usg": 29.032978485818504,
+                "eff": 12,
+                "assists": 2,
+                "turnovers": 4,
+                "ast_to": 0.5,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100076216",
+                "side": "home",
+                "name": "段昂君",
+                "seconds": 1965,
+                "points": 19,
+                "usg": 20.59059863398955,
+                "eff": 18,
+                "assists": 1,
+                "turnovers": 2,
+                "ast_to": 0.5,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100024761",
+                "side": "home",
+                "name": "王睿泽",
+                "seconds": 1062,
+                "points": 7,
+                "usg": 15.982753493904251,
+                "eff": 7,
+                "assists": 1,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100000597",
+                "side": "home",
+                "name": "王奕博",
+                "seconds": 1136,
+                "points": 8,
+                "usg": 11.29308747220163,
+                "eff": 12,
+                "assists": 2,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100012244",
+                "side": "home",
+                "name": "纪卓",
+                "seconds": 438,
+                "points": 0,
+                "usg": 11.26532083633742,
+                "eff": -2,
+                "assists": 0,
+                "turnovers": 2,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100095041",
+                "side": "home",
+                "name": "李俊贤",
+                "seconds": 1000,
+                "points": 0,
+                "usg": 9.868421052631579,
+                "eff": 0,
+                "assists": 0,
+                "turnovers": 1,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100005403",
+                "side": "home",
+                "name": "吕俊虎",
+                "seconds": 1966,
+                "points": 10,
+                "usg": 7.529314129678213,
+                "eff": 15,
+                "assists": 1,
+                "turnovers": 1,
+                "ast_to": 1.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100066587",
+                "side": "home",
+                "name": "张浩博",
+                "seconds": 233,
+                "points": 0,
+                "usg": 0.0,
+                "eff": 0,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              }
+            ],
+            "benchmark": {
+              "id": "100095561",
+              "side": "away",
+              "name": "库珀",
+              "seconds": 1855,
+              "points": 27,
+              "usg": 35.05395516930365,
+              "eff": 22,
+              "assists": 7,
+              "turnovers": 6,
+              "ast_to": 1.1666666666666667,
+              "potential_assists": null,
+              "passes_made": null,
+              "passes_received": null,
+              "secondary_assists": null,
+              "vorp": null
+            },
+            "observation": {
+              "teams": {
+                "home": {
+                  "ts": 57.922272047832585,
+                  "fta_rate": 57.8125,
+                  "assisted_fg_pct": 50.0,
+                  "ft_points_pct": 32.25806451612903,
+                  "efg": null,
+                  "three_attempt_pct": null,
+                  "three_points_pct": null,
+                  "oreb_pct": null,
+                  "dreb_pct": null,
+                  "paint_points": null,
+                  "second_chance_points": null,
+                  "fast_break_points": null,
+                  "off_rating_est": null,
+                  "tov_pct_est": null,
+                  "source_counts": {
+                    "points": 93,
+                    "fgm": 26,
+                    "fga": 64,
+                    "three_made": null,
+                    "three_attempted": null,
+                    "ftm": 30,
+                    "fta": 37,
+                    "assists": 13,
+                    "turnovers": 17,
+                    "offensive_rebounds": null,
+                    "defensive_rebounds": null
+                  }
+                },
+                "away": {
+                  "ts": 55.97876269621422,
+                  "fta_rate": 42.465753424657535,
+                  "assisted_fg_pct": 62.5,
+                  "ft_points_pct": 23.711340206185568,
+                  "efg": null,
+                  "three_attempt_pct": null,
+                  "three_points_pct": null,
+                  "oreb_pct": null,
+                  "dreb_pct": null,
+                  "paint_points": null,
+                  "second_chance_points": null,
+                  "fast_break_points": null,
+                  "off_rating_est": null,
+                  "tov_pct_est": null,
+                  "source_counts": {
+                    "points": 97,
+                    "fgm": 32,
+                    "fga": 73,
+                    "three_made": null,
+                    "three_attempted": null,
+                    "ftm": 23,
+                    "fta": 31,
+                    "assists": 20,
+                    "turnovers": 17,
+                    "offensive_rebounds": null,
+                    "defensive_rebounds": null
+                  }
+                }
+              },
+              "possessions_est": null,
+              "regulation_minutes": 40.0,
+              "warnings": [],
+              "method": "回合為雙方(FGA−ORB＋TOV＋0.44×FTA)平均估計；不是官方逐回合或追蹤數據。TS%同樣使用0.44估計係數。"
+            },
+            "benchmark_method": "本場 EFF 最高且至少上場十分鐘的球員；EFF 是傳統綜合效率，不是整體能力排名。",
+            "tracking_status": "官網逐球沒有完整的傳球者、接球者與傳球鏈，潛在助攻、傳出／接球次數及次級助攻尚不可計算；不以助攻次數代替。",
+            "vorp_status": "尚無適用 TPBL、P+、B.LEAGUE 且完成驗證的 BPM 模型、替補基準與完整賽季球權資料，暫不計算 VORP；不把單場正負值當作 BPM。",
+            "ato": {
+              "records": [
+                {
+                  "period": 1,
+                  "timeout_sec": 327,
+                  "timeout_side": null,
+                  "offense": "home",
+                  "defense": "away",
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": "100099126",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 1,
+                  "timeout_sec": 26,
+                  "timeout_side": null,
+                  "offense": null,
+                  "defense": null,
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": null,
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 2,
+                  "timeout_sec": 372,
+                  "timeout_side": null,
+                  "offense": "home",
+                  "defense": "away",
+                  "points": 3,
+                  "turnovers": 0,
+                  "finisher": "100098036",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 2,
+                  "timeout_sec": 49,
+                  "timeout_side": null,
+                  "offense": "away",
+                  "defense": "home",
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": "100111133",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 3,
+                  "timeout_sec": 307,
+                  "timeout_side": null,
+                  "offense": "home",
+                  "defense": "away",
+                  "points": 2,
+                  "turnovers": 0,
+                  "finisher": "100005403",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 3,
+                  "timeout_sec": 242,
+                  "timeout_side": null,
+                  "offense": "away",
+                  "defense": "home",
+                  "points": 2,
+                  "turnovers": 0,
+                  "finisher": "100014995",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 4,
+                  "timeout_sec": 358,
+                  "timeout_side": null,
+                  "offense": null,
+                  "defense": null,
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": null,
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 4,
+                  "timeout_sec": 28,
+                  "timeout_side": null,
+                  "offense": "away",
+                  "defense": "home",
+                  "points": 0,
+                  "turnovers": 1,
+                  "finisher": "100095561",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 4,
+                  "timeout_sec": 5,
+                  "timeout_side": null,
+                  "offense": "home",
+                  "defense": "away",
+                  "points": 0,
+                  "turnovers": 1,
+                  "finisher": "100098036",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                },
+                {
+                  "period": 4,
+                  "timeout_sec": 1,
+                  "timeout_side": null,
+                  "offense": null,
+                  "defense": null,
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": null,
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "逐球得分、時間或失誤驗證不足"
+                }
+              ],
+              "summary": [
+                {
+                  "side": "home",
+                  "attack_n": 0,
+                  "attack_success": 0,
+                  "defense_n": 0,
+                  "defense_success": 0,
+                  "points": 0,
+                  "turnovers": 0
+                },
+                {
+                  "side": "away",
+                  "attack_n": 0,
+                  "attack_success": 0,
+                  "defense_n": 0,
+                  "defense_success": 0,
+                  "points": 0,
+                  "turnovers": 0
+                }
+              ],
+              "excluded": 10,
+              "total": 10
+            }
+          },
+          "analysis": [
+            [
+              "第四節最後五分鐘的關鍵球員",
+              "逐球資料或比分驗證不足，暫不判定。"
+            ],
+            [
+              "五人組合與個人近三場",
+              "尚無至少兩組共同上場四分鐘、且通過完整換人與比分驗證的五人組合。"
+            ],
+            [
+              "球員特殊變化提示",
+              "沒有符合門檻的得分變化，或球員之前三場實際出賽資料不足。門檻：本場至少十分鐘，得分相差至少八分。"
+            ]
+          ],
+          "lineups": [],
+          "keyPlayers": [],
+          "playerChanges": [],
+          "quality": "資料驗證限制：出手球員不在重建陣容 19、陣容人數不足的秒數 1078、陣容不明的得分事件 49、球員出手數不符 6、球員失誤紀錄不符 6、unparsed_events 1、缺少事件時間 1；受影響指標停止判定。"
+        },
         {
           "league": "cba",
           "id": "100110787",
@@ -36406,7 +37776,7 @@
           "quality": "資料驗證限制：陣容人數不足的秒數 755、出手球員不在重建陣容 16、陣容不明的得分事件 37、逐球得分與正式比分不符 1、球員出手數不符 5、球員失誤紀錄不符 4、球員得分不符 2、unparsed_events 4、缺少事件時間 4；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-10-21T19:11:41+08:00"
+      "lastSuccess": "2026-10-22T03:03:08+08:00"
     },
     {
       "id": "nbl",
@@ -36526,6 +37896,25 @@
           "periodSeconds": 600,
           "homeId": "41c8f340-4d0a-4d68-a3c7-1b31f643f803",
           "awayId": "39fc4268-0cdf-455f-9ca1-12e344064000"
+        },
+        {
+          "league": "nbl",
+          "id": "371aff1e-58ad-11f1-b4cd-0919017f2391",
+          "date": "2026-10-28",
+          "home": "Perth Wildcats",
+          "away": "Sydney Kings",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://schedule.nbl.com.au/match?league=NBL&match=371aff1e-58ad-11f1-b4cd-0919017f2391&year=2026&season=67d4a190-40bc-4bfb-a9a2-11bd0b93f020",
+          "time": "18:30",
+          "complete": false,
+          "season": "2026–27",
+          "competition": "澳洲 NBL",
+          "periodSeconds": 600,
+          "homeId": "bc5327d5-322e-4796-b103-4c3b63869edb",
+          "awayId": "39fc4268-0cdf-455f-9ca1-12e344064000"
         }
       ],
       "recent": [
@@ -36545,8 +37934,8 @@
           "season": "2026–27",
           "competition": "澳洲 NBL",
           "periodSeconds": 600,
-          "homeId": "bfab212e-410c-11f0-b95c-1b3c55488bbb",
-          "awayId": "bf3d7137-410c-11f0-8229-1b3c55488bbb",
+          "homeId": "0602b1bc-8dfb-488c-ac11-7895de1a7556",
+          "awayId": "f8185bc5-2674-4293-a2a7-aeb8c7549b30",
           "statsSource": "https://schedule.nbl.com.au/api/calendar/match?match=370d79db-58ad-11f1-8bd9-59a0fb078f66&league=NBL",
           "stats": {
             "home": {
@@ -37086,7 +38475,7 @@
                   "defense": "home",
                   "points": 0,
                   "turnovers": 0,
-                  "finisher": "6b64f080-410d-11f0-84d8-9dbbf7342624",
+                  "finisher": "bb900f37-8ba8-11f1-a10c-65253084e076",
                   "inbounder": null,
                   "receiver": null,
                   "eligible": false,
@@ -37148,7 +38537,7 @@
           "lineups": [],
           "keyPlayers": [],
           "playerChanges": [],
-          "quality": "資料驗證限制：事件時間倒退 15、出手球員不在重建陣容 57、逐球得分與正式比分不符 1、球員失誤紀錄不符 1；受影響指標停止判定。"
+          "quality": "資料驗證限制：事件時間倒退 17、出手球員不在重建陣容 4；受影響指標停止判定。"
         },
         {
           "league": "nbl",
@@ -39738,7 +41127,7 @@
           "quality": "資料驗證限制：事件時間倒退 65、出手球員不在重建陣容 15、陣容人數不足的秒數 368、陣容不明的得分事件 11、缺少事件時間 1；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-10-21T19:11:41+08:00"
+      "lastSuccess": "2026-10-22T03:03:08+08:00"
     }
   ],
   "news": [
@@ -39747,19 +41136,19 @@
       "source": "https://www.easl.basketball/news",
       "items": [
         {
+          "title": "Game Recap: Skygunners Complete Comeback Against GhostHawks",
+          "url": "https://www.easl.basketball/news/game-recap-skygunners-complete-comeback-against-ghosthawks"
+        },
+        {
           "title": "GAME RECAP: Busan KCC Egis Rides Fourth Quarter Surge to Win On The Road",
           "url": "https://www.easl.basketball/news/game-recap-busan-kcc-egis-rides-fourth-quarter-surge-to-win-on-the-road"
         },
         {
           "title": "GAME RECAP: Alvark Tokyo Dominates in Rematch Versus South Gobi Broncos",
           "url": "https://www.easl.basketball/news/game-recap-alvark-tokyo-dominates-in-rematch-versus-south-gobi-broncos"
-        },
-        {
-          "title": "GAME RECAP: Abra Weavers Thrill Home Crowd, Take First EASL Win Versus Eastern",
-          "url": "https://www.easl.basketball/news/game-recap-abra-weavers-thrill-home-crowd-take-first-easl-win-versus-eastern"
         }
       ],
-      "lastSuccess": "2026-10-21T19:11:41+08:00"
+      "lastSuccess": "2026-10-22T03:03:08+08:00"
     },
     {
       "name": "CBA",
@@ -39781,7 +41170,7 @@
           "date": "2026-10-19"
         }
       ],
-      "lastSuccess": "2026-10-21T19:11:41+08:00"
+      "lastSuccess": "2026-10-22T03:03:08+08:00"
     },
     {
       "name": "FIBA 亞洲賽事",
@@ -39800,7 +41189,7 @@
           "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/2027-wcq-asia-august-31-game-center"
         }
       ],
-      "lastSuccess": "2026-10-21T19:11:41+08:00"
+      "lastSuccess": "2026-10-22T03:03:08+08:00"
     }
   ],
   "guides": [
@@ -39907,44 +41296,6 @@
           "label": "官方排名",
           "url": "https://www.bleague.jp/standings/"
         }
-      ],
-      "teams": [
-        "A千葉",
-        "A東京",
-        "三河",
-        "三遠",
-        "京都",
-        "仙台",
-        "佐賀",
-        "信州",
-        "北海道",
-        "千葉J",
-        "名古屋D",
-        "大阪",
-        "宇都宮",
-        "富山",
-        "島根",
-        "川崎",
-        "広島",
-        "東京SR",
-        "横浜BC",
-        "滋賀",
-        "琉球",
-        "神戸",
-        "秋田",
-        "群馬",
-        "茨城",
-        "長崎"
-      ],
-      "players": [
-        "大浦 颯太",
-        "佐土原 遼",
-        "キーファー・ラベナ",
-        "松脇 圭志",
-        "デイビッド・ヌワバ",
-        "脇 真大",
-        "ケビン・ジョーンズ",
-        "山内 盛久"
       ]
     },
     {
@@ -39979,14 +41330,14 @@
         }
       ],
       "players": [
-        "齐麟",
-        "辛普森",
-        "阿不都沙拉木",
-        "西尔扎提",
-        "劳森",
-        "艾孜麦提",
-        "杨",
-        "曲笑宇"
+        "陆文博",
+        "扎加尔斯",
+        "程帅澎",
+        "约翰逊",
+        "刘泽一",
+        "维塔尔",
+        "吴前",
+        "孟子凯"
       ]
     },
     {
@@ -40048,5 +41399,7 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    "b"
+  ]
 }
