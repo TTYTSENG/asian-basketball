@@ -4,8 +4,8 @@
   const context = document.modelContext ?? navigator.modelContext;
   if (typeof context?.registerTool !== 'function') return;
   const root = new URL('.', document.currentScript.src);
-  const leagueIds = ['tpbl', 'plg', 'b'];
-  const leagueSchema = {type: 'string', enum: leagueIds, description: 'tpbl = TPBL；plg = P. LEAGUE+；b = 日本 B.LEAGUE'};
+  const leagueIds = ['tpbl', 'plg', 'b', 'cba', 'nbl'];
+  const leagueSchema = {type: 'string', enum: leagueIds, description: 'tpbl = TPBL；plg = P. LEAGUE+；b = 日本 B.LEAGUE；cba = CBA；nbl = 澳洲 NBL'};
   const dateSchema = {type: 'string', pattern: '^\\d{4}-\\d{2}-\\d{2}$', description: '臺北日期 YYYY-MM-DD'};
   const limitation = '本站整理官方公開資料，並非即時比分。請核對來源時間與官方紀錄；分析及重建統計包含資料限制。';
   const fail = (code, message) => ({ok: false, error: {code, message}});

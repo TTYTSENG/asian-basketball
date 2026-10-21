@@ -6,17 +6,20 @@ from concurrent.futures import ThreadPoolExecutor,as_completed
 from sources import TZ,tpbl_schedule,plg_schedule,b_schedule,tpbl_game,plg_game,b_game,news,cba_news
 from engine import finalize
 from cba import schedule as cba_schedule,game as cba_game
+from nbl import schedule as nbl_schedule,game as nbl_game
 from database import bootstrap,archive as db_archive,snapshot,persist,export
 
 ROOT=Path(__file__).resolve().parents[1];DATA=ROOT/'data'
 CONFIG=[('tpbl','TPBL','https://tpbl.basketball/schedule',tpbl_schedule,tpbl_game),('plg','P. LEAGUE+','https://pleagueofficial.com/schedule-regular-season',plg_schedule,plg_game),('b','日本 B.LEAGUE（最高級別）','https://www.bleague.jp/schedule/',b_schedule,b_game)]
 CONFIG.append(('cba','CBA','https://www.cbaleague.com/data/',cba_schedule,cba_game))
+CONFIG.append(('nbl','澳洲 NBL','https://schedule.nbl.com.au/nbl/',nbl_schedule,nbl_game))
 GUIDES=[
  {'name':'TPBL','description':'臺灣職業籃球聯盟，以主客場例行賽與季後賽競逐冠軍。每節十二分鐘；賽季隊伍、球員註冊與季後賽資格以當季官方章程為準。','links':[{'label':'聯盟與賽制／官方首頁','url':'https://tpbl.basketball/'},{'label':'球隊與球員資料','url':'https://tpbl.basketball/teams'},{'label':'官方戰績','url':'https://tpbl.basketball/standings'}]},
  {'name':'P. LEAGUE+','description':'臺灣職業籃球聯盟，賽事包含例行賽與季後賽。每節十二分鐘，當季參賽隊伍與賽務章程由聯盟公布。','teams':['臺北富邦勇士','桃園璞園領航猿','洋基工程','台鋼獵鷹'],'links':[{'label':'聯盟介紹','url':'https://pleagueofficial.com/about'},{'label':'當季賽務章程','url':'https://pleagueofficial.com/rulebook'},{'label':'球隊資料','url':'https://pleagueofficial.com/#team'},{'label':'球員資料','url':'https://pleagueofficial.com/all-players'},{'label':'官方戰績','url':'https://pleagueofficial.com/standings'}]},
  {'name':'日本 B.LEAGUE','description':'日本男子職業籃球聯盟。2026–27 起採 B.PREMIER、B.ONE 與 B.NEXT 架構；本頁賽程以最高級別為主。每節十分鐘，賽季賽制與俱樂部名單以官方公布為準。','links':[{'label':'聯盟介紹','url':'https://www.bleague.jp/about/'},{'label':'賽制與分級','url':'https://www.bleague.jp/regulation/'},{'label':'俱樂部資料','url':'https://www.bleague.jp/club/'},{'label':'球員資料','url':'https://www.bleague.jp/roster/'},{'label':'官方排名','url':'https://www.bleague.jp/standings/'}]},
  {'name':'EASL 東亞超級聯賽','description':'亞洲俱樂部跨聯盟競賽，以分組與決賽階段競逐冠軍。參賽席次、球隊與賽程依各季公告更新。','links':[{'label':'官方賽程、球隊與賽制','url':'https://www.easl.basketball/'},{'label':'官方戰報','url':'https://www.easl.basketball/news'}]},
  {'name':'CBA','description':'中國男子職業籃球聯賽，包含例行賽與季後賽。隊伍、球員註冊、積分及季後賽規則請以當季官方公告為準。','links':[{'label':'聯盟與球隊資料','url':'https://www.cbaleague.com/'},{'label':'官方球員與比賽數據','url':'https://www.cbaleague.com/data/#/'},{'label':'官方新聞','url':'https://www.cbaleague.com/#/news'}]},
+ {'name':'澳洲 NBL','description':'澳洲國家籃球聯賽，包含澳洲與紐西蘭職業球隊。例行賽與季後賽的參賽隊伍及賽制依當季官方公告；每節十分鐘。本站將官方比賽時間轉為臺北時間，與亞洲聯盟並列觀察。','links':[{'label':'聯盟與球隊','url':'https://www.nbl.com.au/'},{'label':'官方賽程與 Game Centre','url':'https://schedule.nbl.com.au/nbl/'},{'label':'球員與球隊數據','url':'https://www.nbl.com.au/stats/statistics'}]},
  {'name':'FIBA 亞洲國際賽事','description':'國家代表隊賽事，關注亞洲盃與世界盃亞洲區資格賽。資格賽依窗口舉行，決賽以分組及淘汰階段進行；分組、球員名單與晉級方式以各屆賽事公告為準。','links':[{'label':'FIBA 亞洲賽事入口','url':'https://www.fiba.basketball/en/regions/asia'},{'label':'2027 世界盃亞洲區資格賽','url':'https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers'},{'label':'2025 亞洲盃資料庫','url':'https://www.fiba.basketball/en/events/fiba-asiacup-2025'}]}
 ]
 
@@ -67,9 +70,8 @@ def run(today):
             league['lastSuccess']=now
             bad=[g for g in league['recent'] if not g.get('players')]
             if bad:league['error']=f'{len(bad)} 場詳細統計尚未取得；將在下次更新重試。'
-            if lid=='tpbl':GUIDES[0]['teams']=sorted(set(g[s] for g in allgames for s in ('home','away')))
-            guide=next(x for x in GUIDES if x['name']==({'tpbl':'TPBL','plg':'P. LEAGUE+','b':'日本 B.LEAGUE','cba':'CBA'}[lid]))
-            if lid=='b':guide['teams']=sorted(set(g[s] for g in allgames for s in ('home','away')))
+            guide=next(x for x in GUIDES if x['name']==({'tpbl':'TPBL','plg':'P. LEAGUE+','b':'日本 B.LEAGUE','cba':'CBA','nbl':'澳洲 NBL'}[lid]))
+            if lid in ('tpbl','b','nbl'):guide['teams']=sorted(set(g[s] for g in allgames for s in ('home','away')))
             guide['players']=list(dict.fromkeys(p['name'] for g in latest[:3] for ps in archive.get(lid+':'+g['id'],{}).get('players',{}).values() for p in ps if p.get('seconds',0)>0))[:8]
         except Exception as exc:
             print('League failed',name,str(exc)[:200],flush=True);errors.append(lid)

@@ -7,7 +7,7 @@
   const prev = document.getElementById('history-prev');
   const next = document.getElementById('history-next');
   const pageLabel = document.getElementById('history-page');
-  const names = {tpbl:'TPBL',plg:'P. LEAGUE+',b:'B.LEAGUE',cba:'CBA'};
+  const names = {tpbl:'TPBL',plg:'P. LEAGUE+',b:'B.LEAGUE',cba:'CBA',nbl:'澳洲 NBL'};
   const params = new URLSearchParams(location.search);
   for (const key of ['league','season','date','team','status']) {
     if (params.has(key)) form.elements.namedItem(key).value = params.get(key);

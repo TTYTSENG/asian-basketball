@@ -17,7 +17,7 @@ from editorial import ARTICLES, METHODS
 
 ROOT=Path(__file__).resolve().parents[1]
 BASE='https://ttytseng.github.io/asian-basketball'
-NAMES={'tpbl':'TPBL','plg':'P. LEAGUE+','b':'B.LEAGUE','cba':'CBA'}
+NAMES={'tpbl':'TPBL','plg':'P. LEAGUE+','b':'B.LEAGUE','cba':'CBA','nbl':'澳洲 NBL'}
 
 def esc(x):return html.escape(str(x),quote=True)
 

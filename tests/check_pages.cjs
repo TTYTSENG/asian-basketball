@@ -44,9 +44,14 @@ async function main(){
   await p.locator('.article-list a').first().click();
   assert.ok((await p.locator('main').innerText()).includes('原文來源'));
   await p.goto(base+'analytics/');assert.equal(await p.locator('.article-list > li').count(),6);
-  await p.goto(base);await p.waitForFunction(()=>document.querySelector('#updated').textContent.includes('更新嘗試'));
+  await p.goto(base);await p.waitForFunction(()=>document.querySelector('#updated').textContent.includes('每日 23:00'));
   assert.equal(await p.locator('#analysis-content table').count(),0,'Homepage must only list reports');
-  assert.equal(await p.locator('#analysis-content .article-list').count(),4);
+  assert.equal(await p.locator('#analysis-content .article-list').count(),5);
+  await p.goto(base+'history/?league=nbl');
+  await p.waitForFunction(()=>document.querySelector('#history-page').textContent.includes('頁'));
+  assert.equal(await p.locator('#history-body tr').count(),data.games.filter(g=>g.league==='nbl'&&g.complete).length);
+  await p.locator('#history-body a').first().click();await p.waitForLoadState();
+  assert.ok((await p.locator('main').innerText()).includes('USG'));
   await p.setViewportSize({width:390,height:844});
   await p.goto(base+'history/?league=b&date='+bigDay[0]);
   await p.waitForFunction(()=>document.querySelector('#history-page').textContent.includes('頁'));

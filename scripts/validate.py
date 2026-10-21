@@ -3,7 +3,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 from database import connect,check
 data=json.loads((Path(__file__).resolve().parents[1]/'data/site.json').read_text(encoding='utf8'))
-assert [x['id'] for x in data['leagues']]==['tpbl','plg','b','cba']
+assert [x['id'] for x in data['leagues']]==['tpbl','plg','b','cba','nbl']
 for league in data['leagues']:
     # Homepage summaries are bounded separately. Whole matchdays may exceed 5.
     assert len({str(g['id']) for g in league['recent']})==len(league['recent'])

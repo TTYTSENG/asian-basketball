@@ -47,8 +47,10 @@ def games(data):
         out+='<article class="league-block"><h3>'+e(league['name'])+'</h3>'+link('官方賽程與數據',league['source'])
         if league.get('error'):out+='<p class="notice">'+e(league['error'])+'</p>'
         if league.get('lastSuccess'):out+='<p>來源最後成功擷取：<time datetime="'+e(league['lastSuccess'])+'">'+e(league['lastSuccess'])+'</time></p>'
-        out+=table('近期賽程摘要',['臺北時間','對戰','來源'],[[e(g['date']+' '+g.get('time','')),e(g['away']+' 作客 '+g['home']),link('官方賽事',g['source'])] for g in league.get('upcoming',[])[:3]]) if league.get('upcoming') else '<p>未來七天沒有已取得的官方賽程。</p>'
-        out+=table('最近賽後摘要',['日期／對戰','比分（主：客）','來源'],[[e(g['date']+' '+g['home']+' vs '+g['away']),e('：'.join(map(str,g['score']))),link('官方紀錄',g['source'])] for g in league.get('recent',[])[:3]]) if league.get('recent') else '<p>目前沒有取得可驗證的完賽紀錄。</p>'
+        out+='<div class="league-tables">'
+        out+=table('近期賽程',['臺北時間','對戰','來源'],[[e(g['date']+' '+g.get('time','')),e(g['away']+' 作客 '+g['home']),link('官方賽事',g['source'])] for g in league.get('upcoming',[])[:3]]) if league.get('upcoming') else '<p>未來七天沒有已取得的官方賽程。</p>'
+        out+=table('最近賽果',['日期／對戰','主：客','來源'],[[e(g['date']+' '+g['home']+' vs '+g['away']),e('：'.join(map(str,g['score']))),link('官方紀錄',g['source'])] for g in league.get('recent',[])[:3]]) if league.get('recent') else '<p>目前沒有取得可驗證的完賽紀錄。</p>'
+        out+='</div>'
         out+='<p><a href="'+BASE+'/history/?league='+e(league['id'])+'">查看全部已保存賽事</a> · <a href="'+BASE+'/history/?league='+e(league['id'])+'&amp;status=upcoming">未完賽清單</a></p>'
         out+='</article>'
     return out
