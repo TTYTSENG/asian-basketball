@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T03:47:27+08:00",
+  "generatedAt": "2026-10-31T10:27:45+08:00",
   "asOf": "2026-10-31",
   "leagues": [
     {
@@ -4663,7 +4663,7 @@
           "quality": "資料驗證限制：出手球員不在重建陣容 4；受影響指標停止判定。 官方事件時間不一致，按事件順序校正 59 筆；共同上場時間為重建值。"
         }
       ],
-      "lastSuccess": "2026-10-31T03:47:27+08:00"
+      "lastSuccess": "2026-10-31T10:27:45+08:00"
     },
     {
       "id": "plg",
@@ -12296,7 +12296,7 @@
           "quality": "資料驗證限制：陣容人數不足的秒數 519、陣容不明的得分事件 18、球員出手數不符 1；受影響指標停止判定。 官方事件時間不一致，按事件順序校正 1 筆；共同上場時間為重建值。 以官方名單中唯一相同姓名校正背號／隊別 21 筆。"
         }
       ],
-      "lastSuccess": "2026-10-31T03:47:27+08:00"
+      "lastSuccess": "2026-10-31T10:27:45+08:00"
     },
     {
       "id": "b",
@@ -30197,7 +30197,7 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。"
         }
       ],
-      "lastSuccess": "2026-10-31T03:47:27+08:00"
+      "lastSuccess": "2026-10-31T10:27:45+08:00"
     },
     {
       "id": "cba",
@@ -31229,13 +31229,13 @@
             "home": {
               "points": 92,
               "fgm": 29,
-              "fga": 67,
+              "fga": 68,
               "turnovers": 16,
               "ftm": 19,
               "fta": 26,
               "seconds": 12000,
-              "assists": 18,
-              "rebounds": 38,
+              "assists": 19,
+              "rebounds": 39,
               "steals": 6,
               "blocks": 3,
               "three_made": null,
@@ -31247,7 +31247,7 @@
               "points": 95,
               "fgm": 32,
               "fga": 70,
-              "turnovers": 10,
+              "turnovers": 11,
               "ftm": 23,
               "fta": 29,
               "seconds": 12000,
@@ -31273,7 +31273,7 @@
                 "name": "威尔斯",
                 "seconds": 1503,
                 "points": 27,
-                "usg": 42.760533267230095,
+                "usg": 42.30446955917517,
                 "eff": 25,
                 "assists": 3,
                 "turnovers": 2,
@@ -31290,7 +31290,7 @@
                 "name": "胡金秋",
                 "seconds": 1739,
                 "points": 21,
-                "usg": 32.3750025106993,
+                "usg": 32.02970598221488,
                 "eff": 16,
                 "assists": 0,
                 "turnovers": 3,
@@ -31307,8 +31307,8 @@
                 "name": "塔克",
                 "seconds": 1528,
                 "points": 19,
-                "usg": 29.666154169178355,
-                "eff": 19,
+                "usg": 29.349748941264764,
+                "eff": 18,
                 "assists": 6,
                 "turnovers": 1,
                 "ast_to": 6.0,
@@ -31324,7 +31324,7 @@
                 "name": "李均铸",
                 "seconds": 365,
                 "points": 5,
-                "usg": 21.265661273458683,
+                "usg": 21.038851746224694,
                 "eff": 7,
                 "assists": 1,
                 "turnovers": 0,
@@ -31341,7 +31341,7 @@
                 "name": "李金效",
                 "seconds": 895,
                 "points": 3,
-                "usg": 17.345176234217693,
+                "usg": 17.160180753903937,
                 "eff": -1,
                 "assists": 0,
                 "turnovers": 0,
@@ -31358,28 +31358,11 @@
                 "name": "崔新泉",
                 "seconds": 734,
                 "points": 0,
-                "usg": 14.099848074137002,
+                "usg": 13.949465735462333,
                 "eff": -4,
                 "assists": 0,
                 "turnovers": 1,
                 "ast_to": 0.0,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
-                "id": "100084407",
-                "side": "away",
-                "name": "孙进宇",
-                "seconds": 618,
-                "points": 5,
-                "usg": 12.55981612429194,
-                "eff": 5,
-                "assists": 0,
-                "turnovers": 0,
-                "ast_to": null,
                 "potential_assists": null,
                 "passes_made": null,
                 "passes_received": null,
@@ -31392,11 +31375,28 @@
                 "name": "侯孟泽",
                 "seconds": 1405,
                 "points": 6,
-                "usg": 10.828081192193837,
-                "eff": 11,
+                "usg": 12.534463702282194,
+                "eff": 10,
                 "assists": 2,
-                "turnovers": 1,
-                "ast_to": 2.0,
+                "turnovers": 2,
+                "ast_to": 1.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "100084407",
+                "side": "away",
+                "name": "孙进宇",
+                "seconds": 618,
+                "points": 5,
+                "usg": 12.425859041055038,
+                "eff": 5,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
                 "potential_assists": null,
                 "passes_made": null,
                 "passes_received": null,
@@ -31407,9 +31407,9 @@
                 "id": "100054685",
                 "side": "away",
                 "name": "续峻玮",
-                "seconds": 805,
+                "seconds": 842,
                 "points": 7,
-                "usg": 9.256506472322885,
+                "usg": 8.755360631683056,
                 "eff": 10,
                 "assists": 1,
                 "turnovers": 0,
@@ -31426,8 +31426,8 @@
                 "name": "恩诺科",
                 "seconds": 1181,
                 "points": 2,
-                "usg": 6.309473082320001,
-                "eff": 9,
+                "usg": 6.242179214121196,
+                "eff": 10,
                 "assists": 1,
                 "turnovers": 1,
                 "ast_to": 1.0,
@@ -31455,33 +31455,16 @@
                 "vorp": null
               },
               {
-                "id": "100084412",
-                "side": "away",
-                "name": "周可梵",
-                "seconds": 37,
-                "points": 0,
-                "usg": 0.0,
-                "eff": 0,
-                "assists": 0,
-                "turnovers": 0,
-                "ast_to": null,
-                "potential_assists": null,
-                "passes_made": null,
-                "passes_received": null,
-                "secondary_assists": null,
-                "vorp": null
-              },
-              {
                 "id": "100109287",
                 "side": "home",
                 "name": "尼克斯",
                 "seconds": 2372,
                 "points": 26,
-                "usg": 28.412804189495834,
-                "eff": 23,
-                "assists": 7,
+                "usg": 28.115100876529617,
+                "eff": 24,
+                "assists": 8,
                 "turnovers": 5,
-                "ast_to": 1.4,
+                "ast_to": 1.6,
                 "potential_assists": null,
                 "passes_made": null,
                 "passes_received": null,
@@ -31494,7 +31477,7 @@
                 "name": "赖俊豪",
                 "seconds": 1117,
                 "points": 12,
-                "usg": 22.47807079909769,
+                "usg": 24.49382063829516,
                 "eff": 14,
                 "assists": 2,
                 "turnovers": 3,
@@ -31511,7 +31494,7 @@
                 "name": "蒋祺禹",
                 "seconds": 2145,
                 "points": 23,
-                "usg": 22.225973941348787,
+                "usg": 21.99309491849308,
                 "eff": 20,
                 "assists": 2,
                 "turnovers": 1,
@@ -31528,7 +31511,7 @@
                 "name": "何佳轩",
                 "seconds": 1716,
                 "points": 8,
-                "usg": 18.896816863780014,
+                "usg": 18.698820039976788,
                 "eff": 2,
                 "assists": 1,
                 "turnovers": 2,
@@ -31545,7 +31528,7 @@
                 "name": "张云梦",
                 "seconds": 766,
                 "points": 3,
-                "usg": 16.588094392892334,
+                "usg": 16.414287871592123,
                 "eff": 3,
                 "assists": 1,
                 "turnovers": 2,
@@ -31562,7 +31545,7 @@
                 "name": "谷泽浴",
                 "seconds": 158,
                 "points": 0,
-                "usg": 16.08415228475383,
+                "usg": 15.915625961569068,
                 "eff": -1,
                 "assists": 0,
                 "turnovers": 1,
@@ -31579,7 +31562,7 @@
                 "name": "时德帅",
                 "seconds": 1898,
                 "points": 10,
-                "usg": 15.906531720007552,
+                "usg": 15.739866467283248,
                 "eff": 15,
                 "assists": 5,
                 "turnovers": 1,
@@ -31596,7 +31579,7 @@
                 "name": "库马杰",
                 "seconds": 1418,
                 "points": 10,
-                "usg": 13.692173417469709,
+                "usg": 13.548709739583396,
                 "eff": 18,
                 "assists": 0,
                 "turnovers": 0,
@@ -31631,7 +31614,7 @@
               "name": "威尔斯",
               "seconds": 1503,
               "points": 27,
-              "usg": 42.760533267230095,
+              "usg": 42.30446955917517,
               "eff": 25,
               "assists": 3,
               "turnovers": 2,
@@ -31645,9 +31628,9 @@
             "observation": {
               "teams": {
                 "home": {
-                  "ts": 58.64354920958695,
-                  "fta_rate": 38.80597014925373,
-                  "assisted_fg_pct": 62.06896551724138,
+                  "ts": 57.90533736153072,
+                  "fta_rate": 38.23529411764706,
+                  "assisted_fg_pct": 65.51724137931035,
                   "ft_points_pct": 20.652173913043477,
                   "efg": null,
                   "three_attempt_pct": null,
@@ -31662,12 +31645,12 @@
                   "source_counts": {
                     "points": 92,
                     "fgm": 29,
-                    "fga": 67,
+                    "fga": 68,
                     "three_made": null,
                     "three_attempted": null,
                     "ftm": 19,
                     "fta": 26,
-                    "assists": 18,
+                    "assists": 19,
                     "turnovers": 16,
                     "offensive_rebounds": null,
                     "defensive_rebounds": null
@@ -31697,7 +31680,7 @@
                     "ftm": 23,
                     "fta": 29,
                     "assists": 15,
-                    "turnovers": 10,
+                    "turnovers": 11,
                     "offensive_rebounds": null,
                     "defensive_rebounds": null
                   }
@@ -31893,7 +31876,7 @@
               "fga": 16
             }
           ],
-          "quality": "資料驗證限制：出手球員不在重建陣容 32、陣容人數不足的秒數 1219、陣容不明的得分事件 69、逐球得分與正式比分不符 1、球員出手數不符 5、球員失誤紀錄不符 1、球員得分不符 1、球員命中數不符 1、unparsed_events 3、缺少事件時間 3；受影響指標停止判定。"
+          "quality": "資料驗證限制：陣容人數不足的秒數 1424、陣容不明的得分事件 75、出手球員不在重建陣容 32、逐球得分與正式比分不符 1、球員得分不符 3、球員命中數不符 2、球員出手數不符 8、球員失誤紀錄不符 1、unparsed_events 15、缺少事件時間 15；受影響指標停止判定。"
         },
         {
           "league": "cba",
@@ -32558,7 +32541,7 @@
               "fga": 6
             }
           ],
-          "quality": "資料驗證限制：出手球員不在重建陣容 36、陣容人數不足的秒數 1009、陣容不明的得分事件 53、逐球得分與正式比分不符 1、球員失誤紀錄不符 2、球員出手數不符 6、球員得分不符 2、unparsed_events 7、缺少事件時間 7；受影響指標停止判定。"
+          "quality": "資料驗證限制：出手球員不在重建陣容 35、陣容人數不足的秒數 1009、陣容不明的得分事件 53、逐球得分與正式比分不符 1、球員失誤紀錄不符 2、球員得分不符 3、球員出手數不符 7、unparsed_events 10、缺少事件時間 10；受影響指標停止判定。"
         },
         {
           "league": "cba",
@@ -33854,7 +33837,7 @@
           "quality": "資料驗證限制：出手球員不在重建陣容 38、陣容人數不足的秒數 1401、陣容不明的得分事件 85、逐球得分與正式比分不符 1、球員出手數不符 6、球員失誤紀錄不符 4、球員得分不符 1、球員命中數不符 1、unparsed_events 3、缺少事件時間 3；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-10-31T03:47:27+08:00"
+      "lastSuccess": "2026-10-31T10:27:45+08:00"
     },
     {
       "id": "nbl",
@@ -37893,7 +37876,7 @@
           "quality": "資料驗證限制：事件時間倒退 17、出手球員不在重建陣容 3；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-10-31T03:47:27+08:00"
+      "lastSuccess": "2026-10-31T10:27:45+08:00"
     }
   ],
   "news": [
@@ -37914,7 +37897,7 @@
           "url": "https://www.easl.basketball/news/game-recap-skygunners-complete-comeback-against-ghosthawks"
         }
       ],
-      "lastSuccess": "2026-10-31T03:47:27+08:00"
+      "lastSuccess": "2026-10-31T10:27:45+08:00"
     },
     {
       "name": "CBA",
@@ -37936,7 +37919,7 @@
           "date": "2026-10-29"
         }
       ],
-      "lastSuccess": "2026-10-31T03:47:27+08:00"
+      "lastSuccess": "2026-10-31T10:27:45+08:00"
     },
     {
       "name": "FIBA 亞洲賽事",
@@ -37955,7 +37938,7 @@
           "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/2027-wcq-asia-august-31-game-center"
         }
       ],
-      "lastSuccess": "2026-10-31T03:47:27+08:00"
+      "lastSuccess": "2026-10-31T10:27:45+08:00"
     }
   ],
   "guides": [
