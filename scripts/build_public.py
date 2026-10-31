@@ -68,7 +68,7 @@ def write(public,path,text):
     p=public/path;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(text,encoding='utf8')
 def build(public):
     data=json.loads((ROOT/'data/site.json').read_text(encoding='utf8'));public.mkdir(exist_ok=True)
-    for name in ['index.html','basketball-analytics-handbook.html','basketball-research-plan.html','researcher-portrait.png','app.js','reports.js','advanced.js','history.js','speech.js','a11y.js','style.css','reading.css','webmcp.js']:shutil.copy2(ROOT/name,public/name)
+    for name in ['index.html','basketball-analytics-handbook.html','basketball-research-plan.html','research-progress-02.html','researcher-portrait.png','app.js','reports.js','advanced.js','history.js','speech.js','a11y.js','style.css','reading.css','webmcp.js']:shutil.copy2(ROOT/name,public/name)
     shutil.copytree(ROOT/'downloads',public/'downloads',dirs_exist_ok=True)
     (public/'data/reports').mkdir(parents=True,exist_ok=True);shutil.copy2(ROOT/'data/site.json',public/'data/site.json')
     reports=sorted((ROOT/'data/reports').glob('*.json'))
@@ -81,7 +81,7 @@ def build(public):
     text=text.replace('</main>','<section><h2>日期日報與資料來源</h2><p><a href="reports/">依日期閱讀完整日報</a> · <a href="feed.xml">RSS 訂閱</a></p></section></main>')
     text=text.replace('</main>','<section><h2>AI 賽事資料查詢</h2><p data-webmcp-status>在支援網站工具的 AI 瀏覽器中，可查聯盟賽程、指定日期日報及比賽分析。回傳結果包含官方來源與資料時間。</p></section></main>')
     write(public,'index.html',text)
-    rows=[];urls=[BASE+'/',BASE+'/basketball-analytics-handbook.html',BASE+'/basketball-research-plan.html',BASE+'/reports/'];items=[]
+    rows=[];urls=[BASE+'/',BASE+'/basketball-analytics-handbook.html',BASE+'/basketball-research-plan.html',BASE+'/research-progress-02.html',BASE+'/reports/'];items=[]
     urls+=build_catalogue(public,data,load_games(ROOT/'data/basketball.sqlite3',data),analysis)
     for p in reports:
         d=json.loads(p.read_text(encoding='utf8'));url=BASE+'/reports/'+p.stem+'.html';title=p.stem+' 亞洲籃球日報';desc='依官方公開資料整理的賽程、賽後統計與分析；包含來源與資料限制。'
@@ -91,6 +91,7 @@ def build(public):
     write(public,'reports/index.html','<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>亞洲籃球日報目錄</title><link rel="stylesheet" href="../style.css"><link rel="canonical" href="'+BASE+'/reports/"></head><body><main style="max-width:900px;margin:auto;padding:24px"><h1>亞洲籃球日報目錄</h1><p><a href="../">返回首頁</a></p><ul>'+''.join(reversed(rows))+'</ul></main></body></html>')
     handbook=(public/'basketball-analytics-handbook.html').read_text(encoding='utf8');handbook=handbook.replace('</head>',meta(BASE+'/basketball-analytics-handbook.html','籃球空間表現分析與演算模型','進階術語與數學定義手冊。',[AUTHOR,{'@type':'Article','headline':'籃球空間表現分析與演算模型：進階術語與數學定義手冊','author':{'@id':AUTHOR['@id']},'mainEntityOfPage':BASE+'/basketball-analytics-handbook.html','inLanguage':'zh-Hant'}])+'</head>');write(public,'basketball-analytics-handbook.html',handbook)
     research=(public/'basketball-research-plan.html').read_text(encoding='utf8');research=research.replace('</head>',meta(BASE+'/basketball-research-plan.html','籃球智軌研究計畫','以球員數據、比賽影片與人工智慧推動籃球研究。',[AUTHOR,{'@type':'Article','headline':'籃球智軌研究計畫','datePublished':'2026-10-13','author':{'@id':AUTHOR['@id']},'mainEntityOfPage':BASE+'/basketball-research-plan.html','inLanguage':'zh-Hant'}])+'</head>');write(public,'basketball-research-plan.html',research)
+    progress=(public/'research-progress-02.html').read_text(encoding='utf8');progress=progress.replace('</head>',meta(BASE+'/research-progress-02.html','籃球智軌研究計畫進度第 2 期','從研究構想到本機影片分析工作台：實作進度、測試結果與下一階段驗證。',[AUTHOR,{'@type':'Article','headline':'籃球智軌研究計畫進度第 2 期：從研究構想到影片分析工作台','datePublished':'2026-10-31','author':{'@id':AUTHOR['@id']},'mainEntityOfPage':BASE+'/research-progress-02.html','inLanguage':'zh-Hant'}])+'</head>');write(public,'research-progress-02.html',progress)
     write(public,'sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+escape(url)+'</loc></url>' for url in urls)+'</urlset>')
     write(public,'feed.xml','<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>凸肚男的亞洲籃球日報</title><link>'+BASE+'/</link><description>官方資料、賽後統計與分析</description>'+''.join('<item><title>'+escape(t)+'</title><link>'+u+'</link><guid>'+u+'</guid><description>'+escape(d)+'</description></item>' for t,u,d in reversed(items))+'</channel></rss>')
     write(public,'llms.txt','# 專注亞洲籃球觀察\n\n> 凸肚男依官方公開資料整理亞洲籃球賽程、統計及分析。不是官方聯盟網站；資料有擷取時間及限制。\n\n## 公開內容\n- [首頁]('+BASE+'/)\n- [日期日報]('+BASE+'/reports/)\n- [籃球術語與數學定義手冊]('+BASE+'/basketball-analytics-handbook.html)\n')
