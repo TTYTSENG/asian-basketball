@@ -1324563,6 +1324563,4988 @@
       }
     }
   },
+  "nbl:3729bbac-58ad-11f1-b394-cbe0cbdf48fe": {
+    "league": "nbl",
+    "id": "3729bbac-58ad-11f1-b394-cbe0cbdf48fe",
+    "date": "2026-11-04",
+    "home": "Brisbane Bullets",
+    "away": "Perth Wildcats",
+    "score": [
+      109,
+      104
+    ],
+    "source": "https://schedule.nbl.com.au/match?league=NBL&match=3729bbac-58ad-11f1-b394-cbe0cbdf48fe&year=2026&season=67d4a190-40bc-4bfb-a9a2-11bd0b93f020",
+    "time": "17:00",
+    "complete": true,
+    "season": "2026–27",
+    "competition": "澳洲 NBL",
+    "periodSeconds": 600,
+    "homeId": "f8185bc5-2674-4293-a2a7-aeb8c7549b30",
+    "awayId": "bc5327d5-322e-4796-b103-4c3b63869edb",
+    "statsSource": "https://schedule.nbl.com.au/api/calendar/match?match=3729bbac-58ad-11f1-b394-cbe0cbdf48fe&league=NBL",
+    "players": {
+      "home": [
+        {
+          "id": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+          "name": "Raul Neto",
+          "points": 10,
+          "fgm": 3,
+          "fga": 6,
+          "turnovers": 0,
+          "seconds": 880,
+          "ftm": 2,
+          "fta": 2,
+          "assists": 8,
+          "rebounds": 2,
+          "steals": 1,
+          "blocks": 1,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 1,
+          "three_made": 2,
+          "three_attempted": 5
+        },
+        {
+          "id": "5176def2-410d-11f0-8117-9dbbf7342624",
+          "name": "Taine Murray",
+          "points": 14,
+          "fgm": 6,
+          "fga": 10,
+          "turnovers": 1,
+          "seconds": 1599,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 3,
+          "rebounds": 3,
+          "steals": 0,
+          "blocks": 1,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 3,
+          "three_made": 2,
+          "three_attempted": 5
+        },
+        {
+          "id": "506a8485-410d-11f0-8bae-9dbbf7342624",
+          "name": "Lat Mayen",
+          "points": 14,
+          "fgm": 4,
+          "fga": 6,
+          "turnovers": 0,
+          "seconds": 1148,
+          "ftm": 3,
+          "fta": 3,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "three_made": 3,
+          "three_attempted": 4
+        },
+        {
+          "id": "2bb2e532-410d-11f0-9e4a-975350631782",
+          "name": "Mitch Norton",
+          "points": 13,
+          "fgm": 4,
+          "fga": 7,
+          "turnovers": 2,
+          "seconds": 1389,
+          "ftm": 4,
+          "fta": 4,
+          "assists": 3,
+          "rebounds": 4,
+          "steals": 1,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 4,
+          "three_made": 1,
+          "three_attempted": 1
+        },
+        {
+          "id": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+          "name": "Tyrell Harrison",
+          "points": 16,
+          "fgm": 6,
+          "fga": 10,
+          "turnovers": 0,
+          "seconds": 1286,
+          "ftm": 4,
+          "fta": 5,
+          "assists": 1,
+          "rebounds": 5,
+          "steals": 2,
+          "blocks": 2,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 4,
+          "three_made": 0,
+          "three_attempted": 0
+        },
+        {
+          "id": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+          "name": "Archie Woodhill",
+          "points": 7,
+          "fgm": 1,
+          "fga": 4,
+          "turnovers": 0,
+          "seconds": 983,
+          "ftm": 5,
+          "fta": 5,
+          "assists": 2,
+          "rebounds": 3,
+          "steals": 1,
+          "blocks": 0,
+          "offensive_rebounds": 3,
+          "defensive_rebounds": 0,
+          "three_made": 0,
+          "three_attempted": 1
+        },
+        {
+          "id": "bb900f37-8ba8-11f1-a10c-65253084e076",
+          "name": "Jaylin Williams",
+          "points": 13,
+          "fgm": 5,
+          "fga": 9,
+          "turnovers": 0,
+          "seconds": 1884,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 5,
+          "rebounds": 4,
+          "steals": 1,
+          "blocks": 1,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 3,
+          "three_made": 3,
+          "three_attempted": 5
+        },
+        {
+          "id": "c9355cc4-6078-11f1-a995-9961c8b996e1",
+          "name": "Rio Bruton",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "three_made": 0,
+          "three_attempted": 0
+        },
+        {
+          "id": "77506203-410d-11f0-8a9c-2902fc2f936f",
+          "name": "Harry Rouhliadeff",
+          "points": 3,
+          "fgm": 1,
+          "fga": 2,
+          "turnovers": 0,
+          "seconds": 178,
+          "ftm": 1,
+          "fta": 1,
+          "assists": 0,
+          "rebounds": 1,
+          "steals": 0,
+          "blocks": 1,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 1,
+          "three_made": 0,
+          "three_attempted": 0
+        },
+        {
+          "id": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+          "name": "Mawot Mag",
+          "points": 6,
+          "fgm": 2,
+          "fga": 5,
+          "turnovers": 1,
+          "seconds": 676,
+          "ftm": 2,
+          "fta": 3,
+          "assists": 1,
+          "rebounds": 3,
+          "steals": 1,
+          "blocks": 0,
+          "offensive_rebounds": 3,
+          "defensive_rebounds": 0,
+          "three_made": 0,
+          "three_attempted": 2
+        },
+        {
+          "id": "92068945-7e79-11f1-8300-03da7d40c682",
+          "name": "Nate Hinton",
+          "points": 13,
+          "fgm": 5,
+          "fga": 16,
+          "turnovers": 2,
+          "seconds": 1977,
+          "ftm": 1,
+          "fta": 2,
+          "assists": 4,
+          "rebounds": 8,
+          "steals": 0,
+          "blocks": 2,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 7,
+          "three_made": 2,
+          "three_attempted": 6
+        },
+        {
+          "id": "2f4deede-9b71-11f1-abf2-e768142ef81d",
+          "name": "Billy McRae",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "three_made": 0,
+          "three_attempted": 0
+        }
+      ],
+      "away": [
+        {
+          "id": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+          "name": "Cameron Huefner",
+          "points": 8,
+          "fgm": 3,
+          "fga": 9,
+          "turnovers": 0,
+          "seconds": 700,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 1,
+          "rebounds": 5,
+          "steals": 0,
+          "blocks": 1,
+          "offensive_rebounds": 4,
+          "defensive_rebounds": 1,
+          "three_made": 2,
+          "three_attempted": 4
+        },
+        {
+          "id": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+          "name": "Jaron Rillie",
+          "points": 7,
+          "fgm": 2,
+          "fga": 6,
+          "turnovers": 1,
+          "seconds": 1214,
+          "ftm": 2,
+          "fta": 2,
+          "assists": 6,
+          "rebounds": 6,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 5,
+          "three_made": 1,
+          "three_attempted": 3
+        },
+        {
+          "id": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+          "name": "Dylan Windler",
+          "points": 8,
+          "fgm": 2,
+          "fga": 7,
+          "turnovers": 4,
+          "seconds": 2003,
+          "ftm": 3,
+          "fta": 3,
+          "assists": 4,
+          "rebounds": 6,
+          "steals": 1,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 6,
+          "three_made": 1,
+          "three_attempted": 2
+        },
+        {
+          "id": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+          "name": "Kristian Doolittle",
+          "points": 24,
+          "fgm": 8,
+          "fga": 19,
+          "turnovers": 1,
+          "seconds": 2059,
+          "ftm": 3,
+          "fta": 4,
+          "assists": 9,
+          "rebounds": 7,
+          "steals": 1,
+          "blocks": 2,
+          "offensive_rebounds": 6,
+          "defensive_rebounds": 1,
+          "three_made": 5,
+          "three_attempted": 8
+        },
+        {
+          "id": "3f5430fd-8dd0-11f0-9214-61af560dfc9e",
+          "name": "Tana Kopa",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "three_made": 0,
+          "three_attempted": 0
+        },
+        {
+          "id": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+          "name": "Anthony Dell'Orso",
+          "points": 20,
+          "fgm": 7,
+          "fga": 11,
+          "turnovers": 0,
+          "seconds": 1821,
+          "ftm": 4,
+          "fta": 8,
+          "assists": 2,
+          "rebounds": 5,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 5,
+          "three_made": 2,
+          "three_attempted": 3
+        },
+        {
+          "id": "2c284d9b-410d-11f0-adf3-975350631782",
+          "name": "Angus Brandt",
+          "points": 2,
+          "fgm": 1,
+          "fga": 2,
+          "turnovers": 2,
+          "seconds": 546,
+          "ftm": 0,
+          "fta": 2,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "three_made": 0,
+          "three_attempted": 0
+        },
+        {
+          "id": "4b998bf4-95e4-11f1-8a0a-3dfcf4a739d2",
+          "name": "Marley Sam",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0,
+          "three_made": 0,
+          "three_attempted": 0
+        },
+        {
+          "id": "cb25127e-410c-11f0-85e6-83bd190b7a87",
+          "name": "Jesse Wagstaff",
+          "points": 5,
+          "fgm": 2,
+          "fga": 4,
+          "turnovers": 0,
+          "seconds": 708,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 1,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 1,
+          "three_made": 1,
+          "three_attempted": 2
+        },
+        {
+          "id": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+          "name": "Elijah Pepper",
+          "points": 19,
+          "fgm": 7,
+          "fga": 18,
+          "turnovers": 2,
+          "seconds": 2084,
+          "ftm": 1,
+          "fta": 2,
+          "assists": 1,
+          "rebounds": 5,
+          "steals": 0,
+          "blocks": 0,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 4,
+          "three_made": 4,
+          "three_attempted": 10
+        },
+        {
+          "id": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+          "name": "Alex Higgins-Titsha",
+          "points": 11,
+          "fgm": 2,
+          "fga": 2,
+          "turnovers": 0,
+          "seconds": 865,
+          "ftm": 7,
+          "fta": 8,
+          "assists": 1,
+          "rebounds": 5,
+          "steals": 1,
+          "blocks": 0,
+          "offensive_rebounds": 3,
+          "defensive_rebounds": 2,
+          "three_made": 0,
+          "three_attempted": 0
+        }
+      ]
+    },
+    "stats": {
+      "home": {
+        "points": 109,
+        "fgm": 37,
+        "fga": 75,
+        "turnovers": 7,
+        "ftm": 22,
+        "fta": 25,
+        "seconds": 12000.0,
+        "assists": 27,
+        "rebounds": 40,
+        "steals": 7,
+        "blocks": 8,
+        "three_made": 13,
+        "three_attempted": 29,
+        "offensive_rebounds": 12,
+        "defensive_rebounds": 28
+      },
+      "away": {
+        "points": 104,
+        "fgm": 34,
+        "fga": 78,
+        "turnovers": 10,
+        "ftm": 20,
+        "fta": 29,
+        "seconds": 12000.0,
+        "assists": 24,
+        "rebounds": 46,
+        "steals": 3,
+        "blocks": 3,
+        "three_made": 16,
+        "three_attempted": 32,
+        "offensive_rebounds": 19,
+        "defensive_rebounds": 27
+      }
+    },
+    "events": [
+      {
+        "period": 1,
+        "sec": 587,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 573,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 573,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 543,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 543,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 543,
+        "side": "away",
+        "pid": "2c284d9b-410d-11f0-adf3-975350631782",
+        "name": "Angus Brandt",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 543,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 543,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 543,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 542,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 522,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 509,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 494,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 481,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 475,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 469,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 460,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 450,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 425,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 425,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 408,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 408,
+        "side": "away",
+        "pid": "cb25127e-410c-11f0-85e6-83bd190b7a87",
+        "name": "Jesse Wagstaff",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 405,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 405,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 400,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 395,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 395,
+        "side": "away",
+        "pid": "cb25127e-410c-11f0-85e6-83bd190b7a87",
+        "name": "Jesse Wagstaff",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 370,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 370,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 358,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 358,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 340,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 340,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 331,
+        "side": "away",
+        "pid": "cb25127e-410c-11f0-85e6-83bd190b7a87",
+        "name": "Jesse Wagstaff",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 331,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 312,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 312,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 312,
+        "side": "away",
+        "pid": "cb25127e-410c-11f0-85e6-83bd190b7a87",
+        "name": "Jesse Wagstaff",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 312,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 312,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 292,
+        "side": "away",
+        "pid": "cb25127e-410c-11f0-85e6-83bd190b7a87",
+        "name": "Jesse Wagstaff",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 292,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 278,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 278,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 267,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 258,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 258,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 238,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 224,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 238,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 206,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 206,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 187,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 170,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 170,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 167,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 167,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 154,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 154,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 154,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 154,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 146,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 136,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 136,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 128,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 128,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 123,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 103,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 103,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 103,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 103,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 93,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 79,
+        "side": "away",
+        "pid": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+        "name": "Cameron Huefner",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 72,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 72,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 72,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 72,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 69,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 51,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 32,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 32,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 8,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 2,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 2,
+        "side": "away",
+        "pid": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+        "name": "Cameron Huefner",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "away",
+        "pid": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+        "name": "Cameron Huefner",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "away",
+        "pid": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+        "name": "Cameron Huefner",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 177,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 177,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 588,
+        "side": "away",
+        "pid": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+        "name": "Cameron Huefner",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 587,
+        "side": "home",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 587,
+        "side": "away",
+        "pid": "2c284d9b-410d-11f0-adf3-975350631782",
+        "name": "Angus Brandt",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 587,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 587,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 587,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 587,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 565,
+        "side": "away",
+        "pid": "2c284d9b-410d-11f0-adf3-975350631782",
+        "name": "Angus Brandt",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 550,
+        "side": "home",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 550,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 550,
+        "side": "away",
+        "pid": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+        "name": "Cameron Huefner",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 550,
+        "side": "home",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 545,
+        "side": "home",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 529,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 507,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 507,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 470,
+        "side": "away",
+        "pid": "2c284d9b-410d-11f0-adf3-975350631782",
+        "name": "Angus Brandt",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 470,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 470,
+        "side": "away",
+        "pid": "2c284d9b-410d-11f0-adf3-975350631782",
+        "name": "Angus Brandt",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 470,
+        "side": "away",
+        "pid": "2c284d9b-410d-11f0-adf3-975350631782",
+        "name": "Angus Brandt",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 463,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 463,
+        "side": "away",
+        "pid": "2c284d9b-410d-11f0-adf3-975350631782",
+        "name": "Angus Brandt",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 452,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 452,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 435,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 435,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 425,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 425,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 408,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 390,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 390,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 390,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 390,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 390,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 375,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 359,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 344,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 338,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 323,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 323,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 296,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 290,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 286,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 271,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 255,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 241,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 232,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 208,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 208,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 182,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 182,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 172,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 155,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 144,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 136,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 136,
+        "side": "away",
+        "pid": "cb25127e-410c-11f0-85e6-83bd190b7a87",
+        "name": "Jesse Wagstaff",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 136,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 136,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 114,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 114,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 89,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 182,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 182,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 182,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 187,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 187,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 86,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 74,
+        "side": "away",
+        "pid": "cb25127e-410c-11f0-85e6-83bd190b7a87",
+        "name": "Jesse Wagstaff",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 70,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 70,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 70,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 70,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 70,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 54,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 54,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 43,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 43,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 43,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 43,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 28,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 6,
+        "side": "away",
+        "pid": "cb25127e-410c-11f0-85e6-83bd190b7a87",
+        "name": "Jesse Wagstaff",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 5,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 3,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 3,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 1,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 223,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 259,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 259,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 284,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 280,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 587,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 587,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 584,
+        "side": "away",
+        "pid": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+        "name": "Cameron Huefner",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 584,
+        "side": "home",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 543,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 543,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 543,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 543,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 543,
+        "side": "home",
+        "pid": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+        "name": "Raul Neto",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 543,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 543,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 545,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 586,
+        "side": "away",
+        "pid": "2c284d9b-410d-11f0-adf3-975350631782",
+        "name": "Angus Brandt",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 586,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 569,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 569,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 558,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 558,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 551,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 542,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 522,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 515,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 509,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 493,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 493,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 479,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 465,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 457,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 447,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 447,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 452,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 439,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 421,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 410,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 410,
+        "side": "away",
+        "pid": "2c284d9b-410d-11f0-adf3-975350631782",
+        "name": "Angus Brandt",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 406,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 401,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 388,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 388,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 383,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 383,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 381,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 381,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 359,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 342,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 329,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 329,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 308,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 308,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 286,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 286,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 286,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 286,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 286,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 282,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 272,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 247,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 247,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 243,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 242,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 242,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 227,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 215,
+        "side": "away",
+        "pid": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+        "name": "Cameron Huefner",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 215,
+        "side": "home",
+        "pid": "77506203-410d-11f0-8a9c-2902fc2f936f",
+        "name": "Harry Rouhliadeff",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 194,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 194,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 181,
+        "side": "away",
+        "pid": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+        "name": "Cameron Huefner",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 181,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 160,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 156,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 156,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 156,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 156,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 126,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 124,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 124,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 124,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 124,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 119,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 119,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 113,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 107,
+        "side": "away",
+        "pid": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+        "name": "Cameron Huefner",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 107,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 93,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 93,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 93,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 93,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 93,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 84,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 67,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 67,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 67,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 67,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 54,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 54,
+        "side": "away",
+        "pid": "cb25127e-410c-11f0-85e6-83bd190b7a87",
+        "name": "Jesse Wagstaff",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 54,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 54,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 33,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 10,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 7,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 7,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 7,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 7,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 4,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 4,
+        "side": "away",
+        "pid": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+        "name": "Cameron Huefner",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 73,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 136,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 136,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 586,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 586,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 586,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 586,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 586,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 585,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 585,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 570,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 562,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 562,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 562,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 562,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 562,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 543,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 527,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 527,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 505,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 505,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 505,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 505,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 505,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 493,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 493,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 475,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 475,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 467,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 467,
+        "side": "away",
+        "pid": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+        "name": "Jaron Rillie",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 467,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 467,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 467,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 467,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 454,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 454,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 444,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 444,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 421,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 419,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 419,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 419,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 419,
+        "side": "home",
+        "pid": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+        "name": "Mawot Mag",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 412,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 412,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 407,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 388,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 376,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 366,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 366,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 364,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 592,
+        "side": "away",
+        "pid": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+        "name": "Cameron Huefner",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 208,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 347,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 354,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 354,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 335,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 335,
+        "side": "home",
+        "pid": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+        "name": "Archie Woodhill",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 314,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 305,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 305,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 299,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 299,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 273,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 260,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 260,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 256,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 239,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 220,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 220,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 214,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 214,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 214,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 214,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 208,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 201,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 201,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 201,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 201,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 271,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 196,
+        "side": "away",
+        "pid": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+        "name": "Dylan Windler",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 192,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 173,
+        "side": "home",
+        "pid": "bb900f37-8ba8-11f1-a10c-65253084e076",
+        "name": "Jaylin Williams",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 160,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 160,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 134,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 131,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 131,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 131,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 131,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 110,
+        "side": "home",
+        "pid": "2bb2e532-410d-11f0-9e4a-975350631782",
+        "name": "Mitch Norton",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 91,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 91,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 64,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 64,
+        "side": "home",
+        "pid": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+        "name": "Tyrell Harrison",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 56,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 50,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 43,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 43,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 40,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 11,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 10,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 10,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 10,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 10,
+        "side": "away",
+        "pid": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+        "name": "Alex Higgins-Titsha",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 10,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 10,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 10,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 10,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 10,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 10,
+        "side": "home",
+        "pid": "506a8485-410d-11f0-8bae-9dbbf7342624",
+        "name": "Lat Mayen",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 10,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 8,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 8,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 6,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 6,
+        "side": "away",
+        "pid": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+        "name": "Anthony Dell'Orso",
+        "kind": "FOUL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 6,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 6,
+        "side": "home",
+        "pid": "92068945-7e79-11f1-8300-03da7d40c682",
+        "name": "Nate Hinton",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 2,
+        "side": "away",
+        "pid": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+        "name": "Elijah Pepper",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 20,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 214,
+        "side": "away",
+        "pid": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "name": "Kristian Doolittle",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 214,
+        "side": "home",
+        "pid": "5176def2-410d-11f0-8117-9dbbf7342624",
+        "name": "Taine Murray",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      }
+    ],
+    "report": {
+      "key": [],
+      "keyPlayers": [],
+      "lineups": [],
+      "issues": {
+        "absent_player": 71,
+        "clock": 29,
+        "score": 1
+      },
+      "counts": {
+        "home": {
+          "501ecdb9-410d-11f0-82fa-9dbbf7342624": {
+            "points": 16,
+            "turnovers": 0,
+            "fgm": 6,
+            "fga": 10,
+            "assists": 1,
+            "steals": 2,
+            "blocks": 2
+          },
+          "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9": {
+            "points": 10,
+            "turnovers": 0,
+            "fgm": 3,
+            "fga": 6,
+            "assists": 8,
+            "steals": 1,
+            "blocks": 1
+          },
+          "5176def2-410d-11f0-8117-9dbbf7342624": {
+            "points": 14,
+            "turnovers": 1,
+            "fgm": 6,
+            "fga": 10,
+            "assists": 3,
+            "steals": 0,
+            "blocks": 1
+          },
+          "bb900f37-8ba8-11f1-a10c-65253084e076": {
+            "points": 13,
+            "turnovers": 0,
+            "fgm": 5,
+            "fga": 9,
+            "assists": 5,
+            "steals": 1,
+            "blocks": 1
+          },
+          "92068945-7e79-11f1-8300-03da7d40c682": {
+            "points": 13,
+            "turnovers": 2,
+            "fgm": 5,
+            "fga": 16,
+            "assists": 4,
+            "steals": 0,
+            "blocks": 2
+          },
+          "2bb2e532-410d-11f0-9e4a-975350631782": {
+            "points": 13,
+            "turnovers": 2,
+            "fgm": 4,
+            "fga": 7,
+            "assists": 3,
+            "steals": 1,
+            "blocks": 0
+          },
+          "506a8485-410d-11f0-8bae-9dbbf7342624": {
+            "points": 14,
+            "turnovers": 0,
+            "fgm": 4,
+            "fga": 6,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0
+          },
+          "6ae51b44-410d-11f0-b4e3-9dbbf7342624": {
+            "points": 7,
+            "turnovers": 0,
+            "fgm": 1,
+            "fga": 4,
+            "assists": 2,
+            "steals": 1,
+            "blocks": 0
+          },
+          "3d90487d-78c8-11f0-97f8-a75e0a32dc9a": {
+            "points": 6,
+            "turnovers": 1,
+            "fgm": 2,
+            "fga": 5,
+            "assists": 1,
+            "steals": 1,
+            "blocks": 0
+          },
+          "77506203-410d-11f0-8a9c-2902fc2f936f": {
+            "points": 3,
+            "turnovers": 0,
+            "fgm": 1,
+            "fga": 2,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 1
+          },
+          "c9355cc4-6078-11f1-a995-9961c8b996e1": {},
+          "2f4deede-9b71-11f1-abf2-e768142ef81d": {}
+        },
+        "away": {
+          "7693dd9b-410d-11f0-8a74-2902fc2f936f": {
+            "points": 8,
+            "turnovers": 4,
+            "fgm": 2,
+            "fga": 7,
+            "assists": 4,
+            "steals": 1,
+            "blocks": 0
+          },
+          "7619d3ea-410d-11f0-9235-2902fc2f936f": {
+            "points": 19,
+            "turnovers": 2,
+            "fgm": 7,
+            "fga": 18,
+            "assists": 1,
+            "steals": 0,
+            "blocks": 0
+          },
+          "2c284d9b-410d-11f0-adf3-975350631782": {
+            "points": 2,
+            "turnovers": 2,
+            "fgm": 1,
+            "fga": 2,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0
+          },
+          "75f4d047-410d-11f0-92f1-2902fc2f936f": {
+            "points": 24,
+            "turnovers": 1,
+            "fgm": 8,
+            "fga": 19,
+            "assists": 9,
+            "steals": 1,
+            "blocks": 2
+          },
+          "07da01f9-95e4-11f1-b6a0-1bf0b0404eee": {
+            "points": 20,
+            "turnovers": 0,
+            "fgm": 7,
+            "fga": 11,
+            "assists": 2,
+            "steals": 0,
+            "blocks": 0
+          },
+          "f6574bd8-814f-11f0-9264-8be23e86e08f": {
+            "points": 7,
+            "turnovers": 1,
+            "fgm": 2,
+            "fga": 6,
+            "assists": 6,
+            "steals": 0,
+            "blocks": 0
+          },
+          "cb25127e-410c-11f0-85e6-83bd190b7a87": {
+            "points": 5,
+            "turnovers": 0,
+            "fgm": 2,
+            "fga": 4,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0
+          },
+          "29f9e9a8-530e-11f0-a8c0-5be4c4667c94": {
+            "points": 8,
+            "turnovers": 0,
+            "fgm": 3,
+            "fga": 9,
+            "assists": 1,
+            "steals": 0,
+            "blocks": 1
+          },
+          "763e9009-410d-11f0-a7ce-2902fc2f936f": {
+            "points": 11,
+            "turnovers": 0,
+            "fgm": 2,
+            "fga": 2,
+            "assists": 1,
+            "steals": 1,
+            "blocks": 0
+          },
+          "3f5430fd-8dd0-11f0-9214-61af560dfc9e": {},
+          "4b998bf4-95e4-11f1-8a0a-3dfcf4a739d2": {}
+        }
+      }
+    },
+    "pbpSource": "https://schedule.nbl.com.au/api/calendar/match?match=3729bbac-58ad-11f1-b394-cbe0cbdf48fe&league=NBL",
+    "advanced": {
+      "players": [
+        {
+          "id": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+          "side": "away",
+          "name": "Cameron Huefner",
+          "seconds": 700,
+          "points": 8,
+          "usg": 30.624397436624513,
+          "eff": 9,
+          "assists": 1,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+          "side": "away",
+          "name": "Kristian Doolittle",
+          "seconds": 2059,
+          "points": 24,
+          "usg": 25.172458137966895,
+          "eff": 30,
+          "assists": 9,
+          "turnovers": 1,
+          "ast_to": 9.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+          "side": "away",
+          "name": "Elijah Pepper",
+          "seconds": 2084,
+          "points": 19,
+          "usg": 23.864693587849427,
+          "eff": 11,
+          "assists": 1,
+          "turnovers": 2,
+          "ast_to": 0.5,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "2c284d9b-410d-11f0-adf3-975350631782",
+          "side": "away",
+          "name": "Angus Brandt",
+          "seconds": 546,
+          "points": 2,
+          "usg": 21.288754913209058,
+          "eff": -3,
+          "assists": 0,
+          "turnovers": 2,
+          "ast_to": 0.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+          "side": "away",
+          "name": "Anthony Dell'Orso",
+          "seconds": 1821,
+          "points": 20,
+          "usg": 18.992395847571633,
+          "eff": 19,
+          "assists": 2,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "f6574bd8-814f-11f0-9264-8be23e86e08f",
+          "side": "away",
+          "name": "Jaron Rillie",
+          "seconds": 1214,
+          "points": 7,
+          "usg": 15.460751991618231,
+          "eff": 14,
+          "assists": 6,
+          "turnovers": 1,
+          "ast_to": 6.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "763e9009-410d-11f0-a7ce-2902fc2f936f",
+          "side": "away",
+          "name": "Alex Higgins-Titsha",
+          "seconds": 865,
+          "points": 11,
+          "usg": 15.200086280682992,
+          "eff": 17,
+          "assists": 1,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+          "side": "away",
+          "name": "Dylan Windler",
+          "seconds": 2003,
+          "points": 8,
+          "usg": 14.650513312999932,
+          "eff": 10,
+          "assists": 4,
+          "turnovers": 4,
+          "ast_to": 1.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "cb25127e-410c-11f0-85e6-83bd190b7a87",
+          "side": "away",
+          "name": "Jesse Wagstaff",
+          "seconds": 708,
+          "points": 5,
+          "usg": 13.457048465560048,
+          "eff": 4,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "77506203-410d-11f0-8a9c-2902fc2f936f",
+          "side": "home",
+          "name": "Harry Rouhliadeff",
+          "seconds": 178,
+          "points": 3,
+          "usg": 35.37513591881116,
+          "eff": 4,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "3d90487d-78c8-11f0-97f8-a75e0a32dc9a",
+          "side": "home",
+          "name": "Mawot Mag",
+          "seconds": 676,
+          "points": 6,
+          "usg": 27.944264172552014,
+          "eff": 6,
+          "assists": 1,
+          "turnovers": 1,
+          "ast_to": 1.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "92068945-7e79-11f1-8300-03da7d40c682",
+          "side": "home",
+          "name": "Nate Hinton",
+          "seconds": 1977,
+          "points": 13,
+          "usg": 24.644704423450325,
+          "eff": 13,
+          "assists": 4,
+          "turnovers": 2,
+          "ast_to": 2.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "501ecdb9-410d-11f0-82fa-9dbbf7342624",
+          "side": "home",
+          "name": "Tyrell Harrison",
+          "seconds": 1286,
+          "points": 16,
+          "usg": 24.482014749410524,
+          "eff": 21,
+          "assists": 1,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+          "side": "home",
+          "name": "Raul Neto",
+          "seconds": 880,
+          "points": 10,
+          "usg": 20.175953079178885,
+          "eff": 19,
+          "assists": 8,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "2bb2e532-410d-11f0-9e4a-975350631782",
+          "side": "home",
+          "name": "Mitch Norton",
+          "seconds": 1389,
+          "points": 13,
+          "usg": 19.991174899556423,
+          "eff": 16,
+          "assists": 3,
+          "turnovers": 2,
+          "ast_to": 1.5,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "5176def2-410d-11f0-8117-9dbbf7342624",
+          "side": "home",
+          "name": "Taine Murray",
+          "seconds": 1599,
+          "points": 14,
+          "usg": 17.75303112832617,
+          "eff": 16,
+          "assists": 3,
+          "turnovers": 1,
+          "ast_to": 3.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "506a8485-410d-11f0-8bae-9dbbf7342624",
+          "side": "home",
+          "name": "Lat Mayen",
+          "seconds": 1148,
+          "points": 14,
+          "usg": 16.45498482634596,
+          "eff": 12,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "6ae51b44-410d-11f0-b4e3-9dbbf7342624",
+          "side": "home",
+          "name": "Archie Woodhill",
+          "seconds": 983,
+          "points": 7,
+          "usg": 16.276703967446593,
+          "eff": 10,
+          "assists": 2,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "bb900f37-8ba8-11f1-a10c-65253084e076",
+          "side": "home",
+          "name": "Jaylin Williams",
+          "seconds": 1884,
+          "points": 13,
+          "usg": 12.327922745017464,
+          "eff": 20,
+          "assists": 5,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        }
+      ],
+      "benchmark": {
+        "id": "75f4d047-410d-11f0-92f1-2902fc2f936f",
+        "side": "away",
+        "name": "Kristian Doolittle",
+        "seconds": 2059,
+        "points": 24,
+        "usg": 25.172458137966895,
+        "eff": 30,
+        "assists": 9,
+        "turnovers": 1,
+        "ast_to": 9.0,
+        "potential_assists": null,
+        "passes_made": null,
+        "passes_received": null,
+        "secondary_assists": null,
+        "vorp": null
+      },
+      "observation": {
+        "teams": {
+          "home": {
+            "ts": 63.372093023255815,
+            "fta_rate": 33.333333333333336,
+            "assisted_fg_pct": 72.97297297297297,
+            "ft_points_pct": 20.18348623853211,
+            "efg": 58.0,
+            "three_attempt_pct": 38.666666666666664,
+            "three_points_pct": 35.77981651376147,
+            "oreb_pct": 30.76923076923077,
+            "dreb_pct": 59.57446808510638,
+            "paint_points": null,
+            "second_chance_points": null,
+            "fast_break_points": null,
+            "off_rating_est": 133.9395428852298,
+            "tov_pct_est": 8.601622020152371,
+            "source_counts": {
+              "points": 109,
+              "fgm": 37,
+              "fga": 75,
+              "three_made": 13,
+              "three_attempted": 29,
+              "ftm": 22,
+              "fta": 25,
+              "assists": 27,
+              "turnovers": 7,
+              "offensive_rebounds": 12,
+              "defensive_rebounds": 28
+            }
+          },
+          "away": {
+            "ts": 57.293962097840456,
+            "fta_rate": 37.17948717948718,
+            "assisted_fg_pct": 70.58823529411765,
+            "ft_points_pct": 19.23076923076923,
+            "efg": 53.84615384615385,
+            "three_attempt_pct": 41.02564102564103,
+            "three_points_pct": 46.15384615384615,
+            "oreb_pct": 40.42553191489362,
+            "dreb_pct": 69.23076923076923,
+            "paint_points": null,
+            "second_chance_points": null,
+            "fast_break_points": null,
+            "off_rating_est": 127.79552715654953,
+            "tov_pct_est": 12.288031457360532,
+            "source_counts": {
+              "points": 104,
+              "fgm": 34,
+              "fga": 78,
+              "three_made": 16,
+              "three_attempted": 32,
+              "ftm": 20,
+              "fta": 29,
+              "assists": 24,
+              "turnovers": 10,
+              "offensive_rebounds": 19,
+              "defensive_rebounds": 27
+            }
+          }
+        },
+        "possessions_est": 81.38,
+        "regulation_minutes": 40.0,
+        "warnings": [],
+        "method": "回合為雙方(FGA−ORB＋TOV＋0.44×FTA)平均估計；不是官方逐回合或追蹤數據。TS%同樣使用0.44估計係數。"
+      },
+      "benchmark_method": "本場 EFF 最高且至少上場十分鐘的球員；EFF 是傳統綜合效率，不是整體能力排名。",
+      "tracking_status": "官網逐球沒有完整的傳球者、接球者與傳球鏈，潛在助攻、傳出／接球次數及次級助攻尚不可計算；不以助攻次數代替。",
+      "vorp_status": "尚無適用 TPBL、P+、B.LEAGUE 且完成驗證的 BPM 模型、替補基準與完整賽季球權資料，暫不計算 VORP；不把單場正負值當作 BPM。",
+      "ato": {
+        "records": [
+          {
+            "period": 1,
+            "timeout_sec": 224,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 3,
+            "turnovers": 0,
+            "finisher": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          },
+          {
+            "period": 2,
+            "timeout_sec": 408,
+            "timeout_side": "away",
+            "offense": null,
+            "defense": null,
+            "points": 0,
+            "turnovers": 0,
+            "finisher": null,
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          },
+          {
+            "period": 2,
+            "timeout_sec": 89,
+            "timeout_side": "home",
+            "offense": null,
+            "defense": null,
+            "points": 0,
+            "turnovers": 0,
+            "finisher": null,
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          },
+          {
+            "period": 2,
+            "timeout_sec": 5,
+            "timeout_side": "home",
+            "offense": "home",
+            "defense": "away",
+            "points": 0,
+            "turnovers": 0,
+            "finisher": "f977e1ef-c862-11f1-a3fc-9d7c168b0fe9",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          },
+          {
+            "period": 4,
+            "timeout_sec": 364,
+            "timeout_side": "home",
+            "offense": "away",
+            "defense": "home",
+            "points": 0,
+            "turnovers": 0,
+            "finisher": "29f9e9a8-530e-11f0-a8c0-5be4c4667c94",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          },
+          {
+            "period": 4,
+            "timeout_sec": 271,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 0,
+            "turnovers": 0,
+            "finisher": "7693dd9b-410d-11f0-8a74-2902fc2f936f",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          },
+          {
+            "period": 4,
+            "timeout_sec": 56,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 0,
+            "turnovers": 0,
+            "finisher": "7619d3ea-410d-11f0-9235-2902fc2f936f",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          },
+          {
+            "period": 4,
+            "timeout_sec": 10,
+            "timeout_side": "home",
+            "offense": null,
+            "defense": null,
+            "points": 0,
+            "turnovers": 0,
+            "finisher": null,
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          },
+          {
+            "period": 4,
+            "timeout_sec": 10,
+            "timeout_side": "home",
+            "offense": null,
+            "defense": null,
+            "points": 0,
+            "turnovers": 0,
+            "finisher": null,
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          },
+          {
+            "period": 4,
+            "timeout_sec": 10,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 2,
+            "turnovers": 0,
+            "finisher": "07da01f9-95e4-11f1-b6a0-1bf0b0404eee",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "逐球得分、時間或失誤驗證不足"
+          }
+        ],
+        "summary": [
+          {
+            "side": "home",
+            "attack_n": 0,
+            "attack_success": 0,
+            "defense_n": 0,
+            "defense_success": 0,
+            "points": 0,
+            "turnovers": 0
+          },
+          {
+            "side": "away",
+            "attack_n": 0,
+            "attack_success": 0,
+            "defense_n": 0,
+            "defense_success": 0,
+            "points": 0,
+            "turnovers": 0
+          }
+        ],
+        "excluded": 10,
+        "total": 10
+      }
+    }
+  },
   "cba:100110963": {
     "league": "cba",
     "id": "100110963",
@@ -1480300,7 +1485282,7 @@
       },
       {
         "period": 4,
-        "sec": 169,
+        "sec": 167,
         "side": "home",
         "pid": "51000530",
         "name": "セルジオ・エル ダーウィッチ",
@@ -1480309,7 +1485291,7 @@
       },
       {
         "period": 4,
-        "sec": 169,
+        "sec": 167,
         "side": "home",
         "pid": "51000144",
         "name": "ネイサン・ブース",
@@ -1481559,7 +1486541,7 @@
           "fta": 1,
           "assists": 2,
           "rebounds": 2,
-          "steals": 0,
+          "steals": 1,
           "blocks": 0,
           "three_made": 0,
           "three_attempted": 2,
@@ -1481633,13 +1486615,13 @@
           "seconds": 1953,
           "ftm": 4,
           "fta": 6,
-          "assists": 4,
-          "rebounds": 8,
-          "steals": 1,
+          "assists": 5,
+          "rebounds": 7,
+          "steals": 0,
           "blocks": 1,
           "three_made": 2,
           "three_attempted": 4,
-          "offensive_rebounds": 1,
+          "offensive_rebounds": 0,
           "defensive_rebounds": 7
         },
         {
@@ -1481673,7 +1486655,7 @@
           "fta": 0,
           "assists": 1,
           "rebounds": 0,
-          "steals": 4,
+          "steals": 3,
           "blocks": 0,
           "three_made": 0,
           "three_attempted": 3,
@@ -1481690,9 +1486672,9 @@
           "seconds": 2118,
           "ftm": 4,
           "fta": 5,
-          "assists": 9,
+          "assists": 8,
           "rebounds": 9,
-          "steals": 1,
+          "steals": 2,
           "blocks": 0,
           "three_made": 3,
           "three_attempted": 8,
@@ -1481768,7 +1486750,7 @@
           "seconds": 1280,
           "ftm": 3,
           "fta": 4,
-          "assists": 2,
+          "assists": 1,
           "rebounds": 2,
           "steals": 0,
           "blocks": 0,
@@ -1481789,7 +1486771,7 @@
           "fta": 0,
           "assists": 3,
           "rebounds": 15,
-          "steals": 0,
+          "steals": 1,
           "blocks": 4,
           "three_made": 0,
           "three_attempted": 0,
@@ -1481825,9 +1486807,9 @@
           "seconds": 1167,
           "ftm": 3,
           "fta": 4,
-          "assists": 4,
+          "assists": 5,
           "rebounds": 4,
-          "steals": 1,
+          "steals": 0,
           "blocks": 0,
           "three_made": 4,
           "three_attempted": 6,
@@ -1481863,10 +1486845,10 @@
           "seconds": 1869,
           "ftm": 0,
           "fta": 0,
-          "assists": 6,
+          "assists": 8,
           "rebounds": 10,
           "steals": 0,
-          "blocks": 1,
+          "blocks": 0,
           "three_made": 0,
           "three_attempted": 0,
           "offensive_rebounds": 1,
@@ -1481979,12 +1486961,12 @@
         "fta": 20,
         "seconds": 12000,
         "assists": 21,
-        "rebounds": 28,
+        "rebounds": 27,
         "steals": 9,
         "blocks": 1,
         "three_made": 11,
         "three_attempted": 38,
-        "offensive_rebounds": 13,
+        "offensive_rebounds": 12,
         "defensive_rebounds": 20
       },
       "away": {
@@ -1481995,10 +1486977,10 @@
         "ftm": 17,
         "fta": 22,
         "seconds": 12000,
-        "assists": 26,
+        "assists": 28,
         "rebounds": 46,
         "steals": 1,
-        "blocks": 7,
+        "blocks": 6,
         "three_made": 15,
         "three_attempted": 27,
         "offensive_rebounds": 8,
@@ -1482123,6 +1487105,15 @@
         "name": "D.J・ニュービル",
         "kind": "FG2",
         "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 571,
+        "side": "away",
+        "pid": "51000321",
+        "name": "デレク・パードン",
+        "kind": "AST",
+        "pts": 0
       },
       {
         "period": 1,
@@ -1482263,8 +1487254,8 @@
         "period": 1,
         "sec": 468,
         "side": "home",
-        "pid": "51000521",
-        "name": "ヤニー・ウェッツェル",
+        "pid": "51000180",
+        "name": "トロイ・マーフィージュニア",
         "kind": "STL",
         "pts": 0
       },
@@ -1482504,7 +1487495,7 @@
       },
       {
         "period": 1,
-        "sec": 313,
+        "sec": 315,
         "side": "away",
         "pid": "51000352",
         "name": "渡邉 伶音",
@@ -1482522,7 +1487513,7 @@
       },
       {
         "period": 1,
-        "sec": 313,
+        "sec": 290,
         "side": "home",
         "pid": "51000600",
         "name": "岩屋 頼",
@@ -1482531,7 +1487522,7 @@
       },
       {
         "period": 1,
-        "sec": 313,
+        "sec": 290,
         "side": "home",
         "pid": "51000521",
         "name": "ヤニー・ウェッツェル",
@@ -1482540,7 +1487531,7 @@
       },
       {
         "period": 1,
-        "sec": 313,
+        "sec": 275,
         "side": "away",
         "pid": "51000359",
         "name": "黒川 虎徹",
@@ -1482549,7 +1487540,7 @@
       },
       {
         "period": 1,
-        "sec": 313,
+        "sec": 262,
         "side": "home",
         "pid": "51000521",
         "name": "ヤニー・ウェッツェル",
@@ -1482558,7 +1487549,7 @@
       },
       {
         "period": 1,
-        "sec": 313,
+        "sec": 262,
         "side": "home",
         "pid": "51000410",
         "name": "マーク・スミス",
@@ -1482794,8 +1487785,8 @@
         "period": 1,
         "sec": 168,
         "side": "away",
-        "pid": "51000359",
-        "name": "黒川 虎徹",
+        "pid": "33045",
+        "name": "アレックス・デイビス",
         "kind": "STL",
         "pts": 0
       },
@@ -1483081,15 +1488072,6 @@
       {
         "period": 1,
         "sec": 0,
-        "side": "home",
-        "pid": "51000521",
-        "name": "ヤニー・ウェッツェル",
-        "kind": "OREB",
-        "pts": 0
-      },
-      {
-        "period": 1,
-        "sec": 0,
         "kind": "END",
         "side": null,
         "pid": "",
@@ -1483175,6 +1488157,15 @@
         "name": "マーク・スミス",
         "kind": "FG2",
         "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 555,
+        "side": "home",
+        "pid": "51000521",
+        "name": "ヤニー・ウェッツェル",
+        "kind": "AST",
+        "pts": 0
       },
       {
         "period": 2,
@@ -1483400,6 +1488391,15 @@
         "name": "熊谷 尚也",
         "kind": "FT",
         "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 430,
+        "side": "away",
+        "pid": "8520",
+        "name": "杉本 慶",
+        "kind": "AST",
+        "pts": 0
       },
       {
         "period": 2,
@@ -1484761,7 +1489761,7 @@
       },
       {
         "period": 3,
-        "sec": 300,
+        "sec": 297,
         "side": "home",
         "pid": "51000521",
         "name": "ヤニー・ウェッツェル",
@@ -1484770,7 +1489770,7 @@
       },
       {
         "period": 3,
-        "sec": 300,
+        "sec": 297,
         "side": "home",
         "pid": "51000410",
         "name": "マーク・スミス",
@@ -1485249,15 +1490249,6 @@
         "period": 3,
         "sec": 64,
         "side": "home",
-        "pid": "51000410",
-        "name": "マーク・スミス",
-        "kind": "AST",
-        "pts": 0
-      },
-      {
-        "period": 3,
-        "sec": 64,
-        "side": "home",
         "pid": "51000521",
         "name": "ヤニー・ウェッツェル",
         "kind": "FT",
@@ -1485312,8 +1490303,8 @@
         "period": 3,
         "sec": 11,
         "side": "home",
-        "pid": "51000361",
-        "name": "元田 大陽",
+        "pid": "51000410",
+        "name": "マーク・スミス",
         "kind": "STL",
         "pts": 0
       },
@@ -1485328,16 +1490319,7 @@
       },
       {
         "period": 3,
-        "sec": 10,
-        "side": "away",
-        "pid": "51000321",
-        "name": "デレク・パードン",
-        "kind": "BLK",
-        "pts": 0
-      },
-      {
-        "period": 3,
-        "sec": 9,
+        "sec": 8,
         "side": "home",
         "pid": "51000410",
         "name": "マーク・スミス",
@@ -1485671,6 +1490653,15 @@
         "period": 4,
         "sec": 438,
         "side": "away",
+        "pid": "51000321",
+        "name": "デレク・パードン",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 438,
+        "side": "away",
         "pid": "15750",
         "name": "木田 貴明",
         "kind": "FTX",
@@ -1485869,15 +1490860,6 @@
         "period": 4,
         "sec": 298,
         "side": "away",
-        "pid": "8520",
-        "name": "杉本 慶",
-        "kind": "AST",
-        "pts": 0
-      },
-      {
-        "period": 4,
-        "sec": 298,
-        "side": "away",
         "pid": "",
         "name": "",
         "kind": "TIMEOUT",
@@ -1485930,7 +1490912,7 @@
       },
       {
         "period": 4,
-        "sec": 280,
+        "sec": 281,
         "side": "home",
         "pid": "8468",
         "name": "田口 成浩",
@@ -1485975,7 +1490957,7 @@
       },
       {
         "period": 4,
-        "sec": 234,
+        "sec": 237,
         "side": "home",
         "pid": "10848",
         "name": "中山 拓哉",
@@ -1485984,7 +1490966,7 @@
       },
       {
         "period": 4,
-        "sec": 230,
+        "sec": 237,
         "side": "home",
         "pid": "10848",
         "name": "中山 拓哉",
@@ -1485993,7 +1490975,7 @@
       },
       {
         "period": 4,
-        "sec": 223,
+        "sec": 235,
         "side": "home",
         "pid": "10848",
         "name": "中山 拓哉",
@@ -1486002,7 +1490984,7 @@
       },
       {
         "period": 4,
-        "sec": 222,
+        "sec": 227,
         "side": "home",
         "pid": "8468",
         "name": "田口 成浩",
@@ -1486011,7 +1490993,7 @@
       },
       {
         "period": 4,
-        "sec": 222,
+        "sec": 227,
         "side": "home",
         "pid": "10848",
         "name": "中山 拓哉",
@@ -1486119,7 +1491101,7 @@
       },
       {
         "period": 4,
-        "sec": 128,
+        "sec": 127,
         "side": "away",
         "pid": "33085",
         "name": "D.J・ニュービル",
@@ -1486211,8 +1491193,8 @@
         "period": 4,
         "sec": 89,
         "side": "away",
-        "pid": "15750",
-        "name": "木田 貴明",
+        "pid": "51000359",
+        "name": "黒川 虎徹",
         "kind": "AST",
         "pts": 0
       },
@@ -1486265,18 +1491247,18 @@
         "period": 4,
         "sec": 76,
         "side": "home",
-        "pid": "51000521",
-        "name": "ヤニー・ウェッツェル",
-        "kind": "OUT",
+        "pid": "51000671",
+        "name": "ジャオ バイチン",
+        "kind": "IN",
         "pts": 0
       },
       {
         "period": 4,
         "sec": 76,
         "side": "home",
-        "pid": "51000671",
-        "name": "ジャオ バイチン",
-        "kind": "IN",
+        "pid": "51000521",
+        "name": "ヤニー・ウェッツェル",
+        "kind": "OUT",
         "pts": 0
       },
       {
@@ -1486317,7 +1491299,7 @@
       },
       {
         "period": 4,
-        "sec": 47,
+        "sec": 45,
         "side": "away",
         "pid": "33085",
         "name": "D.J・ニュービル",
@@ -1486326,7 +1491308,7 @@
       },
       {
         "period": 4,
-        "sec": 47,
+        "sec": 45,
         "side": "away",
         "pid": "15750",
         "name": "木田 貴明",
@@ -1486497,7 +1491479,7 @@
     ],
     "report": {
       "key": [
-        "黒川 虎徹：6 分、0 助攻、0 抄截、0 阻攻、0 失誤",
+        "黒川 虎徹：6 分、1 助攻、0 抄截、0 阻攻、0 失誤",
         "D.J・ニュービル：5 分、0 助攻、0 抄截、0 阻攻、1 失誤",
         "田口 成浩：3 分、0 助攻、0 抄截、0 阻攻、0 失誤"
       ],
@@ -1486506,7 +1491488,7 @@
           "name": "黒川 虎徹",
           "side": "away",
           "points": 6,
-          "assists": 0,
+          "assists": 1,
           "steals": 0,
           "blocks": 0,
           "turnovers": 0,
@@ -1486596,7 +1491578,7 @@
             "fgm": 1,
             "fga": 5,
             "assists": 2,
-            "steals": 0,
+            "steals": 1,
             "blocks": 0
           },
           "51000361": {
@@ -1486605,7 +1491587,7 @@
             "fgm": 0,
             "fga": 5,
             "assists": 1,
-            "steals": 4,
+            "steals": 3,
             "blocks": 0
           },
           "51000410": {
@@ -1486613,8 +1491595,8 @@
             "turnovers": 1,
             "fgm": 8,
             "fga": 17,
-            "assists": 9,
-            "steals": 1,
+            "assists": 8,
+            "steals": 2,
             "blocks": 0
           },
           "51000521": {
@@ -1486622,8 +1491604,8 @@
             "turnovers": 1,
             "fgm": 9,
             "fga": 14,
-            "assists": 4,
-            "steals": 1,
+            "assists": 5,
+            "steals": 0,
             "blocks": 1
           },
           "51000671": {
@@ -1486688,9 +1491670,9 @@
             "turnovers": 3,
             "fgm": 3,
             "fga": 3,
-            "assists": 6,
+            "assists": 8,
             "steals": 0,
-            "blocks": 1
+            "blocks": 0
           },
           "33085": {
             "points": 33,
@@ -1486707,7 +1491689,7 @@
             "fgm": 5,
             "fga": 8,
             "assists": 3,
-            "steals": 0,
+            "steals": 1,
             "blocks": 4
           },
           "8520": {
@@ -1486733,8 +1491715,8 @@
             "turnovers": 2,
             "fgm": 6,
             "fga": 9,
-            "assists": 4,
-            "steals": 1,
+            "assists": 5,
+            "steals": 0,
             "blocks": 0
           },
           "10885": {
@@ -1486769,7 +1491751,7 @@
             "turnovers": 1,
             "fgm": 2,
             "fga": 3,
-            "assists": 2,
+            "assists": 1,
             "steals": 0,
             "blocks": 0
           },
@@ -1486789,9 +1491771,9 @@
           "points": 19,
           "usg": 31.738806536303745,
           "eff": 22,
-          "assists": 4,
+          "assists": 5,
           "turnovers": 2,
-          "ast_to": 2.0,
+          "ast_to": 2.5,
           "potential_assists": null,
           "passes_made": null,
           "passes_received": null,
@@ -1486890,10 +1491872,10 @@
           "seconds": 1280,
           "points": 8,
           "usg": 13.062409288824382,
-          "eff": 9,
-          "assists": 2,
+          "eff": 8,
+          "assists": 1,
           "turnovers": 1,
-          "ast_to": 2.0,
+          "ast_to": 1.0,
           "potential_assists": null,
           "passes_made": null,
           "passes_received": null,
@@ -1486907,7 +1491889,7 @@
           "seconds": 2122,
           "points": 10,
           "usg": 12.311413090315156,
-          "eff": 28,
+          "eff": 29,
           "assists": 3,
           "turnovers": 1,
           "ast_to": 3.0,
@@ -1486924,10 +1491906,10 @@
           "seconds": 1869,
           "points": 6,
           "usg": 9.318644044105142,
-          "eff": 20,
-          "assists": 6,
+          "eff": 21,
+          "assists": 8,
           "turnovers": 3,
-          "ast_to": 2.0,
+          "ast_to": 2.6666666666666665,
           "potential_assists": null,
           "passes_made": null,
           "passes_received": null,
@@ -1486993,9 +1491975,9 @@
           "points": 23,
           "usg": 25.489441440531998,
           "eff": 31,
-          "assists": 9,
+          "assists": 8,
           "turnovers": 1,
-          "ast_to": 9.0,
+          "ast_to": 8.0,
           "potential_assists": null,
           "passes_made": null,
           "passes_received": null,
@@ -1487009,10 +1491991,10 @@
           "seconds": 1953,
           "points": 24,
           "usg": 24.139665205833754,
-          "eff": 30,
-          "assists": 4,
+          "eff": 29,
+          "assists": 5,
           "turnovers": 1,
-          "ast_to": 4.0,
+          "ast_to": 5.0,
           "potential_assists": null,
           "passes_made": null,
           "passes_received": null,
@@ -1487060,7 +1492042,7 @@
           "seconds": 780,
           "points": 0,
           "usg": 17.13208840157615,
-          "eff": 0,
+          "eff": -1,
           "assists": 1,
           "turnovers": 0,
           "ast_to": null,
@@ -1487128,7 +1492110,7 @@
           "seconds": 1074,
           "points": 3,
           "usg": 13.537221136977267,
-          "eff": 3,
+          "eff": 4,
           "assists": 2,
           "turnovers": 0,
           "ast_to": null,
@@ -1487183,13 +1492165,13 @@
             "efg": 43.506493506493506,
             "three_attempt_pct": 49.35064935064935,
             "three_points_pct": 39.75903614457831,
-            "oreb_pct": 25.49019607843137,
+            "oreb_pct": 24.0,
             "dreb_pct": 71.42857142857143,
             "paint_points": null,
             "second_chance_points": null,
             "fast_break_points": null,
-            "off_rating_est": 109.58542381832584,
-            "tov_pct_est": 5.2812252442566665,
+            "off_rating_est": 108.86673662119621,
+            "tov_pct_est": 5.246589716684155,
             "source_counts": {
               "points": 83,
               "fgm": 28,
@@ -1487200,25 +1492182,25 @@
               "fta": 20,
               "assists": 21,
               "turnovers": 4,
-              "offensive_rebounds": 13,
+              "offensive_rebounds": 12,
               "defensive_rebounds": 20
             }
           },
           "away": {
             "ts": 75.35460992907801,
             "fta_rate": 37.93103448275862,
-            "assisted_fg_pct": 74.28571428571429,
+            "assisted_fg_pct": 80.0,
             "ft_points_pct": 16.666666666666668,
             "efg": 73.27586206896552,
             "three_attempt_pct": 46.55172413793103,
             "three_points_pct": 44.11764705882353,
             "oreb_pct": 28.571428571428573,
-            "dreb_pct": 74.50980392156863,
+            "dreb_pct": 76.0,
             "paint_points": null,
             "second_chance_points": null,
             "fast_break_points": null,
-            "off_rating_est": 134.671243728545,
-            "tov_pct_est": 19.8045946659625,
+            "off_rating_est": 133.78803777544596,
+            "tov_pct_est": 19.67471143756558,
             "source_counts": {
               "points": 102,
               "fgm": 35,
@@ -1487227,14 +1492209,14 @@
               "three_attempted": 27,
               "ftm": 17,
               "fta": 22,
-              "assists": 26,
+              "assists": 28,
               "turnovers": 15,
               "offensive_rebounds": 8,
               "defensive_rebounds": 38
             }
           }
         },
-        "possessions_est": 75.74000000000001,
+        "possessions_est": 76.24000000000001,
         "regulation_minutes": 40,
         "warnings": [],
         "method": "回合為雙方(FGA−ORB＋TOV＋0.44×FTA)平均估計；不是官方逐回合或追蹤數據。TS%同樣使用0.44估計係數。"
@@ -1488034,7 +1493016,7 @@
       },
       {
         "period": 1,
-        "sec": 586,
+        "sec": 587,
         "side": "home",
         "pid": "51000374",
         "name": "ルーク・メイ",
@@ -1488241,7 +1493223,7 @@
       },
       {
         "period": 1,
-        "sec": 447,
+        "sec": 448,
         "side": "home",
         "pid": "51000467",
         "name": "瀬川 琉久",
@@ -1488268,7 +1493250,7 @@
       },
       {
         "period": 1,
-        "sec": 440,
+        "sec": 442,
         "side": "home",
         "pid": "51000641",
         "name": "ネイト・ウィリアムズ",
@@ -1488277,7 +1493259,7 @@
       },
       {
         "period": 1,
-        "sec": 437,
+        "sec": 440,
         "side": "away",
         "pid": "51000682",
         "name": "ブライアン・アンゴラ",
@@ -1488331,7 +1493313,7 @@
       },
       {
         "period": 1,
-        "sec": 408,
+        "sec": 409,
         "side": "away",
         "pid": "15818",
         "name": "葛原 大智",
@@ -1488376,7 +1493358,7 @@
       },
       {
         "period": 1,
-        "sec": 391,
+        "sec": 393,
         "side": "home",
         "pid": "51000428",
         "name": "渡邊 雄太",
@@ -1488394,7 +1493376,7 @@
       },
       {
         "period": 1,
-        "sec": 382,
+        "sec": 383,
         "side": "away",
         "pid": "51000318",
         "name": "ダラル・ウィリス ジュニア",
@@ -1488646,7 +1493628,7 @@
       },
       {
         "period": 1,
-        "sec": 242,
+        "sec": 243,
         "side": "home",
         "pid": "8584",
         "name": "原 修太",
@@ -1488655,7 +1493637,7 @@
       },
       {
         "period": 1,
-        "sec": 239,
+        "sec": 240,
         "side": "away",
         "pid": "32980",
         "name": "サーディ・ラベナ",
@@ -1488673,7 +1493655,7 @@
       },
       {
         "period": 1,
-        "sec": 230,
+        "sec": 232,
         "side": "home",
         "pid": "51000374",
         "name": "ルーク・メイ",
@@ -1489159,7 +1494141,7 @@
       },
       {
         "period": 1,
-        "sec": 1,
+        "sec": 2,
         "side": "away",
         "pid": "51000682",
         "name": "ブライアン・アンゴラ",
@@ -1489338,7 +1494320,7 @@
       },
       {
         "period": 2,
-        "sec": 474,
+        "sec": 475,
         "side": "away",
         "pid": "51000682",
         "name": "ブライアン・アンゴラ",
@@ -1489347,7 +1494329,7 @@
       },
       {
         "period": 2,
-        "sec": 473,
+        "sec": 472,
         "side": "away",
         "pid": "51000318",
         "name": "ダラル・ウィリス ジュニア",
@@ -1489356,7 +1494338,7 @@
       },
       {
         "period": 2,
-        "sec": 472,
+        "sec": 471,
         "side": "away",
         "pid": "51000318",
         "name": "ダラル・ウィリス ジュニア",
@@ -1490229,7 +1495211,7 @@
       },
       {
         "period": 2,
-        "sec": 3,
+        "sec": 5,
         "side": "home",
         "pid": "9055",
         "name": "富樫 勇樹",
@@ -1491379,7 +1496361,7 @@
       },
       {
         "period": 4,
-        "sec": 580,
+        "sec": 583,
         "side": "home",
         "pid": "51000374",
         "name": "ルーク・メイ",
@@ -1491388,7 +1496370,7 @@
       },
       {
         "period": 4,
-        "sec": 580,
+        "sec": 583,
         "side": "home",
         "pid": "51000374",
         "name": "ルーク・メイ",
@@ -1491622,7 +1496604,7 @@
       },
       {
         "period": 4,
-        "sec": 412,
+        "sec": 414,
         "side": "away",
         "pid": "51000681",
         "name": "アミール・シムズ",
@@ -1491631,7 +1496613,7 @@
       },
       {
         "period": 4,
-        "sec": 411,
+        "sec": 412,
         "side": "away",
         "pid": "51000681",
         "name": "アミール・シムズ",
@@ -1491640,7 +1496622,7 @@
       },
       {
         "period": 4,
-        "sec": 408,
+        "sec": 410,
         "side": "home",
         "pid": "51000428",
         "name": "渡邊 雄太",
@@ -1492207,7 +1497189,7 @@
       },
       {
         "period": 4,
-        "sec": 51,
+        "sec": 50,
         "side": "away",
         "pid": "51000681",
         "name": "アミール・シムズ",
@@ -1493614,7 +1498596,7 @@
           "assists": 1,
           "rebounds": 5,
           "steals": 3,
-          "blocks": 2,
+          "blocks": 1,
           "three_made": 0,
           "three_attempted": 1,
           "offensive_rebounds": 2,
@@ -1493652,7 +1498634,7 @@
           "assists": 2,
           "rebounds": 2,
           "steals": 1,
-          "blocks": 0,
+          "blocks": 1,
           "three_made": 2,
           "three_attempted": 2,
           "offensive_rebounds": 0,
@@ -1493765,7 +1498747,7 @@
           "seconds": 940,
           "ftm": 0,
           "fta": 0,
-          "assists": 2,
+          "assists": 3,
           "rebounds": 1,
           "steals": 1,
           "blocks": 0,
@@ -1493897,7 +1498879,7 @@
         "ftm": 12,
         "fta": 17,
         "seconds": 12001,
-        "assists": 19,
+        "assists": 20,
         "rebounds": 35,
         "steals": 7,
         "blocks": 4,
@@ -1494723,14 +1499705,14 @@
         "period": 1,
         "sec": 198,
         "side": "home",
-        "pid": "5100000087",
-        "name": "トビン マーカス海舟",
+        "pid": "51000239",
+        "name": "東海林 奨",
         "kind": "BLK",
         "pts": 0
       },
       {
         "period": 1,
-        "sec": 194,
+        "sec": 197,
         "side": "home",
         "pid": "51000239",
         "name": "東海林 奨",
@@ -1495143,7 +1500125,7 @@
       },
       {
         "period": 2,
-        "sec": 565,
+        "sec": 562,
         "side": "away",
         "pid": "51000639",
         "name": "マイケル・フィリップス",
@@ -1495507,16 +1500489,16 @@
         "side": "home",
         "pid": "32984",
         "name": "エリエット・ドンリー",
-        "kind": "OREB",
+        "kind": "M2",
         "pts": 0
       },
       {
         "period": 2,
-        "sec": 340,
+        "sec": 339,
         "side": "home",
         "pid": "32984",
         "name": "エリエット・ドンリー",
-        "kind": "M2",
+        "kind": "OREB",
         "pts": 0
       },
       {
@@ -1496831,6 +1501813,15 @@
         "name": "アンジェロ・カロイアロ",
         "kind": "FG2",
         "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 274,
+        "side": "away",
+        "pid": "8727",
+        "name": "川嶋 勇人",
+        "kind": "AST",
+        "pts": 0
       },
       {
         "period": 3,
@@ -1498453,7 +1503444,7 @@
       },
       {
         "period": 4,
-        "sec": 0,
+        "sec": 1,
         "side": "away",
         "pid": "20024",
         "name": "前田 悟",
@@ -1498462,7 +1503453,7 @@
       },
       {
         "period": 4,
-        "sec": 0,
+        "sec": 1,
         "side": "home",
         "pid": "8500",
         "name": "古川 孝敏",
@@ -1498661,7 +1503652,7 @@
             "fga": 5,
             "assists": 1,
             "steals": 3,
-            "blocks": 2
+            "blocks": 1
           },
           "51000239": {
             "points": 8,
@@ -1498670,7 +1503661,7 @@
             "fga": 4,
             "assists": 2,
             "steals": 1,
-            "blocks": 0
+            "blocks": 1
           },
           "32984": {
             "points": 3,
@@ -1498751,7 +1503742,7 @@
             "turnovers": 0,
             "fgm": 0,
             "fga": 3,
-            "assists": 2,
+            "assists": 3,
             "steals": 1,
             "blocks": 0
           },
@@ -1498950,8 +1503941,8 @@
           "seconds": 940,
           "points": 0,
           "usg": 8.283102039313848,
-          "eff": 1,
-          "assists": 2,
+          "eff": 2,
+          "assists": 3,
           "turnovers": 0,
           "ast_to": null,
           "potential_assists": null,
@@ -1499052,7 +1504043,7 @@
           "seconds": 982,
           "points": 4,
           "usg": 16.679053038254033,
-          "eff": 11,
+          "eff": 10,
           "assists": 1,
           "turnovers": 0,
           "ast_to": null,
@@ -1499103,7 +1504094,7 @@
           "seconds": 1163,
           "points": 8,
           "usg": 11.97556027658754,
-          "eff": 11,
+          "eff": 12,
           "assists": 2,
           "turnovers": 1,
           "ast_to": 2.0,
@@ -1499216,7 +1504207,7 @@
           "away": {
             "ts": 44.229722373434946,
             "fta_rate": 25.757575757575758,
-            "assisted_fg_pct": 79.16666666666667,
+            "assisted_fg_pct": 83.33333333333333,
             "ft_points_pct": 18.46153846153846,
             "efg": 40.15151515151515,
             "three_attempt_pct": 31.818181818181817,
@@ -1499236,7 +1504227,7 @@
               "three_attempted": 21,
               "ftm": 12,
               "fta": 17,
-              "assists": 19,
+              "assists": 20,
               "turnovers": 19,
               "offensive_rebounds": 19,
               "defensive_rebounds": 27
@@ -1501420,7 +1506411,7 @@
       },
       {
         "period": 2,
-        "sec": 285,
+        "sec": 282,
         "side": "away",
         "pid": "32952",
         "name": "パブロ・アギラール",
@@ -1501429,7 +1506420,7 @@
       },
       {
         "period": 2,
-        "sec": 285,
+        "sec": 282,
         "side": "away",
         "pid": "51000304",
         "name": "ジャレル・ブラントリー",
@@ -1503875,7 +1508866,7 @@
       },
       {
         "period": 4,
-        "sec": 205,
+        "sec": 200,
         "side": "home",
         "pid": "5100000066",
         "name": "木村 圭吾",
@@ -1507633,7 +1512624,7 @@
       },
       {
         "period": 2,
-        "sec": 80,
+        "sec": 81,
         "side": "away",
         "pid": "51000406",
         "name": "ゲイリー・クラーク",
@@ -1509756,6 +1514747,15 @@
       {
         "period": 4,
         "sec": 71,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 71,
         "side": "away",
         "pid": "51000406",
         "name": "ゲイリー・クラーク",
@@ -1509778,15 +1514778,6 @@
         "pid": "51000166",
         "name": "ヴィック・ロー",
         "kind": "DREB",
-        "pts": 0
-      },
-      {
-        "period": 4,
-        "sec": 70,
-        "side": "home",
-        "pid": "",
-        "name": "",
-        "kind": "TIMEOUT",
         "pts": 0
       },
       {
@@ -1510663,42 +1515654,40 @@
           },
           {
             "period": 4,
-            "timeout_sec": 70,
+            "timeout_sec": 71,
             "timeout_side": "home",
-            "offense": "home",
-            "defense": "away",
-            "points": 3,
+            "offense": null,
+            "defense": null,
+            "points": 0,
             "turnovers": 0,
-            "finisher": "51000166",
+            "finisher": null,
             "inbounder": null,
             "receiver": null,
-            "eligible": true,
-            "exclusion": null,
-            "offensive_success": true,
-            "defensive_success": false
+            "eligible": false,
+            "exclusion": "暫停後先出現罰球，無法確認新進攻回合起點"
           }
         ],
         "summary": [
           {
             "side": "home",
-            "attack_n": 3,
-            "attack_success": 1,
+            "attack_n": 2,
+            "attack_success": 0,
             "defense_n": 2,
             "defense_success": 1,
-            "points": 3,
+            "points": 0,
             "turnovers": 1
           },
           {
             "side": "away",
             "attack_n": 2,
             "attack_success": 1,
-            "defense_n": 3,
+            "defense_n": 2,
             "defense_success": 2,
             "points": 2,
             "turnovers": 1
           }
         ],
-        "excluded": 3,
+        "excluded": 4,
         "total": 8
       }
     }
@@ -1528874,7 +1533863,7 @@
       },
       {
         "period": 1,
-        "sec": 91,
+        "sec": 89,
         "side": "home",
         "pid": "",
         "name": "",
@@ -1534096,7 +1539085,7 @@
           "name": "ジェイク・ヴァン・タバーゲン",
           "points": 15,
           "fgm": 6,
-          "fga": 6,
+          "fga": 7,
           "turnovers": 0,
           "seconds": 1427,
           "ftm": 2,
@@ -1534106,7 +1539095,7 @@
           "steals": 1,
           "blocks": 0,
           "three_made": 1,
-          "three_attempted": 1,
+          "three_attempted": 2,
           "offensive_rebounds": 2,
           "defensive_rebounds": 3
         },
@@ -1534229,7 +1539218,7 @@
           "name": "ヴィット・ブラウン",
           "points": 15,
           "fgm": 6,
-          "fga": 15,
+          "fga": 14,
           "turnovers": 2,
           "seconds": 1841,
           "ftm": 2,
@@ -1534239,7 +1539228,7 @@
           "steals": 1,
           "blocks": 1,
           "three_made": 1,
-          "three_attempted": 5,
+          "three_attempted": 4,
           "offensive_rebounds": 4,
           "defensive_rebounds": 2
         },
@@ -1534313,7 +1539302,7 @@
           "assists": 4,
           "rebounds": 11,
           "steals": 0,
-          "blocks": 1,
+          "blocks": 2,
           "three_made": 3,
           "three_attempted": 4,
           "offensive_rebounds": 2,
@@ -1534350,7 +1539339,7 @@
         "assists": 20,
         "rebounds": 34,
         "steals": 8,
-        "blocks": 3,
+        "blocks": 4,
         "three_made": 8,
         "three_attempted": 24,
         "offensive_rebounds": 11,
@@ -1534793,6 +1539782,15 @@
       },
       {
         "period": 1,
+        "sec": 355,
+        "side": "away",
+        "pid": "9063",
+        "name": "ジョシュ・ハレルソン",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 1,
         "sec": 351,
         "side": "away",
         "pid": "5100000011",
@@ -1534957,8 +1539955,8 @@
         "period": 1,
         "sec": 302,
         "side": "away",
-        "pid": "51000653",
-        "name": "ヴィット・ブラウン",
+        "pid": "51000655",
+        "name": "ジェイク・ヴァン・タバーゲン",
         "kind": "M3",
         "pts": 0
       },
@@ -1539196,13 +1544194,13 @@
             "fga": 8,
             "assists": 4,
             "steals": 0,
-            "blocks": 1
+            "blocks": 2
           },
           "51000653": {
             "points": 15,
             "turnovers": 2,
             "fgm": 6,
-            "fga": 15,
+            "fga": 14,
             "assists": 3,
             "steals": 1,
             "blocks": 1
@@ -1539229,7 +1544227,7 @@
             "points": 15,
             "turnovers": 0,
             "fgm": 6,
-            "fga": 6,
+            "fga": 7,
             "assists": 1,
             "steals": 1,
             "blocks": 0
@@ -1539280,23 +1544278,6 @@
           "vorp": null
         },
         {
-          "id": "51000653",
-          "side": "away",
-          "name": "ヴィット・ブラウン",
-          "seconds": 1841,
-          "points": 15,
-          "usg": 27.42612822762888,
-          "eff": 14,
-          "assists": 3,
-          "turnovers": 2,
-          "ast_to": 1.5,
-          "potential_assists": null,
-          "passes_made": null,
-          "passes_received": null,
-          "secondary_assists": null,
-          "vorp": null
-        },
-        {
           "id": "20037",
           "side": "away",
           "name": "佐々木 隆成",
@@ -1539314,16 +1544295,50 @@
           "vorp": null
         },
         {
+          "id": "51000653",
+          "side": "away",
+          "name": "ヴィット・ブラウン",
+          "seconds": 1841,
+          "points": 15,
+          "usg": 25.929068826557433,
+          "eff": 15,
+          "assists": 3,
+          "turnovers": 2,
+          "ast_to": 1.5,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
           "id": "9063",
           "side": "away",
           "name": "ジョシュ・ハレルソン",
           "seconds": 1897,
           "points": 14,
           "usg": 16.446440466767026,
-          "eff": 23,
+          "eff": 24,
           "assists": 4,
           "turnovers": 2,
           "ast_to": 2.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "51000655",
+          "side": "away",
+          "name": "ジェイク・ヴァン・タバーゲン",
+          "seconds": 1427,
+          "points": 15,
+          "usg": 15.21931359221832,
+          "eff": 21,
+          "assists": 1,
+          "turnovers": 0,
+          "ast_to": null,
           "potential_assists": null,
           "passes_made": null,
           "passes_received": null,
@@ -1539339,23 +1544354,6 @@
           "usg": 14.163728565040293,
           "eff": 3,
           "assists": 0,
-          "turnovers": 0,
-          "ast_to": null,
-          "potential_assists": null,
-          "passes_made": null,
-          "passes_received": null,
-          "secondary_assists": null,
-          "vorp": null
-        },
-        {
-          "id": "51000655",
-          "side": "away",
-          "name": "ジェイク・ヴァン・タバーゲン",
-          "seconds": 1427,
-          "points": 15,
-          "usg": 13.287928618586553,
-          "eff": 22,
-          "assists": 1,
           "turnovers": 0,
           "ast_to": null,
           "potential_assists": null,
