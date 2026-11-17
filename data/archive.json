@@ -505029,8 +505029,8 @@
         "period": 2,
         "sec": 486,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "IN",
         "pts": 0
       },
@@ -505182,8 +505182,8 @@
         "period": 2,
         "sec": 439,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "OREB",
         "pts": 0
       },
@@ -505686,8 +505686,8 @@
         "period": 2,
         "sec": 172,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "OUT",
         "pts": 0
       },
@@ -506918,8 +506918,8 @@
         "period": 3,
         "sec": 183,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "IN",
         "pts": 0
       },
@@ -507107,8 +507107,8 @@
         "period": 3,
         "sec": 103,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "FT",
         "pts": 1
       },
@@ -507116,8 +507116,8 @@
         "period": 3,
         "sec": 103,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "FTX",
         "pts": 0
       },
@@ -507493,8 +507493,8 @@
         "period": 4,
         "sec": 578,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "FG3",
         "pts": 3
       },
@@ -507538,8 +507538,8 @@
         "period": 4,
         "sec": 535,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "AST",
         "pts": 0
       },
@@ -507601,8 +507601,8 @@
         "period": 4,
         "sec": 494,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "TOV",
         "pts": 0
       },
@@ -507655,8 +507655,8 @@
         "period": 4,
         "sec": 468,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "M3",
         "pts": 0
       },
@@ -507772,8 +507772,8 @@
         "period": 4,
         "sec": 399,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "TOV",
         "pts": 0
       },
@@ -507808,8 +507808,8 @@
         "period": 4,
         "sec": 395,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "OUT",
         "pts": 0
       },
@@ -508448,12 +508448,11 @@
       "keyPlayers": [],
       "lineups": [],
       "issues": {
-        "invalid_seconds": 1398,
-        "unknown_score": 47,
-        "box_points": 2,
-        "box_fgm": 2,
-        "box_fga": 2,
-        "box_turnovers": 1
+        "invalid_seconds": 674,
+        "unknown_score": 21,
+        "box_points": 1,
+        "box_fgm": 1,
+        "box_fga": 1
       },
       "counts": {
         "home": {
@@ -508538,6 +508537,15 @@
             "steals": 0,
             "blocks": 0
           },
+          "520": {
+            "points": 4,
+            "turnovers": 2,
+            "fgm": 1,
+            "fga": 2,
+            "assists": 1,
+            "steals": 0,
+            "blocks": 0
+          },
           "483": {
             "points": 2,
             "turnovers": 1,
@@ -508556,8 +508564,7 @@
             "steals": 0,
             "blocks": 0
           },
-          "40": {},
-          "520": {}
+          "40": {}
         },
         "away": {
           "529": {
@@ -511457,8 +511464,8 @@
         "period": 2,
         "sec": 359,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "IN",
         "pts": 0
       },
@@ -511727,8 +511734,8 @@
         "period": 2,
         "sec": 209,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "OUT",
         "pts": 0
       },
@@ -514470,8 +514477,8 @@
         "period": 4,
         "sec": 264,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "IN",
         "pts": 0
       },
@@ -514515,8 +514522,8 @@
         "period": 4,
         "sec": 222,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "M3",
         "pts": 0
       },
@@ -514551,8 +514558,8 @@
         "period": 4,
         "sec": 180,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "M2",
         "pts": 0
       },
@@ -514605,8 +514612,8 @@
         "period": 4,
         "sec": 155,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "AST",
         "pts": 0
       },
@@ -514695,8 +514702,8 @@
         "period": 4,
         "sec": 107,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "FG3",
         "pts": 3
       },
@@ -514794,8 +514801,8 @@
         "period": 4,
         "sec": 64,
         "side": "home",
-        "pid": "",
-        "name": "",
+        "pid": "520",
+        "name": "李啓瑋",
         "kind": "AST",
         "pts": 0
       },
@@ -514867,11 +514874,9 @@
       "keyPlayers": [],
       "lineups": [],
       "issues": {
-        "invalid_seconds": 414,
-        "unknown_score": 21,
-        "box_fga": 3,
-        "box_points": 1,
-        "box_fgm": 1,
+        "unknown_score": 14,
+        "invalid_seconds": 239,
+        "box_fga": 2,
         "box_turnovers": 2
       },
       "counts": {
@@ -514957,6 +514962,15 @@
             "steals": 2,
             "blocks": 2
           },
+          "520": {
+            "points": 3,
+            "turnovers": 0,
+            "fgm": 1,
+            "fga": 3,
+            "assists": 2,
+            "steals": 0,
+            "blocks": 0
+          },
           "483": {
             "points": 0,
             "turnovers": 0,
@@ -514967,8 +514981,7 @@
             "blocks": 0
           },
           "40": {},
-          "521": {},
-          "520": {}
+          "521": {}
         },
         "away": {
           "293": {
@@ -2115385,6 +2115398,5651 @@
           }
         ],
         "excluded": 5,
+        "total": 10
+      }
+    }
+  },
+  "b:506601": {
+    "league": "b",
+    "id": "506601",
+    "date": "2026-11-17",
+    "home": "長崎",
+    "away": "三河",
+    "score": [
+      86,
+      69
+    ],
+    "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506601",
+    "time": "18:05",
+    "complete": true,
+    "players": {
+      "home": [
+        {
+          "id": "10893",
+          "name": "松本 健児リオン",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0
+        },
+        {
+          "id": "51000304",
+          "name": "ジャレル・ブラントリー",
+          "points": 22,
+          "fgm": 9,
+          "fga": 17,
+          "turnovers": 2,
+          "seconds": 1998,
+          "ftm": 1,
+          "fta": 3,
+          "assists": 4,
+          "rebounds": 3,
+          "steals": 2,
+          "blocks": 0,
+          "three_made": 3,
+          "three_attempted": 7,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 3
+        },
+        {
+          "id": "9405",
+          "name": "森川 正明",
+          "points": 0,
+          "fgm": 0,
+          "fga": 2,
+          "turnovers": 3,
+          "seconds": 445,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 1,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0
+        },
+        {
+          "id": "51000344",
+          "name": "永野 威旺",
+          "points": 7,
+          "fgm": 3,
+          "fga": 6,
+          "turnovers": 1,
+          "seconds": 611,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 1,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "three_made": 1,
+          "three_attempted": 4,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0
+        },
+        {
+          "id": "19957",
+          "name": "熊谷 航",
+          "points": 2,
+          "fgm": 1,
+          "fga": 3,
+          "turnovers": 0,
+          "seconds": 1578,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 4,
+          "rebounds": 1,
+          "steals": 0,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 2,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 1
+        },
+        {
+          "id": "5100000021",
+          "name": "星川 堅信",
+          "points": 2,
+          "fgm": 1,
+          "fga": 6,
+          "turnovers": 0,
+          "seconds": 581,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 3,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0
+        },
+        {
+          "id": "12605",
+          "name": "髙比良 寛治",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0
+        },
+        {
+          "id": "55000981",
+          "name": "プラット 聖也",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0
+        },
+        {
+          "id": "12577",
+          "name": "馬場 雄大",
+          "points": 16,
+          "fgm": 5,
+          "fga": 9,
+          "turnovers": 2,
+          "seconds": 2030,
+          "ftm": 4,
+          "fta": 5,
+          "assists": 4,
+          "rebounds": 6,
+          "steals": 1,
+          "blocks": 0,
+          "three_made": 2,
+          "three_attempted": 3,
+          "offensive_rebounds": 3,
+          "defensive_rebounds": 3
+        },
+        {
+          "id": "51000670",
+          "name": "リーヴァイ・ランドルフ",
+          "points": 18,
+          "fgm": 8,
+          "fga": 14,
+          "turnovers": 2,
+          "seconds": 1955,
+          "ftm": 0,
+          "fta": 1,
+          "assists": 2,
+          "rebounds": 2,
+          "steals": 1,
+          "blocks": 0,
+          "three_made": 2,
+          "three_attempted": 4,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 2
+        },
+        {
+          "id": "51000395",
+          "name": "アキル・ミッチェル",
+          "points": 12,
+          "fgm": 5,
+          "fga": 6,
+          "turnovers": 1,
+          "seconds": 1571,
+          "ftm": 1,
+          "fta": 3,
+          "assists": 4,
+          "rebounds": 12,
+          "steals": 3,
+          "blocks": 1,
+          "three_made": 1,
+          "three_attempted": 1,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 11
+        },
+        {
+          "id": "51000590",
+          "name": "田中 流嘉州",
+          "points": 7,
+          "fgm": 3,
+          "fga": 5,
+          "turnovers": 0,
+          "seconds": 1109,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 4,
+          "steals": 1,
+          "blocks": 0,
+          "three_made": 1,
+          "three_attempted": 1,
+          "offensive_rebounds": 4,
+          "defensive_rebounds": 0
+        },
+        {
+          "id": "10258",
+          "name": "土屋 アリスター時生",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 122,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0
+        }
+      ],
+      "away": [
+        {
+          "id": "8608",
+          "name": "トーマス・ケネディ",
+          "points": 0,
+          "fgm": 0,
+          "fga": 1,
+          "turnovers": 1,
+          "seconds": 460,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 2,
+          "steals": 0,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 2
+        },
+        {
+          "id": "18399",
+          "name": "長野 誠史",
+          "points": 9,
+          "fgm": 4,
+          "fga": 10,
+          "turnovers": 1,
+          "seconds": 1677,
+          "ftm": 0,
+          "fta": 2,
+          "assists": 2,
+          "rebounds": 0,
+          "steals": 1,
+          "blocks": 0,
+          "three_made": 1,
+          "three_attempted": 6,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0
+        },
+        {
+          "id": "30469",
+          "name": "久保田 義章",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0
+        },
+        {
+          "id": "8494",
+          "name": "須田 侑太郎",
+          "points": 3,
+          "fgm": 1,
+          "fga": 3,
+          "turnovers": 3,
+          "seconds": 1335,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 2,
+          "rebounds": 2,
+          "steals": 1,
+          "blocks": 0,
+          "three_made": 1,
+          "three_attempted": 2,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 1
+        },
+        {
+          "id": "32982",
+          "name": "角野 亮伍",
+          "points": 2,
+          "fgm": 1,
+          "fga": 3,
+          "turnovers": 0,
+          "seconds": 900,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 1,
+          "rebounds": 2,
+          "steals": 1,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 2,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 2
+        },
+        {
+          "id": "30403",
+          "name": "西田 優大",
+          "points": 10,
+          "fgm": 3,
+          "fga": 11,
+          "turnovers": 2,
+          "seconds": 1932,
+          "ftm": 4,
+          "fta": 8,
+          "assists": 3,
+          "rebounds": 2,
+          "steals": 0,
+          "blocks": 1,
+          "three_made": 0,
+          "three_attempted": 4,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 1
+        },
+        {
+          "id": "9283",
+          "name": "小阪 彰久",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 0
+        },
+        {
+          "id": "8583",
+          "name": "石井 講祐",
+          "points": 4,
+          "fgm": 1,
+          "fga": 2,
+          "turnovers": 0,
+          "seconds": 452,
+          "ftm": 2,
+          "fta": 2,
+          "assists": 0,
+          "rebounds": 1,
+          "steals": 0,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 1,
+          "offensive_rebounds": 1,
+          "defensive_rebounds": 0
+        },
+        {
+          "id": "51000297",
+          "name": "アーロン・ホワイト",
+          "points": 14,
+          "fgm": 5,
+          "fga": 7,
+          "turnovers": 5,
+          "seconds": 1431,
+          "ftm": 1,
+          "fta": 2,
+          "assists": 0,
+          "rebounds": 8,
+          "steals": 1,
+          "blocks": 0,
+          "three_made": 3,
+          "three_attempted": 5,
+          "offensive_rebounds": 4,
+          "defensive_rebounds": 4
+        },
+        {
+          "id": "30459",
+          "name": "平良 彰吾",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 445,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 3,
+          "rebounds": 1,
+          "steals": 1,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 0,
+          "offensive_rebounds": 0,
+          "defensive_rebounds": 1
+        },
+        {
+          "id": "26912",
+          "name": "ショーン・オマラ",
+          "points": 14,
+          "fgm": 5,
+          "fga": 6,
+          "turnovers": 2,
+          "seconds": 1487,
+          "ftm": 4,
+          "fta": 8,
+          "assists": 2,
+          "rebounds": 10,
+          "steals": 0,
+          "blocks": 0,
+          "three_made": 0,
+          "three_attempted": 0,
+          "offensive_rebounds": 2,
+          "defensive_rebounds": 8
+        },
+        {
+          "id": "9040",
+          "name": "ダバンテ・ガードナー",
+          "points": 13,
+          "fgm": 6,
+          "fga": 11,
+          "turnovers": 3,
+          "seconds": 1882,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 1,
+          "rebounds": 6,
+          "steals": 2,
+          "blocks": 0,
+          "three_made": 1,
+          "three_attempted": 3,
+          "offensive_rebounds": 2,
+          "defensive_rebounds": 4
+        }
+      ]
+    },
+    "stats": {
+      "home": {
+        "points": 86,
+        "fgm": 35,
+        "fga": 68,
+        "turnovers": 12,
+        "ftm": 6,
+        "fta": 12,
+        "seconds": 12000,
+        "assists": 19,
+        "rebounds": 28,
+        "steals": 8,
+        "blocks": 1,
+        "three_made": 10,
+        "three_attempted": 26,
+        "offensive_rebounds": 9,
+        "defensive_rebounds": 21
+      },
+      "away": {
+        "points": 69,
+        "fgm": 26,
+        "fga": 54,
+        "turnovers": 19,
+        "ftm": 11,
+        "fta": 22,
+        "seconds": 12001,
+        "assists": 14,
+        "rebounds": 34,
+        "steals": 7,
+        "blocks": 1,
+        "three_made": 6,
+        "three_attempted": 23,
+        "offensive_rebounds": 12,
+        "defensive_rebounds": 25
+      }
+    },
+    "statsSource": "https://www.bleague.jp/game_detail/?ScheduleKey=506601",
+    "events": [
+      {
+        "period": 1,
+        "sec": 600,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ブラントリー ジャレル",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 600,
+        "side": "home",
+        "pid": "9405",
+        "name": "森川 正明",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 600,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 600,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 600,
+        "side": "home",
+        "pid": "51000395",
+        "name": "ミッチェル アキル",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 600,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 600,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 600,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 600,
+        "side": "away",
+        "pid": "26912",
+        "name": "オマラ ショーン",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 600,
+        "side": "away",
+        "pid": "9040",
+        "name": "ガードナー ダバンテ",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 588,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 566,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 553,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 553,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 545,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 545,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 526,
+        "side": "home",
+        "pid": "9405",
+        "name": "森川 正明",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 526,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 511,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 511,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 506,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 506,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 490,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 490,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 474,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 472,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 461,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 459,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 452,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 428,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 426,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 412,
+        "side": "home",
+        "pid": "9405",
+        "name": "森川 正明",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 409,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 397,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 375,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 371,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 371,
+        "side": "home",
+        "pid": "9405",
+        "name": "森川 正明",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 371,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 371,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 371,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 361,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 358,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 357,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 357,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 341,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 334,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 334,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 333,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 328,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 328,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 317,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 317,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 317,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 317,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 317,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 317,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 317,
+        "side": "away",
+        "pid": "30459",
+        "name": "平良 彰吾",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 304,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 289,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 289,
+        "side": "away",
+        "pid": "32982",
+        "name": "角野 亮伍",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 275,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 275,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 275,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 275,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 275,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 255,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 253,
+        "side": "away",
+        "pid": "32982",
+        "name": "角野 亮伍",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 248,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 248,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 237,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 237,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 213,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 213,
+        "side": "away",
+        "pid": "30459",
+        "name": "平良 彰吾",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 194,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 191,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 180,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 180,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 176,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 176,
+        "side": "away",
+        "pid": "30459",
+        "name": "平良 彰吾",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 176,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 176,
+        "side": "away",
+        "pid": "8608",
+        "name": "トーマス・ケネディ",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 176,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 176,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 170,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 167,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 151,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 148,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 141,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 138,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 129,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 129,
+        "side": "away",
+        "pid": "32982",
+        "name": "角野 亮伍",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 129,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 129,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 129,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 129,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 129,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 129,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 129,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 119,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 119,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 94,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 94,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 75,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 73,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 52,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 49,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 40,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 8,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 8,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 8,
+        "side": "away",
+        "pid": "30459",
+        "name": "平良 彰吾",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 3,
+        "side": "away",
+        "pid": "32982",
+        "name": "角野 亮伍",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 3,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 1,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 600,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 600,
+        "side": "home",
+        "pid": "10258",
+        "name": "土屋 アリスター時生",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 600,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 600,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 600,
+        "side": "away",
+        "pid": "30459",
+        "name": "平良 彰吾",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 600,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 600,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 600,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 578,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 575,
+        "side": "away",
+        "pid": "8608",
+        "name": "トーマス・ケネディ",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 559,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 559,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 545,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 542,
+        "side": "away",
+        "pid": "8608",
+        "name": "トーマス・ケネディ",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 525,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 525,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 507,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 503,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 503,
+        "side": "away",
+        "pid": "8608",
+        "name": "トーマス・ケネディ",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 503,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 492,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 489,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 478,
+        "side": "home",
+        "pid": "10258",
+        "name": "土屋 アリスター時生",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 478,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 478,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 478,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 478,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 455,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 455,
+        "side": "away",
+        "pid": "8583",
+        "name": "石井 講祐",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 454,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 432,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 429,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 417,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 414,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 404,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 404,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 404,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 404,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 404,
+        "side": "home",
+        "pid": "9405",
+        "name": "森川 正明",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 404,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 404,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 404,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 404,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 388,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 388,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 367,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 367,
+        "side": "away",
+        "pid": "30459",
+        "name": "平良 彰吾",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 367,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 357,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 357,
+        "side": "away",
+        "pid": "30459",
+        "name": "平良 彰吾",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 337,
+        "side": "home",
+        "pid": "9405",
+        "name": "森川 正明",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 334,
+        "side": "away",
+        "pid": "30459",
+        "name": "平良 彰吾",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 328,
+        "side": "away",
+        "pid": "8583",
+        "name": "石井 講祐",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 328,
+        "side": "away",
+        "pid": "8583",
+        "name": "石井 講祐",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 310,
+        "side": "home",
+        "pid": "9405",
+        "name": "森川 正明",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 310,
+        "side": "away",
+        "pid": "30459",
+        "name": "平良 彰吾",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 305,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 305,
+        "side": "away",
+        "pid": "30459",
+        "name": "平良 彰吾",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 291,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 291,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 291,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 291,
+        "side": "home",
+        "pid": "9405",
+        "name": "森川 正明",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 291,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 291,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 291,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 291,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 291,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 267,
+        "side": "away",
+        "pid": "8583",
+        "name": "石井 講祐",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 246,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 246,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 227,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 221,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 221,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 217,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 217,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 217,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 217,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 217,
+        "side": "away",
+        "pid": "30459",
+        "name": "平良 彰吾",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 217,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 201,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 187,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 185,
+        "side": "away",
+        "pid": "8583",
+        "name": "石井 講祐",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 182,
+        "side": "away",
+        "pid": "8583",
+        "name": "石井 講祐",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 179,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 172,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 172,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 172,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 172,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 172,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 153,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 153,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 149,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 149,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 141,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 141,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 141,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 141,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 127,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 118,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 112,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 93,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 74,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 71,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 54,
+        "side": "away",
+        "pid": "8583",
+        "name": "石井 講祐",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 54,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 46,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 43,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 33,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 33,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 33,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 33,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 33,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 33,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 19,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 17,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 17,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 17,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 17,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 17,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 17,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 4,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 1,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 1,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 600,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 600,
+        "side": "home",
+        "pid": "9405",
+        "name": "森川 正明",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 600,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 594,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 575,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 572,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 551,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 547,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 546,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 546,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 536,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 536,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 536,
+        "side": "home",
+        "pid": "51000344",
+        "name": "永野 威旺",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 536,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 536,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 524,
+        "side": "home",
+        "pid": "9405",
+        "name": "森川 正明",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 524,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 521,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 521,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 515,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 497,
+        "side": "home",
+        "pid": "9405",
+        "name": "森川 正明",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 497,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 486,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 486,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 468,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 468,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 460,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 460,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 446,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 432,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 430,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 423,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 420,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 418,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 418,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 406,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 406,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 402,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 402,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 402,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 402,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 391,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 391,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 391,
+        "side": "away",
+        "pid": "30459",
+        "name": "平良 彰吾",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 367,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 364,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 351,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 332,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 329,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 311,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 308,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 308,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 308,
+        "side": "away",
+        "pid": "32982",
+        "name": "角野 亮伍",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 291,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 288,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 271,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 269,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 267,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 264,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 246,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 246,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 246,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 246,
+        "side": "away",
+        "pid": "30459",
+        "name": "平良 彰吾",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 246,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 246,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 246,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 246,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 238,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 238,
+        "side": "away",
+        "pid": "8608",
+        "name": "トーマス・ケネディ",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 238,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 238,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 221,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 219,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 211,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 211,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 211,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 211,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 211,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 211,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 200,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 198,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 182,
+        "side": "away",
+        "pid": "32982",
+        "name": "角野 亮伍",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 180,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 160,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 159,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 159,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 144,
+        "side": "away",
+        "pid": "8608",
+        "name": "トーマス・ケネディ",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 129,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 129,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 106,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 106,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 105,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 95,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 95,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 88,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 88,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 84,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 84,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 84,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 84,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 84,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 84,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 84,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 84,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 84,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 84,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 84,
+        "side": "away",
+        "pid": "32982",
+        "name": "角野 亮伍",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 67,
+        "side": "away",
+        "pid": "8608",
+        "name": "トーマス・ケネディ",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 65,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 53,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 52,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 51,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 51,
+        "side": "away",
+        "pid": "8608",
+        "name": "トーマス・ケネディ",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 51,
+        "side": "away",
+        "pid": "8583",
+        "name": "石井 講祐",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 51,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 29,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 18,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 18,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 18,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 10,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 5,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 1,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 600,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 600,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 600,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 600,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 600,
+        "side": "away",
+        "pid": "8583",
+        "name": "石井 講祐",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 600,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 585,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 583,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 583,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 582,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 568,
+        "side": "away",
+        "pid": "32982",
+        "name": "角野 亮伍",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 545,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 545,
+        "side": "away",
+        "pid": "32982",
+        "name": "角野 亮伍",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 532,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 510,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 510,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 483,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 478,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 471,
+        "side": "away",
+        "pid": "32982",
+        "name": "角野 亮伍",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 467,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 463,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 463,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 463,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 447,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 424,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 421,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 421,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 421,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 421,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 421,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 407,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 407,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 407,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 395,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 392,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 392,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 392,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 383,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 368,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 368,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 346,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 346,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 331,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 318,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 318,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 318,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 318,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 318,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 294,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 294,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 294,
+        "side": "home",
+        "pid": "5100000021",
+        "name": "星川 堅信",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 294,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 294,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 294,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 294,
+        "side": "away",
+        "pid": "32982",
+        "name": "角野 亮伍",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 294,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 294,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 294,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 272,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 272,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 251,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 251,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 251,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 243,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 243,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 243,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 243,
+        "side": "home",
+        "pid": "51000590",
+        "name": "田中 流嘉州",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 243,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 222,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 206,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 206,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 184,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 181,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 156,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 156,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 156,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 156,
+        "side": "away",
+        "pid": "9040",
+        "name": "ダバンテ・ガードナー",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 156,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 139,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 137,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 115,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 115,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 115,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 102,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 102,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 89,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 89,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 89,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 78,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 78,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 78,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 72,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 70,
+        "side": "home",
+        "pid": "51000395",
+        "name": "アキル・ミッチェル",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 63,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 63,
+        "side": "away",
+        "pid": "30403",
+        "name": "西田 優大",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 58,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 55,
+        "side": "home",
+        "pid": "51000304",
+        "name": "ジャレル・ブラントリー",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 55,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 42,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 42,
+        "side": "away",
+        "pid": "26912",
+        "name": "ショーン・オマラ",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 34,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 34,
+        "side": "home",
+        "pid": "12577",
+        "name": "馬場 雄大",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 23,
+        "side": "away",
+        "pid": "8494",
+        "name": "須田 侑太郎",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 21,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 21,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 8,
+        "side": "home",
+        "pid": "51000670",
+        "name": "リーヴァイ・ランドルフ",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 8,
+        "side": "home",
+        "pid": "19957",
+        "name": "熊谷 航",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 5,
+        "side": "away",
+        "pid": "18399",
+        "name": "長野 誠史",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 2,
+        "side": "away",
+        "pid": "51000297",
+        "name": "アーロン・ホワイト",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      }
+    ],
+    "report": {
+      "key": [
+        "リーヴァイ・ランドルフ：7 分、1 助攻、0 抄截、0 阻攻、0 失誤",
+        "アーロン・ホワイト：6 分、0 助攻、0 抄截、0 阻攻、0 失誤",
+        "ジャレル・ブラントリー：5 分、1 助攻、0 抄截、0 阻攻、0 失誤"
+      ],
+      "keyPlayers": [
+        {
+          "name": "リーヴァイ・ランドルフ",
+          "side": "home",
+          "points": 7,
+          "assists": 1,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "アーロン・ホワイト",
+          "side": "away",
+          "points": 6,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "ジャレル・ブラントリー",
+          "side": "home",
+          "points": 5,
+          "assists": 1,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        }
+      ],
+      "lineups": [
+        {
+          "side": "home",
+          "label": "最佳",
+          "ids": [
+            "12577",
+            "19957",
+            "51000304",
+            "51000395",
+            "51000670"
+          ],
+          "seconds": 481,
+          "net": 13
+        },
+        {
+          "side": "home",
+          "label": "最差",
+          "ids": [
+            "12577",
+            "19957",
+            "51000304",
+            "51000395",
+            "9405"
+          ],
+          "seconds": 268,
+          "net": 0
+        }
+      ],
+      "issues": {},
+      "counts": {
+        "home": {
+          "51000304": {
+            "points": 22,
+            "turnovers": 2,
+            "fgm": 9,
+            "fga": 17,
+            "assists": 4,
+            "steals": 2,
+            "blocks": 0
+          },
+          "12577": {
+            "points": 16,
+            "turnovers": 2,
+            "fgm": 5,
+            "fga": 9,
+            "assists": 4,
+            "steals": 1,
+            "blocks": 0
+          },
+          "9405": {
+            "points": 0,
+            "turnovers": 3,
+            "fgm": 0,
+            "fga": 2,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0
+          },
+          "51000395": {
+            "points": 12,
+            "turnovers": 1,
+            "fgm": 5,
+            "fga": 6,
+            "assists": 4,
+            "steals": 3,
+            "blocks": 1
+          },
+          "19957": {
+            "points": 2,
+            "turnovers": 0,
+            "fgm": 1,
+            "fga": 3,
+            "assists": 4,
+            "steals": 0,
+            "blocks": 0
+          },
+          "51000590": {
+            "points": 7,
+            "turnovers": 0,
+            "fgm": 3,
+            "fga": 5,
+            "assists": 0,
+            "steals": 1,
+            "blocks": 0
+          },
+          "51000670": {
+            "points": 18,
+            "turnovers": 2,
+            "fgm": 8,
+            "fga": 14,
+            "assists": 2,
+            "steals": 1,
+            "blocks": 0
+          },
+          "5100000021": {
+            "points": 2,
+            "turnovers": 0,
+            "fgm": 1,
+            "fga": 6,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0
+          },
+          "51000344": {
+            "points": 7,
+            "turnovers": 1,
+            "fgm": 3,
+            "fga": 6,
+            "assists": 1,
+            "steals": 0,
+            "blocks": 0
+          },
+          "10893": {},
+          "12605": {},
+          "55000981": {},
+          "10258": {}
+        },
+        "away": {
+          "26912": {
+            "points": 14,
+            "turnovers": 2,
+            "fgm": 5,
+            "fga": 6,
+            "assists": 2,
+            "steals": 0,
+            "blocks": 0
+          },
+          "8494": {
+            "points": 3,
+            "turnovers": 3,
+            "fgm": 1,
+            "fga": 3,
+            "assists": 2,
+            "steals": 1,
+            "blocks": 0
+          },
+          "30403": {
+            "points": 10,
+            "turnovers": 2,
+            "fgm": 3,
+            "fga": 11,
+            "assists": 3,
+            "steals": 0,
+            "blocks": 1
+          },
+          "9040": {
+            "points": 13,
+            "turnovers": 3,
+            "fgm": 6,
+            "fga": 11,
+            "assists": 1,
+            "steals": 2,
+            "blocks": 0
+          },
+          "18399": {
+            "points": 9,
+            "turnovers": 1,
+            "fgm": 4,
+            "fga": 10,
+            "assists": 2,
+            "steals": 1,
+            "blocks": 0
+          },
+          "32982": {
+            "points": 2,
+            "turnovers": 0,
+            "fgm": 1,
+            "fga": 3,
+            "assists": 1,
+            "steals": 1,
+            "blocks": 0
+          },
+          "51000297": {
+            "points": 14,
+            "turnovers": 5,
+            "fgm": 5,
+            "fga": 7,
+            "assists": 0,
+            "steals": 1,
+            "blocks": 0
+          },
+          "30459": {
+            "points": 0,
+            "turnovers": 0,
+            "fgm": 0,
+            "fga": 0,
+            "assists": 3,
+            "steals": 1,
+            "blocks": 0
+          },
+          "8608": {
+            "points": 0,
+            "turnovers": 1,
+            "fgm": 0,
+            "fga": 1,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0
+          },
+          "8583": {
+            "points": 4,
+            "turnovers": 0,
+            "fgm": 1,
+            "fga": 2,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0
+          },
+          "30469": {},
+          "9283": {}
+        }
+      }
+    },
+    "pbpSource": "https://www.bleague.jp/game_detail/?ScheduleKey=506601#playbyplay",
+    "statsVersion": 2,
+    "advanced": {
+      "players": [
+        {
+          "id": "51000297",
+          "side": "away",
+          "name": "アーロン・ホワイト",
+          "seconds": 1431,
+          "points": 14,
+          "usg": 26.129024296818287,
+          "eff": 15,
+          "assists": 0,
+          "turnovers": 5,
+          "ast_to": 0.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "30403",
+          "side": "away",
+          "name": "西田 優大",
+          "seconds": 1932,
+          "points": 10,
+          "usg": 24.82274948640822,
+          "eff": 2,
+          "assists": 3,
+          "turnovers": 2,
+          "ast_to": 1.5,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "26912",
+          "side": "away",
+          "name": "ショーン・オマラ",
+          "seconds": 1487,
+          "points": 14,
+          "usg": 22.48994917734053,
+          "eff": 19,
+          "assists": 2,
+          "turnovers": 2,
+          "ast_to": 1.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "9040",
+          "side": "away",
+          "name": "ダバンテ・ガードナー",
+          "seconds": 1882,
+          "points": 13,
+          "usg": 21.59510798453713,
+          "eff": 14,
+          "assists": 1,
+          "turnovers": 3,
+          "ast_to": 0.3333333333333333,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "18399",
+          "side": "away",
+          "name": "長野 誠史",
+          "seconds": 1677,
+          "points": 9,
+          "usg": 20.565077073667204,
+          "eff": 3,
+          "assists": 2,
+          "turnovers": 1,
+          "ast_to": 2.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "8583",
+          "side": "away",
+          "name": "石井 講祐",
+          "seconds": 452,
+          "points": 4,
+          "usg": 18.496988067868013,
+          "eff": 4,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "8494",
+          "side": "away",
+          "name": "須田 侑太郎",
+          "seconds": 1335,
+          "points": 3,
+          "usg": 13.047188836885677,
+          "eff": 3,
+          "assists": 2,
+          "turnovers": 3,
+          "ast_to": 0.6666666666666666,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "8608",
+          "side": "away",
+          "name": "トーマス・ケネディ",
+          "seconds": 460,
+          "points": 0,
+          "usg": 12.62173702698723,
+          "eff": 0,
+          "assists": 0,
+          "turnovers": 1,
+          "ast_to": 0.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "32982",
+          "side": "away",
+          "name": "角野 亮伍",
+          "seconds": 900,
+          "points": 2,
+          "usg": 9.676665054023545,
+          "eff": 4,
+          "assists": 1,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "30459",
+          "side": "away",
+          "name": "平良 彰吾",
+          "seconds": 445,
+          "points": 0,
+          "usg": 0.0,
+          "eff": 5,
+          "assists": 3,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "51000344",
+          "side": "home",
+          "name": "永野 威旺",
+          "seconds": 611,
+          "points": 7,
+          "usg": 32.24191879335387,
+          "eff": 4,
+          "assists": 1,
+          "turnovers": 1,
+          "ast_to": 1.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "9405",
+          "side": "home",
+          "name": "森川 正明",
+          "seconds": 445,
+          "points": 0,
+          "usg": 31.620886649661657,
+          "eff": -5,
+          "assists": 0,
+          "turnovers": 3,
+          "ast_to": 0.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "5100000021",
+          "side": "home",
+          "name": "星川 堅信",
+          "seconds": 581,
+          "points": 2,
+          "usg": 29.062914752012606,
+          "eff": -3,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "51000304",
+          "side": "home",
+          "name": "ジャレル・ブラントリー",
+          "seconds": 1998,
+          "points": 22,
+          "usg": 28.62149203612618,
+          "eff": 19,
+          "assists": 4,
+          "turnovers": 2,
+          "ast_to": 2.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "51000670",
+          "side": "home",
+          "name": "リーヴァイ・ランドルフ",
+          "seconds": 1955,
+          "points": 18,
+          "usg": 23.665686194536544,
+          "eff": 14,
+          "assists": 2,
+          "turnovers": 2,
+          "ast_to": 1.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "12577",
+          "side": "home",
+          "name": "馬場 雄大",
+          "seconds": 2030,
+          "points": 16,
+          "usg": 18.29961459902587,
+          "eff": 20,
+          "assists": 4,
+          "turnovers": 2,
+          "ast_to": 2.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "51000395",
+          "side": "home",
+          "name": "アキル・ミッチェル",
+          "seconds": 1571,
+          "points": 12,
+          "usg": 14.904286534908634,
+          "eff": 28,
+          "assists": 4,
+          "turnovers": 1,
+          "ast_to": 4.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "51000590",
+          "side": "home",
+          "name": "田中 流嘉州",
+          "seconds": 1109,
+          "points": 7,
+          "usg": 12.688272821550438,
+          "eff": 10,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "19957",
+          "side": "home",
+          "name": "熊谷 航",
+          "seconds": 1578,
+          "points": 2,
+          "usg": 5.350302113726022,
+          "eff": 5,
+          "assists": 4,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "10258",
+          "side": "home",
+          "name": "土屋 アリスター時生",
+          "seconds": 122,
+          "points": 0,
+          "usg": 0.0,
+          "eff": 0,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        }
+      ],
+      "benchmark": {
+        "id": "51000395",
+        "side": "home",
+        "name": "アキル・ミッチェル",
+        "seconds": 1571,
+        "points": 12,
+        "usg": 14.904286534908634,
+        "eff": 28,
+        "assists": 4,
+        "turnovers": 1,
+        "ast_to": 4.0,
+        "potential_assists": null,
+        "passes_made": null,
+        "passes_received": null,
+        "secondary_assists": null,
+        "vorp": null
+      },
+      "observation": {
+        "teams": {
+          "home": {
+            "ts": 58.67903930131004,
+            "fta_rate": 17.647058823529413,
+            "assisted_fg_pct": 54.285714285714285,
+            "ft_points_pct": 6.976744186046512,
+            "efg": 58.8235294117647,
+            "three_attempt_pct": 38.23529411764706,
+            "three_points_pct": 34.883720930232556,
+            "oreb_pct": 26.470588235294116,
+            "dreb_pct": 63.63636363636363,
+            "paint_points": null,
+            "second_chance_points": null,
+            "fast_break_points": null,
+            "off_rating_est": 117.0386499727817,
+            "tov_pct_est": 16.33097441480675,
+            "source_counts": {
+              "points": 86,
+              "fgm": 35,
+              "fga": 68,
+              "three_made": 10,
+              "three_attempted": 26,
+              "ftm": 6,
+              "fta": 12,
+              "assists": 19,
+              "turnovers": 12,
+              "offensive_rebounds": 9,
+              "defensive_rebounds": 21
+            }
+          },
+          "away": {
+            "ts": 54.17713567839196,
+            "fta_rate": 40.74074074074074,
+            "assisted_fg_pct": 53.84615384615385,
+            "ft_points_pct": 15.942028985507246,
+            "efg": 53.7037037037037,
+            "three_attempt_pct": 42.592592592592595,
+            "three_points_pct": 26.08695652173913,
+            "oreb_pct": 36.36363636363637,
+            "dreb_pct": 73.52941176470588,
+            "paint_points": null,
+            "second_chance_points": null,
+            "fast_break_points": null,
+            "off_rating_est": 93.90310288513881,
+            "tov_pct_est": 25.857376156777352,
+            "source_counts": {
+              "points": 69,
+              "fgm": 26,
+              "fga": 54,
+              "three_made": 6,
+              "three_attempted": 23,
+              "ftm": 11,
+              "fta": 22,
+              "assists": 14,
+              "turnovers": 19,
+              "offensive_rebounds": 12,
+              "defensive_rebounds": 25
+            }
+          }
+        },
+        "possessions_est": 73.48,
+        "regulation_minutes": 40,
+        "warnings": [],
+        "method": "回合為雙方(FGA−ORB＋TOV＋0.44×FTA)平均估計；不是官方逐回合或追蹤數據。TS%同樣使用0.44估計係數。"
+      },
+      "benchmark_method": "本場 EFF 最高且至少上場十分鐘的球員；EFF 是傳統綜合效率，不是整體能力排名。",
+      "tracking_status": "官網逐球沒有完整的傳球者、接球者與傳球鏈，潛在助攻、傳出／接球次數及次級助攻尚不可計算；不以助攻次數代替。",
+      "vorp_status": "尚無適用 TPBL、P+、B.LEAGUE 且完成驗證的 BPM 模型、替補基準與完整賽季球權資料，暫不計算 VORP；不把單場正負值當作 BPM。",
+      "ato": {
+        "records": [
+          {
+            "period": 1,
+            "timeout_sec": 129,
+            "timeout_side": "home",
+            "offense": "home",
+            "defense": "away",
+            "points": 3,
+            "turnovers": 0,
+            "finisher": "51000304",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": true,
+            "defensive_success": false
+          },
+          {
+            "period": 2,
+            "timeout_sec": 367,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 3,
+            "turnovers": 0,
+            "finisher": "8494",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": true,
+            "defensive_success": false
+          },
+          {
+            "period": 2,
+            "timeout_sec": 291,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 2,
+            "turnovers": 0,
+            "finisher": "8583",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": true,
+            "defensive_success": false
+          },
+          {
+            "period": 2,
+            "timeout_sec": 141,
+            "timeout_side": "home",
+            "offense": "home",
+            "defense": "away",
+            "points": 3,
+            "turnovers": 0,
+            "finisher": "51000344",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": true,
+            "defensive_success": false
+          },
+          {
+            "period": 2,
+            "timeout_sec": 33,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 2,
+            "turnovers": 0,
+            "finisher": "26912",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": true,
+            "defensive_success": false
+          },
+          {
+            "period": 3,
+            "timeout_sec": 84,
+            "timeout_side": "away",
+            "offense": null,
+            "defense": null,
+            "points": 0,
+            "turnovers": 0,
+            "finisher": null,
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "暫停後先出現罰球，無法確認新進攻回合起點"
+          },
+          {
+            "period": 4,
+            "timeout_sec": 463,
+            "timeout_side": "home",
+            "offense": "home",
+            "defense": "away",
+            "points": 2,
+            "turnovers": 0,
+            "finisher": "12577",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": true,
+            "defensive_success": false
+          },
+          {
+            "period": 4,
+            "timeout_sec": 294,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 3,
+            "turnovers": 0,
+            "finisher": "51000297",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": true,
+            "defensive_success": false
+          },
+          {
+            "period": 4,
+            "timeout_sec": 243,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 2,
+            "turnovers": 0,
+            "finisher": "9040",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": true,
+            "defensive_success": false
+          },
+          {
+            "period": 4,
+            "timeout_sec": 156,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 0,
+            "turnovers": 0,
+            "finisher": "30403",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": false,
+            "defensive_success": true
+          }
+        ],
+        "summary": [
+          {
+            "side": "home",
+            "attack_n": 3,
+            "attack_success": 3,
+            "defense_n": 6,
+            "defense_success": 1,
+            "points": 8,
+            "turnovers": 0
+          },
+          {
+            "side": "away",
+            "attack_n": 6,
+            "attack_success": 5,
+            "defense_n": 3,
+            "defense_success": 0,
+            "points": 12,
+            "turnovers": 0
+          }
+        ],
+        "excluded": 1,
         "total": 10
       }
     }
