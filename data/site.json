@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T04:53:54+08:00",
-  "asOf": "2026-11-23",
+  "generatedAt": "2026-11-24T09:58:10+08:00",
+  "asOf": "2026-11-24",
   "leagues": [
     {
       "id": "tpbl",
@@ -9247,7 +9247,7 @@
           "quality": "資料驗證限制：陣容人數不足的秒數 25、陣容不明的得分事件 1；受影響指標停止判定。 官方事件時間不一致，按事件順序校正 28 筆；共同上場時間為重建值。"
         }
       ],
-      "lastSuccess": "2026-11-23T04:53:54+08:00"
+      "lastSuccess": "2026-11-24T09:58:10+08:00"
     },
     {
       "id": "plg",
@@ -12597,7 +12597,7 @@
           "quality": "資料驗證限制：陣容人數不足的秒數 746、陣容不明的得分事件 24、出手球員不在重建陣容 2、球員得分不符 1、球員命中數不符 1、球員出手數不符 1、球員失誤紀錄不符 1；受影響指標停止判定。 官方事件時間不一致，按事件順序校正 6 筆；共同上場時間為重建值。"
         }
       ],
-      "lastSuccess": "2026-11-23T04:53:54+08:00"
+      "lastSuccess": "2026-11-24T09:58:10+08:00"
     },
     {
       "id": "b",
@@ -29222,7 +29222,7 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。"
         }
       ],
-      "lastSuccess": "2026-11-23T04:53:54+08:00"
+      "lastSuccess": "2026-11-24T09:58:10+08:00"
     },
     {
       "id": "cba",
@@ -34728,7 +34728,7 @@
           "quality": "資料驗證限制：出手球員不在重建陣容 23、陣容人數不足的秒數 1083、陣容不明的得分事件 47、球員出手數不符 7、球員失誤紀錄不符 4、缺少事件時間 1；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-11-23T04:53:54+08:00"
+      "lastSuccess": "2026-11-24T09:58:10+08:00"
     },
     {
       "id": "nbl",
@@ -37966,7 +37966,7 @@
           "quality": "資料驗證限制：出手球員不在重建陣容 9、事件時間倒退 48、缺少事件時間 2；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-11-23T04:53:54+08:00"
+      "lastSuccess": "2026-11-24T09:58:10+08:00"
     }
   ],
   "news": [
@@ -37987,29 +37987,29 @@
           "url": "https://www.easl.basketball/news/game-recap-busan-kcc-dominates-with-wire-to-wire-win-over-macau-hou-chon"
         }
       ],
-      "lastSuccess": "2026-11-23T04:53:54+08:00"
+      "lastSuccess": "2026-11-24T09:58:10+08:00"
     },
     {
       "name": "CBA",
       "source": "https://www.cbaleague.com/#/news",
       "items": [
         {
+          "title": "11月22日CBA俱乐部杯综述",
+          "url": "https://www.cbaleague.com/#/news/detail/f3dd1feaa5",
+          "date": "2026-11-23"
+        },
+        {
+          "title": "11月21日CBA俱乐部杯综述",
+          "url": "https://www.cbaleague.com/#/news/detail/13b5461034",
+          "date": "2026-11-22"
+        },
+        {
           "title": "第三届中国人寿·CBA俱乐部杯数据前瞻：北京首钢VS深圳马可波罗（11月22日）",
           "url": "https://www.cbaleague.com/#/news/detail/c9456067fe",
           "date": "2026-11-21"
-        },
-        {
-          "title": "第三届中国人寿·CBA俱乐部杯数据前瞻：青岛崂山啤酒VS福建晋江文旅（11月22日）",
-          "url": "https://www.cbaleague.com/#/news/detail/c493bb8927",
-          "date": "2026-11-21"
-        },
-        {
-          "title": "第三届中国人寿·CBA俱乐部杯数据前瞻：山东高速VS浙江稠州金租（11月22日）",
-          "url": "https://www.cbaleague.com/#/news/detail/c3b05b9152",
-          "date": "2026-11-21"
         }
       ],
-      "lastSuccess": "2026-11-23T04:53:54+08:00"
+      "lastSuccess": "2026-11-24T09:58:10+08:00"
     },
     {
       "name": "FIBA 亞洲賽事",
@@ -38020,7 +38020,7 @@
           "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/lebanon-vs-china-2027-basketball-world-cup-asian-qualifiers-window-4"
         },
         {
-          "title": "FIBA Basketball World Cup 2027 Asian Qualifiers Smart Power Rankings: Volume 9",
+          "title": "Smart Power Rankings: Volume 9",
           "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/fiba-basketball-world-cup-2027-asian-qualifiers-smart-power-rankings-volume-9"
         },
         {
@@ -38028,7 +38028,7 @@
           "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/mohammad-jamshidi-iran-future-world-cup-2027-asian-qualifiers"
         }
       ],
-      "lastSuccess": "2026-11-23T04:53:54+08:00"
+      "lastSuccess": "2026-11-24T09:58:10+08:00"
     }
   ],
   "guides": [
@@ -38161,7 +38161,6 @@
         "神戸",
         "秋田",
         "群馬",
-        "茨城",
         "長崎"
       ],
       "players": [
