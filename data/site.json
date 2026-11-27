@@ -1,27 +1,12 @@
 {
-  "generatedAt": "2026-11-27T07:25:23+08:00",
-  "asOf": "2026-11-27",
+  "generatedAt": "2026-11-28T07:05:51+08:00",
+  "asOf": "2026-11-28",
   "leagues": [
     {
       "id": "tpbl",
       "name": "TPBL",
       "source": "https://tpbl.basketball/schedule",
       "upcoming": [
-        {
-          "league": "tpbl",
-          "id": "27561",
-          "date": "2026-11-27",
-          "home": "福爾摩沙夢想家",
-          "away": "桃園台啤永豐雲豹",
-          "score": [
-            null,
-            null
-          ],
-          "source": "https://tpbl.basketball/games/27561",
-          "time": "19:00",
-          "complete": false,
-          "division": 656
-        },
         {
           "league": "tpbl",
           "id": "27562",
@@ -36,9 +21,1908 @@
           "time": "19:00",
           "complete": false,
           "division": 656
+        },
+        {
+          "league": "tpbl",
+          "id": "27563",
+          "date": "2026-12-04",
+          "home": "新北國王",
+          "away": "新北中信特攻",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://tpbl.basketball/games/27563",
+          "time": "19:00",
+          "complete": false,
+          "division": 656
         }
       ],
       "recent": [
+        {
+          "league": "tpbl",
+          "id": "27561",
+          "date": "2026-11-27",
+          "home": "福爾摩沙夢想家",
+          "away": "桃園台啤永豐雲豹",
+          "score": [
+            110,
+            107
+          ],
+          "source": "https://tpbl.basketball/games/27561",
+          "time": "19:00",
+          "complete": true,
+          "division": 656,
+          "stats": {
+            "home": {
+              "points": 110,
+              "fgm": 41,
+              "fga": 85,
+              "turnovers": 14,
+              "ftm": 18,
+              "fta": 26,
+              "seconds": 14400,
+              "assists": 21,
+              "rebounds": 50,
+              "steals": 8,
+              "blocks": 7,
+              "three_made": 10,
+              "three_attempted": 30,
+              "offensive_rebounds": 14,
+              "defensive_rebounds": 40,
+              "paint_points": 54,
+              "second_chance_points": 12,
+              "fast_break_points": 5
+            },
+            "away": {
+              "points": 107,
+              "fgm": 42,
+              "fga": 91,
+              "turnovers": 10,
+              "ftm": 9,
+              "fta": 14,
+              "seconds": 14400,
+              "assists": 14,
+              "rebounds": 37,
+              "steals": 10,
+              "blocks": 2,
+              "three_made": 14,
+              "three_attempted": 36,
+              "offensive_rebounds": 11,
+              "defensive_rebounds": 31,
+              "paint_points": 48,
+              "second_chance_points": 10,
+              "fast_break_points": 17
+            }
+          },
+          "statsSource": "https://api.tpbl.basketball/api/games/27561/stats",
+          "clockCorrections": 12,
+          "pbpSource": "https://api.tpbl.basketball/api/games/27561/broadcasts",
+          "statsVersion": 2,
+          "advanced": {
+            "players": [
+              {
+                "id": "17241",
+                "side": "away",
+                "name": "溫布許",
+                "seconds": 2464,
+                "points": 31,
+                "usg": 30.27879175695525,
+                "eff": 31,
+                "assists": 1,
+                "turnovers": 1,
+                "ast_to": 1.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "12",
+                "side": "away",
+                "name": "曹薰襄",
+                "seconds": 1256,
+                "points": 15,
+                "usg": 23.024086846741465,
+                "eff": 14,
+                "assists": 2,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "54",
+                "side": "away",
+                "name": "高錦瑋",
+                "seconds": 2219,
+                "points": 25,
+                "usg": 21.800928255264648,
+                "eff": 27,
+                "assists": 7,
+                "turnovers": 2,
+                "ast_to": 3.5,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "17239",
+                "side": "away",
+                "name": "莫騰",
+                "seconds": 2598,
+                "points": 17,
+                "usg": 20.565393139868988,
+                "eff": 15,
+                "assists": 0,
+                "turnovers": 5,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "14",
+                "side": "away",
+                "name": "錢肯尼",
+                "seconds": 2079,
+                "points": 15,
+                "usg": 20.528432622497572,
+                "eff": 16,
+                "assists": 3,
+                "turnovers": 1,
+                "ast_to": 3.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "17240",
+                "side": "away",
+                "name": "蓋比",
+                "seconds": 698,
+                "points": 3,
+                "usg": 19.251934017204814,
+                "eff": 1,
+                "assists": 0,
+                "turnovers": 1,
+                "ast_to": 0.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "4",
+                "side": "away",
+                "name": "張兆辰",
+                "seconds": 581,
+                "points": 0,
+                "usg": 13.877297704656412,
+                "eff": -1,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "3129",
+                "side": "away",
+                "name": "董永全",
+                "seconds": 205,
+                "points": 0,
+                "usg": 13.110097506350204,
+                "eff": -1,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "58",
+                "side": "away",
+                "name": "林信寬",
+                "seconds": 888,
+                "points": 0,
+                "usg": 9.079628340546593,
+                "eff": 1,
+                "assists": 1,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "57",
+                "side": "away",
+                "name": "莊博元",
+                "seconds": 1412,
+                "points": 1,
+                "usg": 5.481729155629718,
+                "eff": 3,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "107",
+                "side": "home",
+                "name": "霍爾曼",
+                "seconds": 1401,
+                "points": 14,
+                "usg": 37.59926228510137,
+                "eff": 9,
+                "assists": 2,
+                "turnovers": 3,
+                "ast_to": 0.6666666666666666,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "86",
+                "side": "home",
+                "name": "林俊吉",
+                "seconds": 1054,
+                "points": 16,
+                "usg": 33.450465861240225,
+                "eff": 13,
+                "assists": 1,
+                "turnovers": 3,
+                "ast_to": 0.3333333333333333,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "79",
+                "side": "home",
+                "name": "張宗憲",
+                "seconds": 2091,
+                "points": 19,
+                "usg": 25.341700889152403,
+                "eff": 15,
+                "assists": 3,
+                "turnovers": 3,
+                "ast_to": 1.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "10869",
+                "side": "home",
+                "name": "基德",
+                "seconds": 2313,
+                "points": 22,
+                "usg": 20.15848878980012,
+                "eff": 29,
+                "assists": 4,
+                "turnovers": 1,
+                "ast_to": 4.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "103",
+                "side": "home",
+                "name": "忻沃克",
+                "seconds": 1136,
+                "points": 2,
+                "usg": 18.08897572322745,
+                "eff": 4,
+                "assists": 1,
+                "turnovers": 1,
+                "ast_to": 1.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "73",
+                "side": "home",
+                "name": "陳振傑",
+                "seconds": 1755,
+                "points": 16,
+                "usg": 17.83077480288636,
+                "eff": 24,
+                "assists": 2,
+                "turnovers": 1,
+                "ast_to": 2.0,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "106",
+                "side": "home",
+                "name": "高柏鎧",
+                "seconds": 2034,
+                "points": 8,
+                "usg": 11.384870814409297,
+                "eff": 14,
+                "assists": 1,
+                "turnovers": 2,
+                "ast_to": 0.5,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "89",
+                "side": "home",
+                "name": "蔣淯安",
+                "seconds": 2069,
+                "points": 12,
+                "usg": 11.192279959646456,
+                "eff": 20,
+                "assists": 7,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              },
+              {
+                "id": "91",
+                "side": "home",
+                "name": "簡偉儒",
+                "seconds": 547,
+                "points": 1,
+                "usg": 4.19528467482902,
+                "eff": 2,
+                "assists": 0,
+                "turnovers": 0,
+                "ast_to": null,
+                "potential_assists": null,
+                "passes_made": null,
+                "passes_received": null,
+                "secondary_assists": null,
+                "vorp": null
+              }
+            ],
+            "benchmark": {
+              "id": "17241",
+              "side": "away",
+              "name": "溫布許",
+              "seconds": 2464,
+              "points": 31,
+              "usg": 30.27879175695525,
+              "eff": 31,
+              "assists": 1,
+              "turnovers": 1,
+              "ast_to": 1.0,
+              "potential_assists": null,
+              "passes_made": null,
+              "passes_received": null,
+              "secondary_assists": null,
+              "vorp": null
+            },
+            "observation": {
+              "teams": {
+                "home": {
+                  "ts": 57.03027789299046,
+                  "fta_rate": 30.58823529411765,
+                  "assisted_fg_pct": 51.21951219512195,
+                  "ft_points_pct": 16.363636363636363,
+                  "efg": 54.11764705882353,
+                  "three_attempt_pct": 35.294117647058826,
+                  "three_points_pct": 27.272727272727273,
+                  "oreb_pct": 31.11111111111111,
+                  "dreb_pct": 78.43137254901961,
+                  "paint_points": 54,
+                  "second_chance_points": 12,
+                  "fast_break_points": 5,
+                  "off_rating_est": 114.2263759086189,
+                  "tov_pct_est": 14.537902388369679,
+                  "source_counts": {
+                    "points": 110,
+                    "fgm": 41,
+                    "fga": 85,
+                    "three_made": 10,
+                    "three_attempted": 30,
+                    "ftm": 18,
+                    "fta": 26,
+                    "assists": 21,
+                    "turnovers": 14,
+                    "offensive_rebounds": 14,
+                    "defensive_rebounds": 40
+                  }
+                },
+                "away": {
+                  "ts": 55.06381226842322,
+                  "fta_rate": 15.384615384615385,
+                  "assisted_fg_pct": 33.333333333333336,
+                  "ft_points_pct": 8.411214953271028,
+                  "efg": 53.84615384615385,
+                  "three_attempt_pct": 39.56043956043956,
+                  "three_points_pct": 39.25233644859813,
+                  "oreb_pct": 21.568627450980394,
+                  "dreb_pct": 68.88888888888889,
+                  "paint_points": 48,
+                  "second_chance_points": 10,
+                  "fast_break_points": 17,
+                  "off_rating_est": 111.11111111111111,
+                  "tov_pct_est": 10.384215991692628,
+                  "source_counts": {
+                    "points": 107,
+                    "fgm": 42,
+                    "fga": 91,
+                    "three_made": 14,
+                    "three_attempted": 36,
+                    "ftm": 9,
+                    "fta": 14,
+                    "assists": 14,
+                    "turnovers": 10,
+                    "offensive_rebounds": 11,
+                    "defensive_rebounds": 31
+                  }
+                }
+              },
+              "possessions_est": 96.3,
+              "regulation_minutes": 48,
+              "warnings": [],
+              "method": "回合為雙方(FGA−ORB＋TOV＋0.44×FTA)平均估計；不是官方逐回合或追蹤數據。TS%同樣使用0.44估計係數。"
+            },
+            "benchmark_method": "本場 EFF 最高且至少上場十分鐘的球員；EFF 是傳統綜合效率，不是整體能力排名。",
+            "tracking_status": "官網逐球沒有完整的傳球者、接球者與傳球鏈，潛在助攻、傳出／接球次數及次級助攻尚不可計算；不以助攻次數代替。",
+            "vorp_status": "尚無適用 TPBL、P+、B.LEAGUE 且完成驗證的 BPM 模型、替補基準與完整賽季球權資料，暫不計算 VORP；不把單場正負值當作 BPM。",
+            "ato": {
+              "records": [
+                {
+                  "period": 1,
+                  "timeout_sec": 358,
+                  "timeout_side": "away",
+                  "offense": null,
+                  "defense": null,
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": null,
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "暫停後先出現籃板，無法確認新進攻回合起點"
+                },
+                {
+                  "period": 1,
+                  "timeout_sec": 154,
+                  "timeout_side": "home",
+                  "offense": null,
+                  "defense": null,
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": null,
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "暫停後先出現籃板，無法確認新進攻回合起點"
+                },
+                {
+                  "period": 2,
+                  "timeout_sec": 184,
+                  "timeout_side": "home",
+                  "offense": "home",
+                  "defense": "away",
+                  "points": 3,
+                  "turnovers": 0,
+                  "finisher": "10869",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": true,
+                  "exclusion": null,
+                  "offensive_success": true,
+                  "defensive_success": false
+                },
+                {
+                  "period": 3,
+                  "timeout_sec": 488,
+                  "timeout_side": "away",
+                  "offense": "away",
+                  "defense": "home",
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": "17239",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": true,
+                  "exclusion": null,
+                  "offensive_success": false,
+                  "defensive_success": true
+                },
+                {
+                  "period": 4,
+                  "timeout_sec": 610,
+                  "timeout_side": "home",
+                  "offense": "home",
+                  "defense": "away",
+                  "points": 3,
+                  "turnovers": 0,
+                  "finisher": "89",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": true,
+                  "exclusion": null,
+                  "offensive_success": true,
+                  "defensive_success": false
+                },
+                {
+                  "period": 4,
+                  "timeout_sec": 67,
+                  "timeout_side": "away",
+                  "offense": "away",
+                  "defense": "home",
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": "17241",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": true,
+                  "exclusion": null,
+                  "offensive_success": false,
+                  "defensive_success": true
+                },
+                {
+                  "period": 4,
+                  "timeout_sec": 17,
+                  "timeout_side": "away",
+                  "offense": "away",
+                  "defense": "home",
+                  "points": 2,
+                  "turnovers": 0,
+                  "finisher": "54",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": true,
+                  "exclusion": null,
+                  "offensive_success": true,
+                  "defensive_success": false
+                },
+                {
+                  "period": 4,
+                  "timeout_sec": 6,
+                  "timeout_side": "home",
+                  "offense": null,
+                  "defense": null,
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": null,
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": false,
+                  "exclusion": "暫停後先出現罰球，無法確認新進攻回合起點"
+                },
+                {
+                  "period": 4,
+                  "timeout_sec": 5,
+                  "timeout_side": "away",
+                  "offense": "away",
+                  "defense": "home",
+                  "points": 0,
+                  "turnovers": 0,
+                  "finisher": "54",
+                  "inbounder": null,
+                  "receiver": null,
+                  "eligible": true,
+                  "exclusion": null,
+                  "offensive_success": false,
+                  "defensive_success": true
+                }
+              ],
+              "summary": [
+                {
+                  "side": "home",
+                  "attack_n": 2,
+                  "attack_success": 2,
+                  "defense_n": 4,
+                  "defense_success": 3,
+                  "points": 6,
+                  "turnovers": 0
+                },
+                {
+                  "side": "away",
+                  "attack_n": 4,
+                  "attack_success": 1,
+                  "defense_n": 2,
+                  "defense_success": 0,
+                  "points": 2,
+                  "turnovers": 0
+                }
+              ],
+              "excluded": 3,
+              "total": 9
+            }
+          },
+          "analysis": [
+            [
+              "第四節最後五分鐘的關鍵球員",
+              "溫布許：8 分、1 助攻、1 抄截、0 阻攻、0 失誤；高錦瑋：6 分、1 助攻、0 抄截、0 阻攻、0 失誤；林俊吉：6 分、0 助攻、0 抄截、0 阻攻、0 失誤"
+            ],
+            [
+              "五人組合與個人近三場",
+              "福爾摩沙夢想家 最佳：高柏鎧、基德、陳振傑、張宗憲、蔣淯安，共同 13.0 分鐘，淨得分 +5；福爾摩沙夢想家 最差：忻沃克、高柏鎧、霍爾曼、林俊吉、簡偉儒，共同 7.0 分鐘，淨得分 -7；桃園台啤永豐雲豹 最佳：曹薰襄、錢肯尼、莫騰、溫布許、高錦瑋，共同 8.3 分鐘，淨得分 +8；桃園台啤永豐雲豹 最差：錢肯尼、莫騰、溫布許、高錦瑋、莊博元，共同 16.3 分鐘，淨得分 -3"
+            ],
+            [
+              "球員特殊變化提示",
+              "曹薰襄 本場 15 分，較之前三場平均 0.7 分增加 14.3 分；上場 20.9 分鐘（之前平均 13.3 分鐘），投籃 6/9。此提示也可能受上場時間或對手影響。"
+            ]
+          ],
+          "lineups": [
+            {
+              "label": "福爾摩沙夢想家 最佳",
+              "team": "福爾摩沙夢想家",
+              "kind": "最佳",
+              "seconds": 782,
+              "net": 5,
+              "names": [
+                "高柏鎧",
+                "基德",
+                "陳振傑",
+                "張宗憲",
+                "蔣淯安"
+              ],
+              "players": [
+                {
+                  "name": "高柏鎧",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "106",
+                      "name": "高柏鎧",
+                      "points": 8,
+                      "fgm": 4,
+                      "fga": 6,
+                      "turnovers": 2,
+                      "seconds": 2034,
+                      "ftm": 0,
+                      "fta": 2,
+                      "assists": 1,
+                      "rebounds": 8,
+                      "steals": 0,
+                      "blocks": 3
+                    },
+                    {
+                      "date": "2026-11-25",
+                      "game": "27560",
+                      "id": "106",
+                      "name": "高柏鎧",
+                      "points": 13,
+                      "fgm": 5,
+                      "fga": 9,
+                      "turnovers": 4,
+                      "seconds": 1968,
+                      "ftm": 3,
+                      "fta": 7,
+                      "assists": 0,
+                      "rebounds": 8,
+                      "steals": 2,
+                      "blocks": 2
+                    },
+                    {
+                      "date": "2026-11-22",
+                      "game": "27559",
+                      "id": "106",
+                      "name": "高柏鎧",
+                      "points": 18,
+                      "fgm": 7,
+                      "fga": 11,
+                      "turnovers": 1,
+                      "seconds": 1929,
+                      "ftm": 4,
+                      "fta": 6,
+                      "assists": 1,
+                      "rebounds": 7,
+                      "steals": 0,
+                      "blocks": 2
+                    }
+                  ]
+                },
+                {
+                  "name": "基德",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "10869",
+                      "name": "基德",
+                      "points": 22,
+                      "fgm": 9,
+                      "fga": 16,
+                      "turnovers": 1,
+                      "seconds": 2313,
+                      "ftm": 1,
+                      "fta": 2,
+                      "assists": 4,
+                      "rebounds": 11,
+                      "steals": 0,
+                      "blocks": 1
+                    },
+                    {
+                      "date": "2026-11-25",
+                      "game": "27560",
+                      "id": "10869",
+                      "name": "基德",
+                      "points": 2,
+                      "fgm": 1,
+                      "fga": 13,
+                      "turnovers": 1,
+                      "seconds": 1519,
+                      "ftm": 0,
+                      "fta": 2,
+                      "assists": 3,
+                      "rebounds": 2,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-22",
+                      "game": "27559",
+                      "id": "10869",
+                      "name": "基德",
+                      "points": 15,
+                      "fgm": 4,
+                      "fga": 8,
+                      "turnovers": 1,
+                      "seconds": 1968,
+                      "ftm": 4,
+                      "fta": 4,
+                      "assists": 2,
+                      "rebounds": 7,
+                      "steals": 0,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "陳振傑",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "73",
+                      "name": "陳振傑",
+                      "points": 16,
+                      "fgm": 6,
+                      "fga": 11,
+                      "turnovers": 1,
+                      "seconds": 1755,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 2,
+                      "rebounds": 11,
+                      "steals": 1,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-25",
+                      "game": "27560",
+                      "id": "73",
+                      "name": "陳振傑",
+                      "points": 14,
+                      "fgm": 6,
+                      "fga": 7,
+                      "turnovers": 1,
+                      "seconds": 1463,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 0,
+                      "rebounds": 4,
+                      "steals": 1,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-22",
+                      "game": "27559",
+                      "id": "73",
+                      "name": "陳振傑",
+                      "points": 7,
+                      "fgm": 3,
+                      "fga": 7,
+                      "turnovers": 1,
+                      "seconds": 1398,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 3,
+                      "rebounds": 3,
+                      "steals": 0,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "張宗憲",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "79",
+                      "name": "張宗憲",
+                      "points": 19,
+                      "fgm": 9,
+                      "fga": 16,
+                      "turnovers": 3,
+                      "seconds": 2091,
+                      "ftm": 1,
+                      "fta": 3,
+                      "assists": 3,
+                      "rebounds": 3,
+                      "steals": 0,
+                      "blocks": 2
+                    },
+                    {
+                      "date": "2026-11-25",
+                      "game": "27560",
+                      "id": "79",
+                      "name": "張宗憲",
+                      "points": 6,
+                      "fgm": 3,
+                      "fga": 8,
+                      "turnovers": 0,
+                      "seconds": 1230,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 1,
+                      "rebounds": 2,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-22",
+                      "game": "27559",
+                      "id": "79",
+                      "name": "張宗憲",
+                      "points": 15,
+                      "fgm": 7,
+                      "fga": 13,
+                      "turnovers": 0,
+                      "seconds": 2089,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 1,
+                      "rebounds": 1,
+                      "steals": 1,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "蔣淯安",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "89",
+                      "name": "蔣淯安",
+                      "points": 12,
+                      "fgm": 4,
+                      "fga": 8,
+                      "turnovers": 0,
+                      "seconds": 2069,
+                      "ftm": 2,
+                      "fta": 2,
+                      "assists": 7,
+                      "rebounds": 1,
+                      "steals": 4,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-25",
+                      "game": "27560",
+                      "id": "89",
+                      "name": "蔣淯安",
+                      "points": 5,
+                      "fgm": 2,
+                      "fga": 8,
+                      "turnovers": 1,
+                      "seconds": 1870,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 4,
+                      "rebounds": 5,
+                      "steals": 3,
+                      "blocks": 2
+                    },
+                    {
+                      "date": "2026-11-22",
+                      "game": "27559",
+                      "id": "89",
+                      "name": "蔣淯安",
+                      "points": 14,
+                      "fgm": 4,
+                      "fga": 4,
+                      "turnovers": 4,
+                      "seconds": 2070,
+                      "ftm": 3,
+                      "fta": 4,
+                      "assists": 5,
+                      "rebounds": 1,
+                      "steals": 4,
+                      "blocks": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "福爾摩沙夢想家 最差",
+              "team": "福爾摩沙夢想家",
+              "kind": "最差",
+              "seconds": 422,
+              "net": -7,
+              "names": [
+                "忻沃克",
+                "高柏鎧",
+                "霍爾曼",
+                "林俊吉",
+                "簡偉儒"
+              ],
+              "players": [
+                {
+                  "name": "忻沃克",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "103",
+                      "name": "忻沃克",
+                      "points": 2,
+                      "fgm": 0,
+                      "fga": 6,
+                      "turnovers": 1,
+                      "seconds": 1136,
+                      "ftm": 2,
+                      "fta": 2,
+                      "assists": 1,
+                      "rebounds": 8,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-25",
+                      "game": "27560",
+                      "id": "103",
+                      "name": "忻沃克",
+                      "points": 0,
+                      "fgm": 0,
+                      "fga": 7,
+                      "turnovers": 1,
+                      "seconds": 1747,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 2,
+                      "rebounds": 9,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-22",
+                      "game": "27559",
+                      "id": "103",
+                      "name": "忻沃克",
+                      "points": 6,
+                      "fgm": 3,
+                      "fga": 6,
+                      "turnovers": 0,
+                      "seconds": 1023,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 0,
+                      "rebounds": 4,
+                      "steals": 0,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "高柏鎧",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "106",
+                      "name": "高柏鎧",
+                      "points": 8,
+                      "fgm": 4,
+                      "fga": 6,
+                      "turnovers": 2,
+                      "seconds": 2034,
+                      "ftm": 0,
+                      "fta": 2,
+                      "assists": 1,
+                      "rebounds": 8,
+                      "steals": 0,
+                      "blocks": 3
+                    },
+                    {
+                      "date": "2026-11-25",
+                      "game": "27560",
+                      "id": "106",
+                      "name": "高柏鎧",
+                      "points": 13,
+                      "fgm": 5,
+                      "fga": 9,
+                      "turnovers": 4,
+                      "seconds": 1968,
+                      "ftm": 3,
+                      "fta": 7,
+                      "assists": 0,
+                      "rebounds": 8,
+                      "steals": 2,
+                      "blocks": 2
+                    },
+                    {
+                      "date": "2026-11-22",
+                      "game": "27559",
+                      "id": "106",
+                      "name": "高柏鎧",
+                      "points": 18,
+                      "fgm": 7,
+                      "fga": 11,
+                      "turnovers": 1,
+                      "seconds": 1929,
+                      "ftm": 4,
+                      "fta": 6,
+                      "assists": 1,
+                      "rebounds": 7,
+                      "steals": 0,
+                      "blocks": 2
+                    }
+                  ]
+                },
+                {
+                  "name": "霍爾曼",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "107",
+                      "name": "霍爾曼",
+                      "points": 14,
+                      "fgm": 5,
+                      "fga": 15,
+                      "turnovers": 3,
+                      "seconds": 1401,
+                      "ftm": 4,
+                      "fta": 5,
+                      "assists": 2,
+                      "rebounds": 4,
+                      "steals": 2,
+                      "blocks": 1
+                    },
+                    {
+                      "date": "2026-11-25",
+                      "game": "27560",
+                      "id": "107",
+                      "name": "霍爾曼",
+                      "points": 23,
+                      "fgm": 8,
+                      "fga": 14,
+                      "turnovers": 3,
+                      "seconds": 1924,
+                      "ftm": 2,
+                      "fta": 2,
+                      "assists": 4,
+                      "rebounds": 5,
+                      "steals": 2,
+                      "blocks": 3
+                    },
+                    {
+                      "date": "2026-11-22",
+                      "game": "27559",
+                      "id": "107",
+                      "name": "霍爾曼",
+                      "points": 7,
+                      "fgm": 3,
+                      "fga": 15,
+                      "turnovers": 5,
+                      "seconds": 1793,
+                      "ftm": 1,
+                      "fta": 2,
+                      "assists": 5,
+                      "rebounds": 11,
+                      "steals": 2,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "林俊吉",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "86",
+                      "name": "林俊吉",
+                      "points": 16,
+                      "fgm": 4,
+                      "fga": 7,
+                      "turnovers": 3,
+                      "seconds": 1054,
+                      "ftm": 7,
+                      "fta": 8,
+                      "assists": 1,
+                      "rebounds": 3,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-25",
+                      "game": "27560",
+                      "id": "86",
+                      "name": "林俊吉",
+                      "points": 15,
+                      "fgm": 5,
+                      "fga": 14,
+                      "turnovers": 4,
+                      "seconds": 1608,
+                      "ftm": 3,
+                      "fta": 3,
+                      "assists": 5,
+                      "rebounds": 3,
+                      "steals": 2,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-22",
+                      "game": "27559",
+                      "id": "86",
+                      "name": "林俊吉",
+                      "points": 16,
+                      "fgm": 5,
+                      "fga": 12,
+                      "turnovers": 2,
+                      "seconds": 1740,
+                      "ftm": 5,
+                      "fta": 6,
+                      "assists": 6,
+                      "rebounds": 1,
+                      "steals": 0,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "簡偉儒",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "91",
+                      "name": "簡偉儒",
+                      "points": 1,
+                      "fgm": 0,
+                      "fga": 0,
+                      "turnovers": 0,
+                      "seconds": 547,
+                      "ftm": 1,
+                      "fta": 2,
+                      "assists": 0,
+                      "rebounds": 1,
+                      "steals": 1,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-25",
+                      "game": "27560",
+                      "id": "91",
+                      "name": "簡偉儒",
+                      "points": 0,
+                      "fgm": 0,
+                      "fga": 1,
+                      "turnovers": 0,
+                      "seconds": 722,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 1,
+                      "rebounds": 1,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-22",
+                      "game": "27559",
+                      "id": "91",
+                      "name": "簡偉儒",
+                      "points": 0,
+                      "fgm": 0,
+                      "fga": 0,
+                      "turnovers": 1,
+                      "seconds": 285,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 0,
+                      "rebounds": 0,
+                      "steals": 0,
+                      "blocks": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "桃園台啤永豐雲豹 最佳",
+              "team": "桃園台啤永豐雲豹",
+              "kind": "最佳",
+              "seconds": 498,
+              "net": 8,
+              "names": [
+                "曹薰襄",
+                "錢肯尼",
+                "莫騰",
+                "溫布許",
+                "高錦瑋"
+              ],
+              "players": [
+                {
+                  "name": "曹薰襄",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "12",
+                      "name": "曹薰襄",
+                      "points": 15,
+                      "fgm": 6,
+                      "fga": 9,
+                      "turnovers": 0,
+                      "seconds": 1256,
+                      "ftm": 2,
+                      "fta": 4,
+                      "assists": 2,
+                      "rebounds": 2,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-15",
+                      "game": "27556",
+                      "id": "12",
+                      "name": "曹薰襄",
+                      "points": 0,
+                      "fgm": 0,
+                      "fga": 1,
+                      "turnovers": 2,
+                      "seconds": 661,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 1,
+                      "rebounds": 1,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-14",
+                      "game": "27554",
+                      "id": "12",
+                      "name": "曹薰襄",
+                      "points": 2,
+                      "fgm": 0,
+                      "fga": 3,
+                      "turnovers": 2,
+                      "seconds": 830,
+                      "ftm": 2,
+                      "fta": 2,
+                      "assists": 4,
+                      "rebounds": 2,
+                      "steals": 1,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "錢肯尼",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "14",
+                      "name": "錢肯尼",
+                      "points": 15,
+                      "fgm": 5,
+                      "fga": 14,
+                      "turnovers": 1,
+                      "seconds": 2079,
+                      "ftm": 2,
+                      "fta": 2,
+                      "assists": 3,
+                      "rebounds": 4,
+                      "steals": 4,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-15",
+                      "game": "27556",
+                      "id": "14",
+                      "name": "錢肯尼",
+                      "points": 14,
+                      "fgm": 7,
+                      "fga": 13,
+                      "turnovers": 2,
+                      "seconds": 1665,
+                      "ftm": 0,
+                      "fta": 2,
+                      "assists": 3,
+                      "rebounds": 3,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-14",
+                      "game": "27554",
+                      "id": "14",
+                      "name": "錢肯尼",
+                      "points": 13,
+                      "fgm": 5,
+                      "fga": 8,
+                      "turnovers": 0,
+                      "seconds": 1624,
+                      "ftm": 2,
+                      "fta": 3,
+                      "assists": 2,
+                      "rebounds": 3,
+                      "steals": 2,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "莫騰",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "17239",
+                      "name": "莫騰",
+                      "points": 17,
+                      "fgm": 6,
+                      "fga": 14,
+                      "turnovers": 5,
+                      "seconds": 2598,
+                      "ftm": 1,
+                      "fta": 2,
+                      "assists": 0,
+                      "rebounds": 12,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-15",
+                      "game": "27556",
+                      "id": "17239",
+                      "name": "莫騰",
+                      "points": 18,
+                      "fgm": 8,
+                      "fga": 15,
+                      "turnovers": 2,
+                      "seconds": 2006,
+                      "ftm": 2,
+                      "fta": 2,
+                      "assists": 3,
+                      "rebounds": 10,
+                      "steals": 2,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-14",
+                      "game": "27554",
+                      "id": "17239",
+                      "name": "莫騰",
+                      "points": 19,
+                      "fgm": 9,
+                      "fga": 20,
+                      "turnovers": 1,
+                      "seconds": 2442,
+                      "ftm": 0,
+                      "fta": 2,
+                      "assists": 4,
+                      "rebounds": 11,
+                      "steals": 3,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "溫布許",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "17241",
+                      "name": "溫布許",
+                      "points": 31,
+                      "fgm": 13,
+                      "fga": 25,
+                      "turnovers": 1,
+                      "seconds": 2464,
+                      "ftm": 3,
+                      "fta": 4,
+                      "assists": 1,
+                      "rebounds": 10,
+                      "steals": 3,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-15",
+                      "game": "27556",
+                      "id": "17241",
+                      "name": "溫布許",
+                      "points": 23,
+                      "fgm": 9,
+                      "fga": 16,
+                      "turnovers": 2,
+                      "seconds": 1811,
+                      "ftm": 4,
+                      "fta": 5,
+                      "assists": 1,
+                      "rebounds": 5,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-14",
+                      "game": "27554",
+                      "id": "17241",
+                      "name": "溫布許",
+                      "points": 26,
+                      "fgm": 8,
+                      "fga": 26,
+                      "turnovers": 2,
+                      "seconds": 2515,
+                      "ftm": 8,
+                      "fta": 10,
+                      "assists": 1,
+                      "rebounds": 12,
+                      "steals": 1,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "高錦瑋",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "54",
+                      "name": "高錦瑋",
+                      "points": 25,
+                      "fgm": 11,
+                      "fga": 16,
+                      "turnovers": 2,
+                      "seconds": 2219,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 7,
+                      "rebounds": 2,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-15",
+                      "game": "27556",
+                      "id": "54",
+                      "name": "高錦瑋",
+                      "points": 15,
+                      "fgm": 6,
+                      "fga": 14,
+                      "turnovers": 1,
+                      "seconds": 1987,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 3,
+                      "rebounds": 2,
+                      "steals": 2,
+                      "blocks": 1
+                    },
+                    {
+                      "date": "2026-11-14",
+                      "game": "27554",
+                      "id": "54",
+                      "name": "高錦瑋",
+                      "points": 14,
+                      "fgm": 5,
+                      "fga": 13,
+                      "turnovers": 3,
+                      "seconds": 2330,
+                      "ftm": 0,
+                      "fta": 2,
+                      "assists": 6,
+                      "rebounds": 3,
+                      "steals": 1,
+                      "blocks": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "桃園台啤永豐雲豹 最差",
+              "team": "桃園台啤永豐雲豹",
+              "kind": "最差",
+              "seconds": 978,
+              "net": -3,
+              "names": [
+                "錢肯尼",
+                "莫騰",
+                "溫布許",
+                "高錦瑋",
+                "莊博元"
+              ],
+              "players": [
+                {
+                  "name": "錢肯尼",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "14",
+                      "name": "錢肯尼",
+                      "points": 15,
+                      "fgm": 5,
+                      "fga": 14,
+                      "turnovers": 1,
+                      "seconds": 2079,
+                      "ftm": 2,
+                      "fta": 2,
+                      "assists": 3,
+                      "rebounds": 4,
+                      "steals": 4,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-15",
+                      "game": "27556",
+                      "id": "14",
+                      "name": "錢肯尼",
+                      "points": 14,
+                      "fgm": 7,
+                      "fga": 13,
+                      "turnovers": 2,
+                      "seconds": 1665,
+                      "ftm": 0,
+                      "fta": 2,
+                      "assists": 3,
+                      "rebounds": 3,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-14",
+                      "game": "27554",
+                      "id": "14",
+                      "name": "錢肯尼",
+                      "points": 13,
+                      "fgm": 5,
+                      "fga": 8,
+                      "turnovers": 0,
+                      "seconds": 1624,
+                      "ftm": 2,
+                      "fta": 3,
+                      "assists": 2,
+                      "rebounds": 3,
+                      "steals": 2,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "莫騰",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "17239",
+                      "name": "莫騰",
+                      "points": 17,
+                      "fgm": 6,
+                      "fga": 14,
+                      "turnovers": 5,
+                      "seconds": 2598,
+                      "ftm": 1,
+                      "fta": 2,
+                      "assists": 0,
+                      "rebounds": 12,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-15",
+                      "game": "27556",
+                      "id": "17239",
+                      "name": "莫騰",
+                      "points": 18,
+                      "fgm": 8,
+                      "fga": 15,
+                      "turnovers": 2,
+                      "seconds": 2006,
+                      "ftm": 2,
+                      "fta": 2,
+                      "assists": 3,
+                      "rebounds": 10,
+                      "steals": 2,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-14",
+                      "game": "27554",
+                      "id": "17239",
+                      "name": "莫騰",
+                      "points": 19,
+                      "fgm": 9,
+                      "fga": 20,
+                      "turnovers": 1,
+                      "seconds": 2442,
+                      "ftm": 0,
+                      "fta": 2,
+                      "assists": 4,
+                      "rebounds": 11,
+                      "steals": 3,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "溫布許",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "17241",
+                      "name": "溫布許",
+                      "points": 31,
+                      "fgm": 13,
+                      "fga": 25,
+                      "turnovers": 1,
+                      "seconds": 2464,
+                      "ftm": 3,
+                      "fta": 4,
+                      "assists": 1,
+                      "rebounds": 10,
+                      "steals": 3,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-15",
+                      "game": "27556",
+                      "id": "17241",
+                      "name": "溫布許",
+                      "points": 23,
+                      "fgm": 9,
+                      "fga": 16,
+                      "turnovers": 2,
+                      "seconds": 1811,
+                      "ftm": 4,
+                      "fta": 5,
+                      "assists": 1,
+                      "rebounds": 5,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-14",
+                      "game": "27554",
+                      "id": "17241",
+                      "name": "溫布許",
+                      "points": 26,
+                      "fgm": 8,
+                      "fga": 26,
+                      "turnovers": 2,
+                      "seconds": 2515,
+                      "ftm": 8,
+                      "fta": 10,
+                      "assists": 1,
+                      "rebounds": 12,
+                      "steals": 1,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "高錦瑋",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "54",
+                      "name": "高錦瑋",
+                      "points": 25,
+                      "fgm": 11,
+                      "fga": 16,
+                      "turnovers": 2,
+                      "seconds": 2219,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 7,
+                      "rebounds": 2,
+                      "steals": 0,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-15",
+                      "game": "27556",
+                      "id": "54",
+                      "name": "高錦瑋",
+                      "points": 15,
+                      "fgm": 6,
+                      "fga": 14,
+                      "turnovers": 1,
+                      "seconds": 1987,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 3,
+                      "rebounds": 2,
+                      "steals": 2,
+                      "blocks": 1
+                    },
+                    {
+                      "date": "2026-11-14",
+                      "game": "27554",
+                      "id": "54",
+                      "name": "高錦瑋",
+                      "points": 14,
+                      "fgm": 5,
+                      "fga": 13,
+                      "turnovers": 3,
+                      "seconds": 2330,
+                      "ftm": 0,
+                      "fta": 2,
+                      "assists": 6,
+                      "rebounds": 3,
+                      "steals": 1,
+                      "blocks": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "莊博元",
+                  "history": [
+                    {
+                      "date": "2026-11-27",
+                      "game": "27561",
+                      "id": "57",
+                      "name": "莊博元",
+                      "points": 1,
+                      "fgm": 0,
+                      "fga": 2,
+                      "turnovers": 0,
+                      "seconds": 1412,
+                      "ftm": 1,
+                      "fta": 2,
+                      "assists": 0,
+                      "rebounds": 2,
+                      "steals": 2,
+                      "blocks": 1
+                    },
+                    {
+                      "date": "2026-11-15",
+                      "game": "27556",
+                      "id": "57",
+                      "name": "莊博元",
+                      "points": 4,
+                      "fgm": 1,
+                      "fga": 4,
+                      "turnovers": 1,
+                      "seconds": 1309,
+                      "ftm": 2,
+                      "fta": 4,
+                      "assists": 1,
+                      "rebounds": 1,
+                      "steals": 2,
+                      "blocks": 0
+                    },
+                    {
+                      "date": "2026-11-14",
+                      "game": "27554",
+                      "id": "57",
+                      "name": "莊博元",
+                      "points": 5,
+                      "fgm": 2,
+                      "fga": 5,
+                      "turnovers": 0,
+                      "seconds": 1843,
+                      "ftm": 0,
+                      "fta": 0,
+                      "assists": 2,
+                      "rebounds": 4,
+                      "steals": 0,
+                      "blocks": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "keyPlayers": [
+            {
+              "name": "溫布許",
+              "side": "away",
+              "points": 8,
+              "assists": 1,
+              "steals": 1,
+              "blocks": 0,
+              "turnovers": 0,
+              "turnovers_valid": true
+            },
+            {
+              "name": "高錦瑋",
+              "side": "away",
+              "points": 6,
+              "assists": 1,
+              "steals": 0,
+              "blocks": 0,
+              "turnovers": 0,
+              "turnovers_valid": true
+            },
+            {
+              "name": "林俊吉",
+              "side": "home",
+              "points": 6,
+              "assists": 0,
+              "steals": 0,
+              "blocks": 0,
+              "turnovers": 0,
+              "turnovers_valid": true
+            }
+          ],
+          "playerChanges": [
+            {
+              "name": "曹薰襄",
+              "team": "桃園台啤永豐雲豹",
+              "points": 15,
+              "average": 0.6666666666666666,
+              "delta": 14.333333333333334,
+              "minutes": 20.933333333333334,
+              "previousMinutes": 13.311111111111112,
+              "fgm": 6,
+              "fga": 9
+            }
+          ],
+          "quality": "逐球與官方比分／個人主要數據已對帳。 官方事件時間不一致，按事件順序校正 12 筆；共同上場時間為重建值。"
+        },
         {
           "league": "tpbl",
           "id": "27560",
@@ -62,7 +1946,7 @@
               "ftm": 8,
               "fta": 14,
               "seconds": 14400,
-              "assists": 21,
+              "assists": 20,
               "rebounds": 39,
               "steals": 10,
               "blocks": 7,
@@ -346,10 +2230,10 @@
                 "seconds": 1924,
                 "points": 23,
                 "usg": 26.198356660377026,
-                "eff": 29,
-                "assists": 5,
+                "eff": 28,
+                "assists": 4,
                 "turnovers": 3,
-                "ast_to": 1.6666666666666667,
+                "ast_to": 1.3333333333333333,
                 "potential_assists": null,
                 "passes_made": null,
                 "passes_received": null,
@@ -498,7 +2382,7 @@
                 "home": {
                   "ts": 44.74529600734282,
                   "fta_rate": 17.28395061728395,
-                  "assisted_fg_pct": 70.0,
+                  "assisted_fg_pct": 66.66666666666667,
                   "ft_points_pct": 10.256410256410257,
                   "efg": 43.20987654320987,
                   "three_attempt_pct": 46.91358024691358,
@@ -518,7 +2402,7 @@
                     "three_attempted": 38,
                     "ftm": 8,
                     "fta": 14,
-                    "assists": 21,
+                    "assists": 20,
                     "turnovers": 15,
                     "offensive_rebounds": 13,
                     "defensive_rebounds": 30
@@ -793,7 +2677,7 @@
                       "seconds": 1924,
                       "ftm": 2,
                       "fta": 2,
-                      "assists": 5,
+                      "assists": 4,
                       "rebounds": 5,
                       "steals": 2,
                       "blocks": 3
@@ -8513,7 +10397,7 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。 官方事件時間不一致，按事件順序校正 23 筆；共同上場時間為重建值。"
         }
       ],
-      "lastSuccess": "2026-11-27T07:25:23+08:00"
+      "lastSuccess": "2026-11-28T07:05:51+08:00"
     },
     {
       "id": "plg",
@@ -11877,13 +13761,98 @@
           "quality": "資料驗證限制：陣容人數不足的秒數 746、陣容不明的得分事件 24、出手球員不在重建陣容 2、球員得分不符 1、球員命中數不符 1、球員出手數不符 1、球員失誤紀錄不符 1；受影響指標停止判定。 官方事件時間不一致，按事件順序校正 6 筆；共同上場時間為重建值。"
         }
       ],
-      "lastSuccess": "2026-11-27T07:25:23+08:00"
+      "lastSuccess": "2026-11-28T07:05:51+08:00"
     },
     {
       "id": "b",
       "name": "日本 B.LEAGUE（最高級別）",
       "source": "https://www.bleague.jp/schedule/",
-      "upcoming": [],
+      "upcoming": [
+        {
+          "league": "b",
+          "id": "506612",
+          "date": "2026-12-04",
+          "home": "横浜BC",
+          "away": "島根",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506612",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506613",
+          "date": "2026-12-04",
+          "home": "三遠",
+          "away": "北海道",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506613",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506615",
+          "date": "2026-12-04",
+          "home": "名古屋D",
+          "away": "長崎",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506615",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506616",
+          "date": "2026-12-04",
+          "home": "滋賀",
+          "away": "A東京",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506616",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506617",
+          "date": "2026-12-04",
+          "home": "佐賀",
+          "away": "富山",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506617",
+          "time": "18:05",
+          "complete": false
+        },
+        {
+          "league": "b",
+          "id": "506614",
+          "date": "2026-12-04",
+          "home": "三河",
+          "away": "宇都宮",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.bleague.jp/game_detail/?ScheduleKey=506614",
+          "time": "18:35",
+          "complete": false
+        }
+      ],
       "recent": [
         {
           "league": "b",
@@ -28502,13 +30471,122 @@
           "quality": "逐球與官方比分／個人主要數據已對帳。"
         }
       ],
-      "lastSuccess": "2026-11-27T07:25:23+08:00"
+      "lastSuccess": "2026-11-28T07:05:51+08:00"
     },
     {
       "id": "cba",
       "name": "CBA",
       "source": "https://www.cbaleague.com/data/",
-      "upcoming": [],
+      "upcoming": [
+        {
+          "league": "cba",
+          "id": "100111011",
+          "date": "2026-12-04",
+          "home": "江苏肯帝亚",
+          "away": "四川锦城",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100111011&date=2026-12-04&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第9轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100111015",
+          "date": "2026-12-04",
+          "home": "长白山恩都里",
+          "away": "辽宁本钢",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100111015&date=2026-12-04&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第9轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100111018",
+          "date": "2026-12-04",
+          "home": "宁波町渥",
+          "away": "南京同曦宙光",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100111018&date=2026-12-04&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第9轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100111020",
+          "date": "2026-12-04",
+          "home": "浙江浙商证券",
+          "away": "山东高速",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100111020&date=2026-12-04&isToMatch=0",
+          "time": "19:35",
+          "complete": false,
+          "competition": "常规赛第9轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100111009",
+          "date": "2026-12-04",
+          "home": "广东东阳光",
+          "away": "深圳马可波罗",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100111009&date=2026-12-04&isToMatch=0",
+          "time": "20:00",
+          "complete": false,
+          "competition": "常规赛第9轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        },
+        {
+          "league": "cba",
+          "id": "100111019",
+          "date": "2026-12-04",
+          "home": "新疆广汇能源",
+          "away": "上海久事",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://www.cbaleague.com/data/#/gameReport?scheduleId=100111019&date=2026-12-04&isToMatch=0",
+          "time": "20:00",
+          "complete": false,
+          "competition": "常规赛第9轮",
+          "season": 2026,
+          "quarter": null,
+          "analysisOnly": true
+        }
+      ],
       "recent": [
         {
           "league": "cba",
@@ -34008,7 +36086,7 @@
           "quality": "資料驗證限制：出手球員不在重建陣容 23、陣容人數不足的秒數 1083、陣容不明的得分事件 47、球員出手數不符 7、球員失誤紀錄不符 4、缺少事件時間 1；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-11-27T07:25:23+08:00"
+      "lastSuccess": "2026-11-28T07:05:51+08:00"
     },
     {
       "id": "nbl",
@@ -34052,6 +36130,44 @@
           "periodSeconds": 600,
           "homeId": "f8185bc5-2674-4293-a2a7-aeb8c7549b30",
           "awayId": "bc5327d5-322e-4796-b103-4c3b63869edb"
+        },
+        {
+          "league": "nbl",
+          "id": "37509e79-58ad-11f1-9e3b-fbbd24deadd3",
+          "date": "2026-12-04",
+          "home": "NZ Breakers",
+          "away": "Melbourne United",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://schedule.nbl.com.au/match?league=NBL&match=37509e79-58ad-11f1-9e3b-fbbd24deadd3&year=2026&season=67d4a190-40bc-4bfb-a9a2-11bd0b93f020",
+          "time": "14:30",
+          "complete": false,
+          "season": "2026–27",
+          "competition": "澳洲 NBL",
+          "periodSeconds": 600,
+          "homeId": "bbae77db-317d-4c17-aa04-75d53d20ad15",
+          "awayId": "41c8f340-4d0a-4d68-a3c7-1b31f643f803"
+        },
+        {
+          "league": "nbl",
+          "id": "3751fcc5-58ad-11f1-a32f-279e256f2655",
+          "date": "2026-12-04",
+          "home": "Illawarra Hawks",
+          "away": "Sydney Kings",
+          "score": [
+            null,
+            null
+          ],
+          "source": "https://schedule.nbl.com.au/match?league=NBL&match=3751fcc5-58ad-11f1-a32f-279e256f2655&year=2026&season=67d4a190-40bc-4bfb-a9a2-11bd0b93f020",
+          "time": "16:30",
+          "complete": false,
+          "season": "2026–27",
+          "competition": "澳洲 NBL",
+          "periodSeconds": 600,
+          "homeId": "105249a3-251d-4a9d-94f4-f57b8e0854b3",
+          "awayId": "39fc4268-0cdf-455f-9ca1-12e344064000"
         }
       ],
       "recent": [
@@ -37285,7 +39401,7 @@
           "quality": "資料驗證限制：出手球員不在重建陣容 9、事件時間倒退 48、缺少事件時間 2；受影響指標停止判定。"
         }
       ],
-      "lastSuccess": "2026-11-27T07:25:23+08:00"
+      "lastSuccess": "2026-11-28T07:05:51+08:00"
     }
   ],
   "news": [
@@ -37306,7 +39422,7 @@
           "url": "https://www.easl.basketball/news/game-recap-busan-kcc-dominates-with-wire-to-wire-win-over-macau-hou-chon"
         }
       ],
-      "lastSuccess": "2026-11-27T07:25:23+08:00"
+      "lastSuccess": "2026-11-28T07:05:51+08:00"
     },
     {
       "name": "CBA",
@@ -37328,12 +39444,16 @@
           "date": "2026-11-21"
         }
       ],
-      "lastSuccess": "2026-11-27T07:25:23+08:00"
+      "lastSuccess": "2026-11-28T07:05:51+08:00"
     },
     {
       "name": "FIBA 亞洲賽事",
       "source": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news",
       "items": [
+        {
+          "title": "What happened on November 27",
+          "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/2027-wcq-asia-november-27-game-center"
+        },
         {
           "title": "Hiejima sparks visiting Japan over Lebanon",
           "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/lebanon-vs-japan-window-5-asian-qualifiers-world-cup-2027-makoto-hiejima"
@@ -37341,13 +39461,9 @@
         {
           "title": "Saudi Arabia shock China",
           "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/saudi-arabia-vs-china-window-5-asian-qualifiers-world-cup-2027"
-        },
-        {
-          "title": "What happened on November 26",
-          "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/2027-wcq-asia-november-26-game-center"
         }
       ],
-      "lastSuccess": "2026-11-27T07:25:23+08:00"
+      "lastSuccess": "2026-11-28T07:05:51+08:00"
     }
   ],
   "guides": [
@@ -37456,6 +39572,7 @@
         }
       ],
       "teams": [
+        "A千葉",
         "A東京",
         "三河",
         "三遠",
@@ -37479,6 +39596,7 @@
         "神戸",
         "秋田",
         "群馬",
+        "茨城",
         "長崎"
       ],
       "players": [

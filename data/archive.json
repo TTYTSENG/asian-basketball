@@ -472241,7 +472241,7 @@
           "seconds": 1924,
           "ftm": 2,
           "fta": 2,
-          "assists": 5,
+          "assists": 4,
           "rebounds": 5,
           "steals": 2,
           "blocks": 3
@@ -472514,7 +472514,7 @@
         "ftm": 8,
         "fta": 14,
         "seconds": 14400,
-        "assists": 21,
+        "assists": 20,
         "rebounds": 39,
         "steals": 10,
         "blocks": 7,
@@ -477562,15 +477562,6 @@
       {
         "period": 4,
         "sec": 83,
-        "side": "home",
-        "pid": "107",
-        "name": "霍爾曼",
-        "kind": "AST",
-        "pts": 0
-      },
-      {
-        "period": 4,
-        "sec": 83,
         "side": "away",
         "pid": "10885",
         "name": "劉丞勳",
@@ -478046,7 +478037,7 @@
             "turnovers": 3,
             "fgm": 8,
             "fga": 14,
-            "assists": 5,
+            "assists": 4,
             "steals": 2,
             "blocks": 3
           },
@@ -478436,10 +478427,10 @@
           "seconds": 1924,
           "points": 23,
           "usg": 26.198356660377026,
-          "eff": 29,
-          "assists": 5,
+          "eff": 28,
+          "assists": 4,
           "turnovers": 3,
-          "ast_to": 1.6666666666666667,
+          "ast_to": 1.3333333333333333,
           "potential_assists": null,
           "passes_made": null,
           "passes_received": null,
@@ -478588,7 +478579,7 @@
           "home": {
             "ts": 44.74529600734282,
             "fta_rate": 17.28395061728395,
-            "assisted_fg_pct": 70.0,
+            "assisted_fg_pct": 66.66666666666667,
             "ft_points_pct": 10.256410256410257,
             "efg": 43.20987654320987,
             "three_attempt_pct": 46.91358024691358,
@@ -478608,7 +478599,7 @@
               "three_attempted": 38,
               "ftm": 8,
               "fta": 14,
-              "assists": 21,
+              "assists": 20,
               "turnovers": 15,
               "offensive_rebounds": 13,
               "defensive_rebounds": 30
@@ -478781,6 +478772,6707 @@
         ],
         "excluded": 4,
         "total": 7
+      }
+    }
+  },
+  "tpbl:27561": {
+    "league": "tpbl",
+    "id": "27561",
+    "date": "2026-11-27",
+    "home": "福爾摩沙夢想家",
+    "away": "桃園台啤永豐雲豹",
+    "score": [
+      110,
+      107
+    ],
+    "source": "https://tpbl.basketball/games/27561",
+    "time": "19:00",
+    "complete": true,
+    "division": 656,
+    "players": {
+      "home": [
+        {
+          "id": "73",
+          "name": "陳振傑",
+          "points": 16,
+          "fgm": 6,
+          "fga": 11,
+          "turnovers": 1,
+          "seconds": 1755,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 2,
+          "rebounds": 11,
+          "steals": 1,
+          "blocks": 0
+        },
+        {
+          "id": "79",
+          "name": "張宗憲",
+          "points": 19,
+          "fgm": 9,
+          "fga": 16,
+          "turnovers": 3,
+          "seconds": 2091,
+          "ftm": 1,
+          "fta": 3,
+          "assists": 3,
+          "rebounds": 3,
+          "steals": 0,
+          "blocks": 2
+        },
+        {
+          "id": "83",
+          "name": "吳家駿",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0
+        },
+        {
+          "id": "10869",
+          "name": "基德",
+          "points": 22,
+          "fgm": 9,
+          "fga": 16,
+          "turnovers": 1,
+          "seconds": 2313,
+          "ftm": 1,
+          "fta": 2,
+          "assists": 4,
+          "rebounds": 11,
+          "steals": 0,
+          "blocks": 1
+        },
+        {
+          "id": "86",
+          "name": "林俊吉",
+          "points": 16,
+          "fgm": 4,
+          "fga": 7,
+          "turnovers": 3,
+          "seconds": 1054,
+          "ftm": 7,
+          "fta": 8,
+          "assists": 1,
+          "rebounds": 3,
+          "steals": 0,
+          "blocks": 0
+        },
+        {
+          "id": "91",
+          "name": "簡偉儒",
+          "points": 1,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 547,
+          "ftm": 1,
+          "fta": 2,
+          "assists": 0,
+          "rebounds": 1,
+          "steals": 1,
+          "blocks": 0
+        },
+        {
+          "id": "97",
+          "name": "史承平",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0
+        },
+        {
+          "id": "106",
+          "name": "高柏鎧",
+          "points": 8,
+          "fgm": 4,
+          "fga": 6,
+          "turnovers": 2,
+          "seconds": 2034,
+          "ftm": 0,
+          "fta": 2,
+          "assists": 1,
+          "rebounds": 8,
+          "steals": 0,
+          "blocks": 3
+        },
+        {
+          "id": "107",
+          "name": "霍爾曼",
+          "points": 14,
+          "fgm": 5,
+          "fga": 15,
+          "turnovers": 3,
+          "seconds": 1401,
+          "ftm": 4,
+          "fta": 5,
+          "assists": 2,
+          "rebounds": 4,
+          "steals": 2,
+          "blocks": 1
+        },
+        {
+          "id": "89",
+          "name": "蔣淯安",
+          "points": 12,
+          "fgm": 4,
+          "fga": 8,
+          "turnovers": 0,
+          "seconds": 2069,
+          "ftm": 2,
+          "fta": 2,
+          "assists": 7,
+          "rebounds": 1,
+          "steals": 4,
+          "blocks": 0
+        },
+        {
+          "id": "103",
+          "name": "忻沃克",
+          "points": 2,
+          "fgm": 0,
+          "fga": 6,
+          "turnovers": 1,
+          "seconds": 1136,
+          "ftm": 2,
+          "fta": 2,
+          "assists": 1,
+          "rebounds": 8,
+          "steals": 0,
+          "blocks": 0
+        },
+        {
+          "id": "101",
+          "name": "周柏臣",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0
+        }
+      ],
+      "away": [
+        {
+          "id": "54",
+          "name": "高錦瑋",
+          "points": 25,
+          "fgm": 11,
+          "fga": 16,
+          "turnovers": 2,
+          "seconds": 2219,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 7,
+          "rebounds": 2,
+          "steals": 0,
+          "blocks": 0
+        },
+        {
+          "id": "10884",
+          "name": "徐宏瑋",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0
+        },
+        {
+          "id": "55",
+          "name": "汪哲宇",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0
+        },
+        {
+          "id": "4",
+          "name": "張兆辰",
+          "points": 0,
+          "fgm": 0,
+          "fga": 3,
+          "turnovers": 0,
+          "seconds": 581,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 1,
+          "steals": 1,
+          "blocks": 0
+        },
+        {
+          "id": "17239",
+          "name": "莫騰",
+          "points": 17,
+          "fgm": 6,
+          "fga": 14,
+          "turnovers": 5,
+          "seconds": 2598,
+          "ftm": 1,
+          "fta": 2,
+          "assists": 0,
+          "rebounds": 12,
+          "steals": 0,
+          "blocks": 0
+        },
+        {
+          "id": "57",
+          "name": "莊博元",
+          "points": 1,
+          "fgm": 0,
+          "fga": 2,
+          "turnovers": 0,
+          "seconds": 1412,
+          "ftm": 1,
+          "fta": 2,
+          "assists": 0,
+          "rebounds": 2,
+          "steals": 2,
+          "blocks": 1
+        },
+        {
+          "id": "58",
+          "name": "林信寬",
+          "points": 0,
+          "fgm": 0,
+          "fga": 3,
+          "turnovers": 0,
+          "seconds": 888,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 1,
+          "rebounds": 3,
+          "steals": 0,
+          "blocks": 0
+        },
+        {
+          "id": "17240",
+          "name": "蓋比",
+          "points": 3,
+          "fgm": 1,
+          "fga": 4,
+          "turnovers": 1,
+          "seconds": 698,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 1,
+          "steals": 0,
+          "blocks": 1
+        },
+        {
+          "id": "17241",
+          "name": "溫布許",
+          "points": 31,
+          "fgm": 13,
+          "fga": 25,
+          "turnovers": 1,
+          "seconds": 2464,
+          "ftm": 3,
+          "fta": 4,
+          "assists": 1,
+          "rebounds": 10,
+          "steals": 3,
+          "blocks": 0
+        },
+        {
+          "id": "14",
+          "name": "錢肯尼",
+          "points": 15,
+          "fgm": 5,
+          "fga": 14,
+          "turnovers": 1,
+          "seconds": 2079,
+          "ftm": 2,
+          "fta": 2,
+          "assists": 3,
+          "rebounds": 4,
+          "steals": 4,
+          "blocks": 0
+        },
+        {
+          "id": "60",
+          "name": "黃鎮",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0
+        },
+        {
+          "id": "3129",
+          "name": "董永全",
+          "points": 0,
+          "fgm": 0,
+          "fga": 1,
+          "turnovers": 0,
+          "seconds": 205,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0
+        },
+        {
+          "id": "12",
+          "name": "曹薰襄",
+          "points": 15,
+          "fgm": 6,
+          "fga": 9,
+          "turnovers": 0,
+          "seconds": 1256,
+          "ftm": 2,
+          "fta": 4,
+          "assists": 2,
+          "rebounds": 2,
+          "steals": 0,
+          "blocks": 0
+        },
+        {
+          "id": "64",
+          "name": "劉元凱",
+          "points": 0,
+          "fgm": 0,
+          "fga": 0,
+          "turnovers": 0,
+          "seconds": 0,
+          "ftm": 0,
+          "fta": 0,
+          "assists": 0,
+          "rebounds": 0,
+          "steals": 0,
+          "blocks": 0
+        }
+      ]
+    },
+    "stats": {
+      "home": {
+        "points": 110,
+        "fgm": 41,
+        "fga": 85,
+        "turnovers": 14,
+        "ftm": 18,
+        "fta": 26,
+        "seconds": 14400,
+        "assists": 21,
+        "rebounds": 50,
+        "steals": 8,
+        "blocks": 7,
+        "three_made": 10,
+        "three_attempted": 30,
+        "offensive_rebounds": 14,
+        "defensive_rebounds": 40,
+        "paint_points": 54,
+        "second_chance_points": 12,
+        "fast_break_points": 5
+      },
+      "away": {
+        "points": 107,
+        "fgm": 42,
+        "fga": 91,
+        "turnovers": 10,
+        "ftm": 9,
+        "fta": 14,
+        "seconds": 14400,
+        "assists": 14,
+        "rebounds": 37,
+        "steals": 10,
+        "blocks": 2,
+        "three_made": 14,
+        "three_attempted": 36,
+        "offensive_rebounds": 11,
+        "defensive_rebounds": 31,
+        "paint_points": 48,
+        "second_chance_points": 10,
+        "fast_break_points": 17
+      }
+    },
+    "statsSource": "https://api.tpbl.basketball/api/games/27561/stats",
+    "events": [
+      {
+        "period": 1,
+        "sec": 720,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 720,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 720,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 720,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 720,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 720,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 720,
+        "side": "away",
+        "pid": "58",
+        "name": "林信寬",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 720,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 720,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 720,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 701,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 699,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 677,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 652,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 650,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 648,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 638,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 637,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 636,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 613,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 610,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 608,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 605,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 589,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 587,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 576,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 574,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 568,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 568,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 556,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 542,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 539,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 539,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 525,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 523,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 521,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 521,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 521,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 521,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 503,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 500,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 499,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 498,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 489,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 487,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 481,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 478,
+        "side": "away",
+        "pid": "58",
+        "name": "林信寬",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 478,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 465,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 463,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 448,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 422,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 419,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 408,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 406,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 397,
+        "side": "away",
+        "pid": "58",
+        "name": "林信寬",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 396,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 385,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 385,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 384,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 384,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 384,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 384,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 384,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 384,
+        "side": "home",
+        "pid": "91",
+        "name": "簡偉儒",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 384,
+        "side": "away",
+        "pid": "58",
+        "name": "林信寬",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 384,
+        "side": "away",
+        "pid": "4",
+        "name": "張兆辰",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 371,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 370,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 358,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 358,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 337,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 337,
+        "side": "away",
+        "pid": "4",
+        "name": "張兆辰",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 324,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 324,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 324,
+        "side": "home",
+        "pid": "91",
+        "name": "簡偉儒",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 324,
+        "side": "home",
+        "pid": "91",
+        "name": "簡偉儒",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 324,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 324,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 324,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 324,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 309,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 307,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 291,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 288,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 288,
+        "side": "away",
+        "pid": "4",
+        "name": "張兆辰",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 288,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 288,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 287,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 287,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 280,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 267,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 266,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 257,
+        "side": "away",
+        "pid": "4",
+        "name": "張兆辰",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 256,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 245,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 235,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 232,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 221,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 212,
+        "side": "away",
+        "pid": "4",
+        "name": "張兆辰",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 210,
+        "side": "home",
+        "pid": "91",
+        "name": "簡偉儒",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 202,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 192,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 183,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 183,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 174,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 172,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 167,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 166,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 164,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 154,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 154,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 152,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 152,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 130,
+        "side": "away",
+        "pid": "4",
+        "name": "張兆辰",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 130,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 110,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 108,
+        "side": "home",
+        "pid": "91",
+        "name": "簡偉儒",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 95,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 95,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 95,
+        "side": "away",
+        "pid": "4",
+        "name": "張兆辰",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 95,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 95,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 95,
+        "side": "away",
+        "pid": "3129",
+        "name": "董永全",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 95,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 95,
+        "side": "home",
+        "pid": "91",
+        "name": "簡偉儒",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 95,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 95,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 95,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 95,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 75,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 74,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 70,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 68,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 1,
+        "sec": 59,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 59,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 42,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 40,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 39,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 1,
+        "sec": 39,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 37,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 15,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 13,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 1,
+        "sec": 4,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 1,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "side": "away",
+        "pid": "3129",
+        "name": "董永全",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 1,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 720,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 720,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 720,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 720,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 720,
+        "side": "away",
+        "pid": "3129",
+        "name": "董永全",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 720,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 720,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 720,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 720,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 720,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 704,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 702,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 700,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 671,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 670,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 654,
+        "side": "away",
+        "pid": "3129",
+        "name": "董永全",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 652,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 645,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 643,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 628,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 625,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 625,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 623,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 621,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 610,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 610,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 610,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 610,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 610,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 610,
+        "side": "away",
+        "pid": "3129",
+        "name": "董永全",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 610,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 610,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 610,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 610,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 603,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 601,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 584,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 574,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 573,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 567,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 566,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 552,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 550,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 548,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 546,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 530,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 530,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 529,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 511,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 511,
+        "side": "away",
+        "pid": "58",
+        "name": "林信寬",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 507,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 506,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 491,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 489,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 475,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 475,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 475,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 475,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 459,
+        "side": "away",
+        "pid": "58",
+        "name": "林信寬",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 456,
+        "side": "away",
+        "pid": "58",
+        "name": "林信寬",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 455,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 454,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 453,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 440,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 432,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 412,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 410,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 407,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 405,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 385,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 385,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 384,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 382,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 379,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 357,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 355,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 354,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 354,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 354,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 354,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 354,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 354,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 346,
+        "side": "away",
+        "pid": "58",
+        "name": "林信寬",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 345,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 327,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 326,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 326,
+        "side": "away",
+        "pid": "58",
+        "name": "林信寬",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 326,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 326,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 312,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 296,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 278,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 267,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 265,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 242,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 241,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 235,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 232,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 225,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 215,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 198,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 197,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 186,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 184,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 184,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 167,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 165,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 2,
+        "sec": 153,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 152,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 138,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 137,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 118,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 117,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 116,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 116,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 113,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 113,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 113,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 113,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 100,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 96,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 96,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 78,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 58,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 56,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 56,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 56,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 56,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 56,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 56,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 40,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 10,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 9,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 7,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 5,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 2,
+        "sec": 2,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 1,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 1,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 2,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 720,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 720,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 720,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 720,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 720,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 720,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 720,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 720,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 720,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 720,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 700,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 681,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 678,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 663,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 662,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 656,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 654,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 652,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 651,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 627,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 626,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 612,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 610,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 609,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 607,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 606,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 606,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 589,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 587,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 579,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 578,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 571,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 569,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 535,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 528,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 526,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 519,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 517,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 499,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 499,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 488,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 488,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 488,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 477,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 475,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 474,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 469,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 465,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 465,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 456,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 455,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 445,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 443,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 430,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 429,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 412,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 411,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 389,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 389,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 389,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 389,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 389,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 389,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 389,
+        "side": "away",
+        "pid": "58",
+        "name": "林信寬",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 389,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 381,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 361,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 361,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 350,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 336,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 334,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 332,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 332,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 332,
+        "side": "home",
+        "pid": "91",
+        "name": "簡偉儒",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 332,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 332,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 332,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 332,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 317,
+        "side": "away",
+        "pid": "58",
+        "name": "林信寬",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 316,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 309,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 307,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 292,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 292,
+        "side": "away",
+        "pid": "4",
+        "name": "張兆辰",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 279,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 268,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 267,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 267,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 267,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 267,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 267,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 242,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 241,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 227,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 224,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 203,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 191,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 180,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 178,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 173,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 171,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 160,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 160,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 160,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 160,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 148,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 146,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 144,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 136,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 136,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 129,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 128,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 128,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 109,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 109,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 80,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 78,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 74,
+        "side": "home",
+        "pid": "91",
+        "name": "簡偉儒",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 74,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 74,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 74,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 74,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 59,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 57,
+        "side": "away",
+        "pid": "58",
+        "name": "林信寬",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 36,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 34,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 3,
+        "sec": 26,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 24,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 22,
+        "side": "away",
+        "pid": "58",
+        "name": "林信寬",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 22,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 22,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 22,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 3,
+        "sec": 22,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 22,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 10,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "side": "away",
+        "pid": "4",
+        "name": "張兆辰",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "side": "away",
+        "pid": "17240",
+        "name": "蓋比",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 3,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 720,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 720,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 720,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 720,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 720,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 720,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 720,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 720,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 720,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 720,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 710,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 710,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 694,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 693,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 687,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 686,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 673,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 671,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 642,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 641,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 634,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 617,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 617,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 617,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 610,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 610,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 610,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 610,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 610,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 598,
+        "side": "home",
+        "pid": "103",
+        "name": "忻沃克",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 598,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 589,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 588,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 570,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 569,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 546,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 546,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 529,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 527,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 522,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 507,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 503,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 495,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 470,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 468,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 459,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 456,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 450,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 450,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 436,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 435,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 419,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 419,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 406,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 405,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 395,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 394,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 370,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 370,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 360,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 359,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 337,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 335,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 332,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 331,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 321,
+        "side": "away",
+        "pid": "12",
+        "name": "曹薰襄",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 321,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 321,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 321,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 316,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 315,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 312,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 284,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 282,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 273,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 270,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 258,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 256,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 250,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 250,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 244,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 228,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 228,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 214,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 212,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "AST",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 198,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 188,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 176,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "STL",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 172,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 172,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "TOV",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 172,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 155,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 146,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 146,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 143,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 142,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 131,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "FG3",
+        "pts": 3
+      },
+      {
+        "period": 4,
+        "sec": 116,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 116,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 100,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 99,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 96,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 72,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 72,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 72,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 67,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 67,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 67,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 64,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 62,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "OREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 60,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "M2",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 59,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 55,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 35,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 35,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 21,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 18,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 18,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 17,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 17,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 17,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 7,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "FG2",
+        "pts": 2
+      },
+      {
+        "period": 4,
+        "sec": 6,
+        "side": "home",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 6,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 6,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 6,
+        "side": "home",
+        "pid": "106",
+        "name": "高柏鎧",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 6,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 5,
+        "side": "home",
+        "pid": "86",
+        "name": "林俊吉",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 5,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "IN",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 5,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "BLK",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 5,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "FTX",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 5,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "FT",
+        "pts": 1
+      },
+      {
+        "period": 4,
+        "sec": 5,
+        "side": "away",
+        "pid": "",
+        "name": "",
+        "kind": "TIMEOUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 1,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "M3",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "DREB",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "side": "home",
+        "pid": "73",
+        "name": "陳振傑",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "side": "home",
+        "pid": "79",
+        "name": "張宗憲",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "side": "home",
+        "pid": "10869",
+        "name": "基德",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "side": "home",
+        "pid": "107",
+        "name": "霍爾曼",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "side": "home",
+        "pid": "89",
+        "name": "蔣淯安",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "side": "away",
+        "pid": "54",
+        "name": "高錦瑋",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "side": "away",
+        "pid": "17239",
+        "name": "莫騰",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "side": "away",
+        "pid": "57",
+        "name": "莊博元",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "side": "away",
+        "pid": "17241",
+        "name": "溫布許",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "side": "away",
+        "pid": "14",
+        "name": "錢肯尼",
+        "kind": "OUT",
+        "pts": 0
+      },
+      {
+        "period": 4,
+        "sec": 0,
+        "kind": "END",
+        "side": null,
+        "pid": "",
+        "pts": 0
+      }
+    ],
+    "report": {
+      "key": [
+        "溫布許：8 分、1 助攻、1 抄截、0 阻攻、0 失誤",
+        "高錦瑋：6 分、1 助攻、0 抄截、0 阻攻、0 失誤",
+        "林俊吉：6 分、0 助攻、0 抄截、0 阻攻、0 失誤"
+      ],
+      "keyPlayers": [
+        {
+          "name": "溫布許",
+          "side": "away",
+          "points": 8,
+          "assists": 1,
+          "steals": 1,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "高錦瑋",
+          "side": "away",
+          "points": 6,
+          "assists": 1,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        },
+        {
+          "name": "林俊吉",
+          "side": "home",
+          "points": 6,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "turnovers_valid": true
+        }
+      ],
+      "lineups": [
+        {
+          "side": "home",
+          "label": "最佳",
+          "ids": [
+            "106",
+            "10869",
+            "73",
+            "79",
+            "89"
+          ],
+          "seconds": 782,
+          "net": 5
+        },
+        {
+          "side": "home",
+          "label": "最差",
+          "ids": [
+            "103",
+            "106",
+            "107",
+            "86",
+            "91"
+          ],
+          "seconds": 422,
+          "net": -7
+        },
+        {
+          "side": "away",
+          "label": "最佳",
+          "ids": [
+            "12",
+            "14",
+            "17239",
+            "17241",
+            "54"
+          ],
+          "seconds": 498,
+          "net": 8
+        },
+        {
+          "side": "away",
+          "label": "最差",
+          "ids": [
+            "14",
+            "17239",
+            "17241",
+            "54",
+            "57"
+          ],
+          "seconds": 978,
+          "net": -3
+        }
+      ],
+      "issues": {},
+      "counts": {
+        "home": {
+          "79": {
+            "points": 19,
+            "turnovers": 3,
+            "fgm": 9,
+            "fga": 16,
+            "assists": 3,
+            "steals": 0,
+            "blocks": 2
+          },
+          "10869": {
+            "points": 22,
+            "turnovers": 1,
+            "fgm": 9,
+            "fga": 16,
+            "assists": 4,
+            "steals": 0,
+            "blocks": 1
+          },
+          "106": {
+            "points": 8,
+            "turnovers": 2,
+            "fgm": 4,
+            "fga": 6,
+            "assists": 1,
+            "steals": 0,
+            "blocks": 3
+          },
+          "73": {
+            "points": 16,
+            "turnovers": 1,
+            "fgm": 6,
+            "fga": 11,
+            "assists": 2,
+            "steals": 1,
+            "blocks": 0
+          },
+          "89": {
+            "points": 12,
+            "turnovers": 0,
+            "fgm": 4,
+            "fga": 8,
+            "assists": 7,
+            "steals": 4,
+            "blocks": 0
+          },
+          "103": {
+            "points": 2,
+            "turnovers": 1,
+            "fgm": 0,
+            "fga": 6,
+            "assists": 1,
+            "steals": 0,
+            "blocks": 0
+          },
+          "91": {
+            "points": 1,
+            "turnovers": 0,
+            "fgm": 0,
+            "fga": 0,
+            "assists": 0,
+            "steals": 1,
+            "blocks": 0
+          },
+          "86": {
+            "points": 16,
+            "turnovers": 3,
+            "fgm": 4,
+            "fga": 7,
+            "assists": 1,
+            "steals": 0,
+            "blocks": 0
+          },
+          "107": {
+            "points": 14,
+            "turnovers": 3,
+            "fgm": 5,
+            "fga": 15,
+            "assists": 2,
+            "steals": 2,
+            "blocks": 1
+          },
+          "83": {},
+          "97": {},
+          "101": {}
+        },
+        "away": {
+          "17241": {
+            "points": 31,
+            "turnovers": 1,
+            "fgm": 13,
+            "fga": 25,
+            "assists": 1,
+            "steals": 3,
+            "blocks": 0
+          },
+          "14": {
+            "points": 15,
+            "turnovers": 1,
+            "fgm": 5,
+            "fga": 14,
+            "assists": 3,
+            "steals": 4,
+            "blocks": 0
+          },
+          "54": {
+            "points": 25,
+            "turnovers": 2,
+            "fgm": 11,
+            "fga": 16,
+            "assists": 7,
+            "steals": 0,
+            "blocks": 0
+          },
+          "17239": {
+            "points": 17,
+            "turnovers": 5,
+            "fgm": 6,
+            "fga": 14,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0
+          },
+          "58": {
+            "points": 0,
+            "turnovers": 0,
+            "fgm": 0,
+            "fga": 3,
+            "assists": 1,
+            "steals": 0,
+            "blocks": 0
+          },
+          "4": {
+            "points": 0,
+            "turnovers": 0,
+            "fgm": 0,
+            "fga": 3,
+            "assists": 0,
+            "steals": 1,
+            "blocks": 0
+          },
+          "12": {
+            "points": 15,
+            "turnovers": 0,
+            "fgm": 6,
+            "fga": 9,
+            "assists": 2,
+            "steals": 0,
+            "blocks": 0
+          },
+          "17240": {
+            "points": 3,
+            "turnovers": 1,
+            "fgm": 1,
+            "fga": 4,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 1
+          },
+          "57": {
+            "points": 1,
+            "turnovers": 0,
+            "fgm": 0,
+            "fga": 2,
+            "assists": 0,
+            "steals": 2,
+            "blocks": 1
+          },
+          "3129": {
+            "points": 0,
+            "turnovers": 0,
+            "fgm": 0,
+            "fga": 1,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0
+          },
+          "10884": {},
+          "55": {},
+          "60": {},
+          "64": {}
+        }
+      }
+    },
+    "clockCorrections": 12,
+    "pbpSource": "https://api.tpbl.basketball/api/games/27561/broadcasts",
+    "statsVersion": 2,
+    "advanced": {
+      "players": [
+        {
+          "id": "17241",
+          "side": "away",
+          "name": "溫布許",
+          "seconds": 2464,
+          "points": 31,
+          "usg": 30.27879175695525,
+          "eff": 31,
+          "assists": 1,
+          "turnovers": 1,
+          "ast_to": 1.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "12",
+          "side": "away",
+          "name": "曹薰襄",
+          "seconds": 1256,
+          "points": 15,
+          "usg": 23.024086846741465,
+          "eff": 14,
+          "assists": 2,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "54",
+          "side": "away",
+          "name": "高錦瑋",
+          "seconds": 2219,
+          "points": 25,
+          "usg": 21.800928255264648,
+          "eff": 27,
+          "assists": 7,
+          "turnovers": 2,
+          "ast_to": 3.5,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "17239",
+          "side": "away",
+          "name": "莫騰",
+          "seconds": 2598,
+          "points": 17,
+          "usg": 20.565393139868988,
+          "eff": 15,
+          "assists": 0,
+          "turnovers": 5,
+          "ast_to": 0.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "14",
+          "side": "away",
+          "name": "錢肯尼",
+          "seconds": 2079,
+          "points": 15,
+          "usg": 20.528432622497572,
+          "eff": 16,
+          "assists": 3,
+          "turnovers": 1,
+          "ast_to": 3.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "17240",
+          "side": "away",
+          "name": "蓋比",
+          "seconds": 698,
+          "points": 3,
+          "usg": 19.251934017204814,
+          "eff": 1,
+          "assists": 0,
+          "turnovers": 1,
+          "ast_to": 0.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "4",
+          "side": "away",
+          "name": "張兆辰",
+          "seconds": 581,
+          "points": 0,
+          "usg": 13.877297704656412,
+          "eff": -1,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "3129",
+          "side": "away",
+          "name": "董永全",
+          "seconds": 205,
+          "points": 0,
+          "usg": 13.110097506350204,
+          "eff": -1,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "58",
+          "side": "away",
+          "name": "林信寬",
+          "seconds": 888,
+          "points": 0,
+          "usg": 9.079628340546593,
+          "eff": 1,
+          "assists": 1,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "57",
+          "side": "away",
+          "name": "莊博元",
+          "seconds": 1412,
+          "points": 1,
+          "usg": 5.481729155629718,
+          "eff": 3,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "107",
+          "side": "home",
+          "name": "霍爾曼",
+          "seconds": 1401,
+          "points": 14,
+          "usg": 37.59926228510137,
+          "eff": 9,
+          "assists": 2,
+          "turnovers": 3,
+          "ast_to": 0.6666666666666666,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "86",
+          "side": "home",
+          "name": "林俊吉",
+          "seconds": 1054,
+          "points": 16,
+          "usg": 33.450465861240225,
+          "eff": 13,
+          "assists": 1,
+          "turnovers": 3,
+          "ast_to": 0.3333333333333333,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "79",
+          "side": "home",
+          "name": "張宗憲",
+          "seconds": 2091,
+          "points": 19,
+          "usg": 25.341700889152403,
+          "eff": 15,
+          "assists": 3,
+          "turnovers": 3,
+          "ast_to": 1.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "10869",
+          "side": "home",
+          "name": "基德",
+          "seconds": 2313,
+          "points": 22,
+          "usg": 20.15848878980012,
+          "eff": 29,
+          "assists": 4,
+          "turnovers": 1,
+          "ast_to": 4.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "103",
+          "side": "home",
+          "name": "忻沃克",
+          "seconds": 1136,
+          "points": 2,
+          "usg": 18.08897572322745,
+          "eff": 4,
+          "assists": 1,
+          "turnovers": 1,
+          "ast_to": 1.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "73",
+          "side": "home",
+          "name": "陳振傑",
+          "seconds": 1755,
+          "points": 16,
+          "usg": 17.83077480288636,
+          "eff": 24,
+          "assists": 2,
+          "turnovers": 1,
+          "ast_to": 2.0,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "106",
+          "side": "home",
+          "name": "高柏鎧",
+          "seconds": 2034,
+          "points": 8,
+          "usg": 11.384870814409297,
+          "eff": 14,
+          "assists": 1,
+          "turnovers": 2,
+          "ast_to": 0.5,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "89",
+          "side": "home",
+          "name": "蔣淯安",
+          "seconds": 2069,
+          "points": 12,
+          "usg": 11.192279959646456,
+          "eff": 20,
+          "assists": 7,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        },
+        {
+          "id": "91",
+          "side": "home",
+          "name": "簡偉儒",
+          "seconds": 547,
+          "points": 1,
+          "usg": 4.19528467482902,
+          "eff": 2,
+          "assists": 0,
+          "turnovers": 0,
+          "ast_to": null,
+          "potential_assists": null,
+          "passes_made": null,
+          "passes_received": null,
+          "secondary_assists": null,
+          "vorp": null
+        }
+      ],
+      "benchmark": {
+        "id": "17241",
+        "side": "away",
+        "name": "溫布許",
+        "seconds": 2464,
+        "points": 31,
+        "usg": 30.27879175695525,
+        "eff": 31,
+        "assists": 1,
+        "turnovers": 1,
+        "ast_to": 1.0,
+        "potential_assists": null,
+        "passes_made": null,
+        "passes_received": null,
+        "secondary_assists": null,
+        "vorp": null
+      },
+      "observation": {
+        "teams": {
+          "home": {
+            "ts": 57.03027789299046,
+            "fta_rate": 30.58823529411765,
+            "assisted_fg_pct": 51.21951219512195,
+            "ft_points_pct": 16.363636363636363,
+            "efg": 54.11764705882353,
+            "three_attempt_pct": 35.294117647058826,
+            "three_points_pct": 27.272727272727273,
+            "oreb_pct": 31.11111111111111,
+            "dreb_pct": 78.43137254901961,
+            "paint_points": 54,
+            "second_chance_points": 12,
+            "fast_break_points": 5,
+            "off_rating_est": 114.2263759086189,
+            "tov_pct_est": 14.537902388369679,
+            "source_counts": {
+              "points": 110,
+              "fgm": 41,
+              "fga": 85,
+              "three_made": 10,
+              "three_attempted": 30,
+              "ftm": 18,
+              "fta": 26,
+              "assists": 21,
+              "turnovers": 14,
+              "offensive_rebounds": 14,
+              "defensive_rebounds": 40
+            }
+          },
+          "away": {
+            "ts": 55.06381226842322,
+            "fta_rate": 15.384615384615385,
+            "assisted_fg_pct": 33.333333333333336,
+            "ft_points_pct": 8.411214953271028,
+            "efg": 53.84615384615385,
+            "three_attempt_pct": 39.56043956043956,
+            "three_points_pct": 39.25233644859813,
+            "oreb_pct": 21.568627450980394,
+            "dreb_pct": 68.88888888888889,
+            "paint_points": 48,
+            "second_chance_points": 10,
+            "fast_break_points": 17,
+            "off_rating_est": 111.11111111111111,
+            "tov_pct_est": 10.384215991692628,
+            "source_counts": {
+              "points": 107,
+              "fgm": 42,
+              "fga": 91,
+              "three_made": 14,
+              "three_attempted": 36,
+              "ftm": 9,
+              "fta": 14,
+              "assists": 14,
+              "turnovers": 10,
+              "offensive_rebounds": 11,
+              "defensive_rebounds": 31
+            }
+          }
+        },
+        "possessions_est": 96.3,
+        "regulation_minutes": 48,
+        "warnings": [],
+        "method": "回合為雙方(FGA−ORB＋TOV＋0.44×FTA)平均估計；不是官方逐回合或追蹤數據。TS%同樣使用0.44估計係數。"
+      },
+      "benchmark_method": "本場 EFF 最高且至少上場十分鐘的球員；EFF 是傳統綜合效率，不是整體能力排名。",
+      "tracking_status": "官網逐球沒有完整的傳球者、接球者與傳球鏈，潛在助攻、傳出／接球次數及次級助攻尚不可計算；不以助攻次數代替。",
+      "vorp_status": "尚無適用 TPBL、P+、B.LEAGUE 且完成驗證的 BPM 模型、替補基準與完整賽季球權資料，暫不計算 VORP；不把單場正負值當作 BPM。",
+      "ato": {
+        "records": [
+          {
+            "period": 1,
+            "timeout_sec": 358,
+            "timeout_side": "away",
+            "offense": null,
+            "defense": null,
+            "points": 0,
+            "turnovers": 0,
+            "finisher": null,
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "暫停後先出現籃板，無法確認新進攻回合起點"
+          },
+          {
+            "period": 1,
+            "timeout_sec": 154,
+            "timeout_side": "home",
+            "offense": null,
+            "defense": null,
+            "points": 0,
+            "turnovers": 0,
+            "finisher": null,
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "暫停後先出現籃板，無法確認新進攻回合起點"
+          },
+          {
+            "period": 2,
+            "timeout_sec": 184,
+            "timeout_side": "home",
+            "offense": "home",
+            "defense": "away",
+            "points": 3,
+            "turnovers": 0,
+            "finisher": "10869",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": true,
+            "defensive_success": false
+          },
+          {
+            "period": 3,
+            "timeout_sec": 488,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 0,
+            "turnovers": 0,
+            "finisher": "17239",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": false,
+            "defensive_success": true
+          },
+          {
+            "period": 4,
+            "timeout_sec": 610,
+            "timeout_side": "home",
+            "offense": "home",
+            "defense": "away",
+            "points": 3,
+            "turnovers": 0,
+            "finisher": "89",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": true,
+            "defensive_success": false
+          },
+          {
+            "period": 4,
+            "timeout_sec": 67,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 0,
+            "turnovers": 0,
+            "finisher": "17241",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": false,
+            "defensive_success": true
+          },
+          {
+            "period": 4,
+            "timeout_sec": 17,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 2,
+            "turnovers": 0,
+            "finisher": "54",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": true,
+            "defensive_success": false
+          },
+          {
+            "period": 4,
+            "timeout_sec": 6,
+            "timeout_side": "home",
+            "offense": null,
+            "defense": null,
+            "points": 0,
+            "turnovers": 0,
+            "finisher": null,
+            "inbounder": null,
+            "receiver": null,
+            "eligible": false,
+            "exclusion": "暫停後先出現罰球，無法確認新進攻回合起點"
+          },
+          {
+            "period": 4,
+            "timeout_sec": 5,
+            "timeout_side": "away",
+            "offense": "away",
+            "defense": "home",
+            "points": 0,
+            "turnovers": 0,
+            "finisher": "54",
+            "inbounder": null,
+            "receiver": null,
+            "eligible": true,
+            "exclusion": null,
+            "offensive_success": false,
+            "defensive_success": true
+          }
+        ],
+        "summary": [
+          {
+            "side": "home",
+            "attack_n": 2,
+            "attack_success": 2,
+            "defense_n": 4,
+            "defense_success": 3,
+            "points": 6,
+            "turnovers": 0
+          },
+          {
+            "side": "away",
+            "attack_n": 4,
+            "attack_success": 1,
+            "defense_n": 2,
+            "defense_success": 0,
+            "points": 2,
+            "turnovers": 0
+          }
+        ],
+        "excluded": 3,
+        "total": 9
       }
     }
   },
